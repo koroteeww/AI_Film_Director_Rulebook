@@ -98,3 +98,14 @@ Use curricula for public teaching objectives, original passages for attributed c
 | <a name="src-fuji-pers"></a> **SRC-FUJI-PERS** · Fujifilm · [Understanding Lens Compression](https://www.fujifilm-x.com/en-gb/learning-centre/understanding-lens-compression/) | Relative apparent sizes change with viewpoint. Long focal lengths can frame a far viewpoint tightly. Manufacturer educational article. |
 | <a name="src-nik-ap"></a> **SRC-NIK-AP** · Nikon · [Understanding Maximum Aperture](https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/understanding-maximum-aperture) | The guide explains acceptable sharpness around the focus distance and the effect of f-number at comparable settings. Optics background. Digital generators may only approximate the look. |
 
+## Staging and design
+
+| Source | Evidence and scope |
+| --- | --- |
+| <a name="src-afi-des"></a> **SRC-AFI-DES** · AFI Conservatory · [Production Design curriculum](https://conservatory.afi.com/production-design-curriculum/) | The course connects narrative and genre to design references, spatial models and collaborative review. Public course description. |
+| <a name="src-osu-mise"></a> **SRC-OSU-MISE** · Close-Ups: An Introduction to Film · [Mise en Scène Part 1: Setting, Design, Staging](https://ohiostate.pressbooks.pub/introfilm/chapter/mise-en-scene-part-1-setting-design-staging/) | The chapter distinguishes components of the visible scene and recognizes variation in definitions. Analytical introductory text. |
+| <a name="src-bord-cross"></a> **SRC-BORD-CROSS** · David Bordwell · [The Cross](https://www.davidbordwell.net/blog/2010/06/01/the-cross/) (2010) | Bordwell studies how moving bodies can alter emphasis, concealment and access to reaction in an unbroken frame. Close readings of individual scenes. |
+| <a name="src-hse-stage"></a> **SRC-HSE-STAGE** · НИУ ВШЭ · [Режиссерско-операторский практикум 2026 и 2027 учебного года](https://www.hse.ru/ma/kino/courses/1163514147.html) (2026) | The course relates мизансценирование to conflict, genre, tempo, actor and camera movement, space and light. Students practice with diagrams and staged mini-sequences. Academic-year label identifies the published course instance. |
+| <a name="src-bfi-adam"></a> **SRC-BFI-ADAM** · Ian Christie / Ken Adam · [Designing dreams and nightmares: Ken Adam on his finest sets](https://www.bfi.org.uk/sight-and-sound/news/designing-dreams-nightmares-ken-adam-his-finest-sets) | Adam explains how the room geometry, table, material and overhead light were developed together. A production case and an account of its design choices. |
+| <a name="src-hall-space"></a> **SRC-HALL-SPACE** · Edward T. Hall · [The Hidden Dimension](https://www.penguinrandomhouse.com/books/73818/the-hidden-dimension-by-edward-t-hall/) | Hall's work provides a route into how use of space can affect interpersonal and cross-cultural relations. Catalogue level. No numerical interpersonal zones are adopted. |
+

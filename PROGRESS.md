@@ -2,9 +2,9 @@
 
 | Checkpoint | Value |
 | --- | --- |
-| Current milestone | M05 · Mise-en-scène |
-| Last update | 2026-11-06 09:26, Asia/Qyzylorda (UTC+05:00) |
-| Prior confirmed commit | [ba51a132](https://github.com/koroteeww/AI_Film_Director_Rulebook/commit/ba51a132f937d4607f3d97893585c0f5f28715f1) |
+| Current milestone | M06 · Lighting and color |
+| Last update | 2026-11-06 09:30, Asia/Qyzylorda (UTC+05:00) |
+| Prior confirmed commit | [02c75825](https://github.com/koroteeww/AI_Film_Director_Rulebook/commit/02c7582506d10bf5e8ee1c47f4734bbd9a6f2a2b) |
 | Checkpoint commit | [Latest change to PROGRESS.md](https://github.com/koroteeww/AI_Film_Director_Rulebook/commits/main/PROGRESS.md) · `git log -1 --format=%H -- PROGRESS.md` |
 
 | Milestone | Status |
@@ -14,8 +14,8 @@
 | M02 · Dramaturgy | Complete |
 | M03 · Directing | Complete |
 | M04 · Cinematography | Complete |
-| M05 · Mise-en-scène | Next |
-| M06 · Lighting and color | Planned |
+| M05 · Mise-en-scène | Complete |
+| M06 · Lighting and color | Next |
 | M07 · Sound | Planned |
 | M08 · Montage and editing | Planned |
 | M09 · Seedance capabilities | Planned |
@@ -28,16 +28,16 @@
 
 ## Latest completed documents
 
-[Cinematography rulebook](rulebooks/03_cinematography.md) · [Rule catalog](rules/rule_catalog.yaml)
+[Mise-en-scène rulebook](rulebooks/04_mise_en_scene.md) · [Rule catalog](rules/rule_catalog.yaml)
 
 ## Research coverage
 
-49 rules across dramaturgy, directing and cinematography. M04 adds 18 camera, continuity and composition rules with optical and visual checks.
+61 cited rules across four domains. Twelve new rules describe the stage map, performance, design and state changes.
 
 ## Outstanding questions and limits
 
-The 180° and 30° rules are conventions. The motion and lens descriptions specify intended results, subject to footage inspection and provider controls.
+Spatial signals depend on story and culture. The chapter uses observable changes in distance, movement and access. The indexed VGIK course PDF redirected to a different document, so its course detail was excluded.
 
 ## Next action
 
-Research mise-en-scène and build spatial state, production design, and continuity checks that carry into the visual bible.
+Research lighting and color. Define source direction, quality, contrast and continuity for reference-frame generation.

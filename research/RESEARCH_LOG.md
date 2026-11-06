@@ -47,3 +47,9 @@ Actor rehearsal methods and motion prompting serve different operations. The rul
 Compared ACMI shot and movement materials, ASC placement and lens-distortion guides, the Fujifilm position comparison, Nikon aperture guidance, and Smith's account of continuity and attention. The sources distinguish framing from position, and a change in viewpoint from a change in field of view. Continuity conventions guide viewer orientation. Deliberate axis and angle changes can serve a different effect.
 
 Defined separate camera and subject instructions, including fixed-view rotation, translation, zoom, focus target and endpoint. The described optical effects need visual verification when a generative system offers only prompt-level controls.
+
+## M05 · Mise-en-scène · 2026-11-06
+
+Compared AFI production-design teaching, the Ohio State chapter, the Russian HSE workshop, Bordwell's close analysis of actor crossings, and Ken Adam's design interview. An indexed VGIK directing syllabus redirected to an unrelated file. Keep VGIK's verified roster in the school comparison and cite the HSE course for the workshop method.
+
+Staging can alter access, attention and power through position or movement. The visual-bible handoff records world state and the authorized delta for each beat. Numerical proxemics zones were outside the evidence needed for these contextual rules.
