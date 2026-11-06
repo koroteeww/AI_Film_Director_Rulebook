@@ -3,8 +3,8 @@
 | Checkpoint | Value |
 | --- | --- |
 | Current milestone | M15 · Consistency review complete |
-| Last update | 2026-11-06 10:11, Asia/Qyzylorda (UTC+05:00) |
-| Prior confirmed commit | [f2bcc207](https://github.com/koroteeww/AI_Film_Director_Rulebook/commit/f2bcc20755b8c0d174d2d0334095e4730588e9fb) |
+| Last update | 2026-11-06 11:15, Asia/Qyzylorda (UTC+05:00) |
+| Prior confirmed commit | [e8b4d854](https://github.com/koroteeww/AI_Film_Director_Rulebook/commit/e8b4d85445a0ede79976485970137454ce01f52c) |
 | Checkpoint commit | [Latest change to PROGRESS.md](https://github.com/koroteeww/AI_Film_Director_Rulebook/commits/main/PROGRESS.md) · `git log -1 --format=%H -- PROGRESS.md` |
 
 | Milestone | Status |
@@ -28,11 +28,11 @@
 
 ## Latest completed documents
 
-[AI Director system prompt](prompts/AI_DIRECTOR_SYSTEM_PROMPT.md) · [28 starter rules](rules/priority_rules.md) · [Complete rule catalog](rules/rule_catalog.yaml) · [Consistency review](quality/consistency_review.md)
+[AI Director system prompt](prompts/AI_DIRECTOR_SYSTEM_PROMPT.md) · [28 starter rules](rules/priority_rules.md) · [Rule catalog index](rules/rule_catalog.yaml) · [Consistency review](quality/consistency_review.md)
 
 ## Research coverage
 
-All 15 milestones are complete. The rulebook has 100 cited rules across seven domains, 126 source records, ten workflows, five Seedance profiles, 13 failure modes, four schemas, reusable prompts, and stage and release review.
+All 15 milestones are complete. The rulebook has 100 cited rules across seven domains, 126 source records, ten workflows, five Seedance profiles, 13 failure modes, four schemas, reusable prompts, and stage and release review. The catalog index points to a separate YAML file for each domain.
 
 ## Outstanding questions and limits
 

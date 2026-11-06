@@ -13,17 +13,17 @@ Give the LLM your original premise and the stage you want to work on. Use the [A
 
 ## Cinematic rulebooks
 
-| Domain | Rule IDs |
-| --- | --- |
-| [Dramaturgy and screenwriting](rulebooks/01_dramaturgy.md) | DRA-001–DRA-017 |
-| [Directing](rulebooks/02_directing.md) | DIR-001–DIR-014 |
-| [Cinematography and camera movement](rulebooks/03_cinematography.md) | CIN-CAM-001–CIN-CAM-018 |
-| [Mise-en-scène](rulebooks/04_mise_en_scene.md) | MIS-001–MIS-012 |
-| [Lighting and color](rulebooks/05_lighting_and_color.md) | LGT-001–LGT-012 |
-| [Sound design](rulebooks/06_sound_design.md) | SND-001–SND-013 |
-| [Montage and editing](rulebooks/07_montage_and_editing.md) | EDT-001–EDT-014 |
+| Domain | Rule IDs | YAML |
+| --- | --- | --- |
+| [Dramaturgy and screenwriting](rulebooks/01_dramaturgy.md) | DRA-001–DRA-017 | [YAML](rules/01_dramaturgy.yaml) |
+| [Directing](rulebooks/02_directing.md) | DIR-001–DIR-014 | [YAML](rules/02_directing.yaml) |
+| [Cinematography and camera movement](rulebooks/03_cinematography.md) | CIN-CAM-001–CIN-CAM-018 | [YAML](rules/03_cinematography.yaml) |
+| [Mise-en-scène](rulebooks/04_mise_en_scene.md) | MIS-001–MIS-012 | [YAML](rules/04_mise_en_scene.yaml) |
+| [Lighting and color](rulebooks/05_lighting_and_color.md) | LGT-001–LGT-012 | [YAML](rules/05_lighting_and_color.yaml) |
+| [Sound design](rulebooks/06_sound_design.md) | SND-001–SND-013 | [YAML](rules/06_sound_design.yaml) |
+| [Montage and editing](rulebooks/07_montage_and_editing.md) | EDT-001–EDT-014 | [YAML](rules/07_montage_and_editing.yaml) |
 
-The [YAML rule catalog](rules/rule_catalog.yaml) contains all 100 rules. The [bibliography](sources/bibliography.md) and [YAML source index](sources/source_index.yaml) record evidence, scope, and access limitations.
+The [YAML catalog index](rules/rule_catalog.yaml) maps rule ID prefixes to the seven domain files and defines the shared priority and confidence scales. Each domain file has a `rules` list. Open the domains you need, or combine their `rules` lists to load all 100 rules. The [bibliography](sources/bibliography.md) and [YAML source index](sources/source_index.yaml) record evidence, scope, and access limitations.
 
 ## Production guides
 

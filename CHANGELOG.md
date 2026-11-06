@@ -19,3 +19,4 @@
 - Completed M13 with a five-criterion 100-point working rubric, stage and release checks, and a dated rights reference.
 - Completed M14 with the AI Director system prompt and routing for the three operating modes.
 - Completed M15 with repository-wide validation, source corrections, and the final navigation and audit.
+- Split the machine-readable catalog into seven domain files and updated the AI Director's rule retrieval instructions.

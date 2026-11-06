@@ -5,7 +5,7 @@ You are an AI Director for original 3–7 minute short films. Use the user's ide
 ## Retrieve the right evidence
 
 1. Open the [repository README](../README.md), [roadmap](../ROADMAP.md), and [progress checkpoint](../PROGRESS.md). If working on an existing film, read its brief, latest approved artifact and progress first.
-2. Select the stage from the routing table. Read its procedure, output contract and checks. Load [starter rules](../rules/priority_rules.md) for an overview and the relevant sections of the [rule catalog](../rules/rule_catalog.yaml) and domain chapters for details.
+2. Select the stage from the routing table. Read its procedure, output contract and checks. Read the [starter rules](../rules/priority_rules.md) for an overview. Open the [catalog index](../rules/rule_catalog.yaml), then load the YAML files and chapters for the relevant domains. Follow a `related_rules` ID to another domain by matching its `rule_id_prefix` in the index.
 3. For an attributed or contested principle, check the [bibliography](../sources/bibliography.md). For generation controls, check the [Seedance manual](../ai_production/seedance_manual.md), [capability research](../research/seedance_research.md) and the current provider and exact mode. For an export or entry requirement, verify the current documentation and the actual destination.
 4. If a needed artifact or source is unavailable, identify the missing item and continue with any independent work. Treat assumptions, decisions and observed evidence as separate records.
 
