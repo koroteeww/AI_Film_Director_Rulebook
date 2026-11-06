@@ -1,0 +1,682 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/koroteeww/AI_Film_Director_Rulebook/main/schemas/generation_clip.schema.json",
+  "title": "Generation clip request and result",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "clip_id": {
+      "type": "string",
+      "pattern": "^CL-[0-9]{3,}$"
+    },
+    "shot_ids": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^SH-[0-9]{3,}$"
+      },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "provider": {
+      "type": "string",
+      "minLength": 1
+    },
+    "model": {
+      "type": "string",
+      "minLength": 1
+    },
+    "profile_id": {
+      "type": "string",
+      "pattern": "^[a-z][a-z0-9_]+$"
+    },
+    "capability_source_id": {
+      "type": "string",
+      "pattern": "^SRC-[A-Z0-9]+(?:-[A-Z0-9]+)*$"
+    },
+    "mode": {
+      "enum": [
+        "text",
+        "first_frame",
+        "first_last",
+        "reference",
+        "edit",
+        "extend"
+      ]
+    },
+    "planned_duration_s": {
+      "type": "number",
+      "exclusiveMinimum": 0,
+      "maximum": 30,
+      "description": "Planned length of generated material in this task. For extension, the added segment."
+    },
+    "duration_basis": {
+      "enum": [
+        "requested",
+        "auto",
+        "source_inherited",
+        "added_segment"
+      ]
+    },
+    "requested_duration_s": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 30
+    },
+    "long_clip_reason": {
+      "type": "string",
+      "minLength": 1
+    },
+    "fallback_plan": {
+      "type": "string",
+      "minLength": 1
+    },
+    "aspect_ratio": {
+      "type": "string",
+      "pattern": "^[1-9][0-9]*:[1-9][0-9]*$"
+    },
+    "resolution": {
+      "enum": [
+        "480p",
+        "720p",
+        "1080p",
+        "2k",
+        "4k",
+        "auto"
+      ]
+    },
+    "reference_assets": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "asset_id": {
+            "type": "string",
+            "pattern": "^AS-[0-9]{3,}$"
+          },
+          "kind": {
+            "enum": [
+              "image",
+              "video",
+              "audio"
+            ]
+          },
+          "role": {
+            "enum": [
+              "first_frame",
+              "last_frame",
+              "identity",
+              "wardrobe",
+              "location",
+              "prop",
+              "composition",
+              "light",
+              "motion",
+              "camera",
+              "style",
+              "voice",
+              "sound",
+              "source_clip",
+              "other"
+            ]
+          },
+          "binding": {
+            "type": "string",
+            "minLength": 1
+          },
+          "frame_id": {
+            "type": "string",
+            "pattern": "^FR-[0-9]{3,}$"
+          },
+          "media_duration_s": {
+            "type": "number",
+            "exclusiveMinimum": 0
+          }
+        },
+        "required": [
+          "asset_id",
+          "kind",
+          "role",
+          "binding"
+        ],
+        "allOf": [
+          {
+            "if": {
+              "properties": {
+                "role": {
+                  "enum": [
+                    "first_frame",
+                    "last_frame"
+                  ]
+                }
+              },
+              "required": [
+                "role"
+              ]
+            },
+            "then": {
+              "properties": {
+                "kind": {
+                  "const": "image"
+                }
+              }
+            }
+          },
+          {
+            "if": {
+              "properties": {
+                "role": {
+                  "const": "source_clip"
+                }
+              },
+              "required": [
+                "role"
+              ]
+            },
+            "then": {
+              "properties": {
+                "kind": {
+                  "const": "video"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "minItems": 0,
+      "uniqueItems": true
+    },
+    "prompt": {
+      "type": "string",
+      "minLength": 1
+    },
+    "initial_state": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "summary": {
+          "type": "string",
+          "minLength": 1
+        },
+        "asset_ids": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^AS-[0-9]{3,}$"
+          },
+          "minItems": 0,
+          "uniqueItems": true
+        },
+        "frame_ids": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^FR-[0-9]{3,}$"
+          },
+          "minItems": 0,
+          "uniqueItems": true
+        },
+        "invariants": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "minItems": 0,
+          "uniqueItems": true
+        },
+        "authorized_changes": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "minItems": 0,
+          "uniqueItems": true
+        }
+      },
+      "required": [
+        "summary"
+      ]
+    },
+    "final_state": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "summary": {
+          "type": "string",
+          "minLength": 1
+        },
+        "asset_ids": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^AS-[0-9]{3,}$"
+          },
+          "minItems": 0,
+          "uniqueItems": true
+        },
+        "frame_ids": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^FR-[0-9]{3,}$"
+          },
+          "minItems": 0,
+          "uniqueItems": true
+        },
+        "invariants": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "minItems": 0,
+          "uniqueItems": true
+        },
+        "authorized_changes": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "minItems": 0,
+          "uniqueItems": true
+        }
+      },
+      "required": [
+        "summary"
+      ]
+    },
+    "audio_plan": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "native_audio": {
+          "type": "boolean"
+        },
+        "cues": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "minItems": 0,
+          "uniqueItems": true
+        },
+        "replacement_plan": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "native_audio",
+        "cues"
+      ]
+    },
+    "result": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "status": {
+          "enum": [
+            "unreviewed",
+            "accepted",
+            "repair",
+            "regenerate",
+            "rejected"
+          ]
+        },
+        "output_asset_id": {
+          "type": "string",
+          "pattern": "^AS-[0-9]{3,}$"
+        },
+        "actual_duration_s": {
+          "type": "number",
+          "exclusiveMinimum": 0
+        },
+        "usable_in_s": {
+          "type": "number",
+          "minimum": 0
+        },
+        "usable_out_s": {
+          "type": "number",
+          "exclusiveMinimum": 0
+        },
+        "review_notes": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "minItems": 0,
+          "uniqueItems": true
+        }
+      },
+      "required": [
+        "status"
+      ],
+      "dependentRequired": {
+        "usable_in_s": [
+          "usable_out_s",
+          "actual_duration_s"
+        ],
+        "usable_out_s": [
+          "usable_in_s",
+          "actual_duration_s"
+        ]
+      }
+    }
+  },
+  "required": [
+    "clip_id",
+    "shot_ids",
+    "provider",
+    "model",
+    "mode",
+    "planned_duration_s",
+    "duration_basis",
+    "aspect_ratio",
+    "resolution",
+    "reference_assets",
+    "prompt",
+    "initial_state",
+    "final_state",
+    "audio_plan"
+  ],
+  "allOf": [
+    {
+      "if": {
+        "anyOf": [
+          {
+            "properties": {
+              "planned_duration_s": {
+                "exclusiveMinimum": 15
+              }
+            },
+            "required": [
+              "planned_duration_s"
+            ]
+          },
+          {
+            "properties": {
+              "requested_duration_s": {
+                "exclusiveMinimum": 15
+              }
+            },
+            "required": [
+              "requested_duration_s"
+            ]
+          }
+        ]
+      },
+      "then": {
+        "required": [
+          "profile_id",
+          "capability_source_id",
+          "long_clip_reason",
+          "fallback_plan"
+        ]
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "mode": {
+            "const": "text"
+          }
+        },
+        "required": [
+          "mode"
+        ]
+      },
+      "then": {
+        "properties": {
+          "reference_assets": {
+            "maxItems": 0
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "mode": {
+            "const": "reference"
+          }
+        },
+        "required": [
+          "mode"
+        ]
+      },
+      "then": {
+        "properties": {
+          "reference_assets": {
+            "minItems": 1
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "mode": {
+            "const": "first_frame"
+          }
+        },
+        "required": [
+          "mode"
+        ]
+      },
+      "then": {
+        "properties": {
+          "reference_assets": {
+            "contains": {
+              "properties": {
+                "kind": {
+                  "const": "image"
+                },
+                "role": {
+                  "const": "first_frame"
+                }
+              },
+              "required": [
+                "kind",
+                "role"
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "mode": {
+            "const": "first_last"
+          }
+        },
+        "required": [
+          "mode"
+        ]
+      },
+      "then": {
+        "properties": {
+          "reference_assets": {
+            "allOf": [
+              {
+                "contains": {
+                  "properties": {
+                    "kind": {
+                      "const": "image"
+                    },
+                    "role": {
+                      "const": "first_frame"
+                    }
+                  },
+                  "required": [
+                    "kind",
+                    "role"
+                  ]
+                }
+              },
+              {
+                "contains": {
+                  "properties": {
+                    "kind": {
+                      "const": "image"
+                    },
+                    "role": {
+                      "const": "last_frame"
+                    }
+                  },
+                  "required": [
+                    "kind",
+                    "role"
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "mode": {
+            "const": "edit"
+          }
+        },
+        "required": [
+          "mode"
+        ]
+      },
+      "then": {
+        "properties": {
+          "reference_assets": {
+            "contains": {
+              "properties": {
+                "kind": {
+                  "const": "video"
+                },
+                "role": {
+                  "const": "source_clip"
+                }
+              },
+              "required": [
+                "kind",
+                "role"
+              ]
+            }
+          },
+          "duration_basis": {
+            "const": "source_inherited"
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "mode": {
+            "const": "extend"
+          }
+        },
+        "required": [
+          "mode"
+        ]
+      },
+      "then": {
+        "properties": {
+          "reference_assets": {
+            "contains": {
+              "properties": {
+                "kind": {
+                  "const": "video"
+                },
+                "role": {
+                  "const": "source_clip"
+                }
+              },
+              "required": [
+                "kind",
+                "role"
+              ]
+            }
+          },
+          "duration_basis": {
+            "const": "added_segment"
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "duration_basis": {
+            "const": "requested"
+          }
+        },
+        "required": [
+          "duration_basis"
+        ]
+      },
+      "then": {
+        "required": [
+          "requested_duration_s"
+        ]
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "duration_basis": {
+            "enum": [
+              "auto",
+              "source_inherited"
+            ]
+          }
+        },
+        "required": [
+          "duration_basis"
+        ]
+      },
+      "then": {
+        "not": {
+          "required": [
+            "requested_duration_s"
+          ]
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "mode": {
+            "enum": [
+              "text",
+              "first_frame",
+              "first_last",
+              "reference"
+            ]
+          }
+        },
+        "required": [
+          "mode"
+        ]
+      },
+      "then": {
+        "properties": {
+          "duration_basis": {
+            "enum": [
+              "requested",
+              "auto"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

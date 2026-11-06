@@ -1,0 +1,302 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/koroteeww/AI_Film_Director_Rulebook/main/schemas/shot.schema.json",
+  "title": "Edited shot plan",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "shot_id": {
+      "type": "string",
+      "pattern": "^SH-[0-9]{3,}$"
+    },
+    "scene_id": {
+      "type": "string",
+      "pattern": "^SC-[0-9]{3,}$"
+    },
+    "beat_ids": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^BT-[0-9]{3,}$"
+      },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "purpose": {
+      "type": "string",
+      "minLength": 1
+    },
+    "estimated_duration_s": {
+      "type": "number",
+      "exclusiveMinimum": 0
+    },
+    "shot_size": {
+      "type": "string",
+      "minLength": 1
+    },
+    "camera": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "viewpoint": {
+          "type": "string",
+          "minLength": 1
+        },
+        "angle": {
+          "type": "string",
+          "minLength": 1
+        },
+        "lens_intent": {
+          "type": "string",
+          "minLength": 1
+        },
+        "focus": {
+          "type": "string",
+          "minLength": 1
+        },
+        "motion": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "type": {
+              "enum": [
+                "locked",
+                "pan",
+                "tilt",
+                "dolly",
+                "track",
+                "crane",
+                "orbit",
+                "zoom",
+                "handheld",
+                "compound"
+              ]
+            },
+            "path": {
+              "type": "string",
+              "minLength": 1
+            },
+            "trigger": {
+              "type": "string",
+              "minLength": 1
+            },
+            "endpoint": {
+              "type": "string",
+              "minLength": 1
+            },
+            "pace": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "required": [
+            "type",
+            "path",
+            "endpoint"
+          ]
+        }
+      },
+      "required": [
+        "viewpoint",
+        "angle",
+        "lens_intent",
+        "focus",
+        "motion"
+      ]
+    },
+    "composition": {
+      "type": "string",
+      "minLength": 1
+    },
+    "blocking": {
+      "type": "string",
+      "minLength": 1
+    },
+    "subject_motion": {
+      "type": "string",
+      "minLength": 1
+    },
+    "environment_motion": {
+      "type": "string",
+      "minLength": 1
+    },
+    "lighting": {
+      "type": "string",
+      "minLength": 1
+    },
+    "color": {
+      "type": "string",
+      "minLength": 1
+    },
+    "sound": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "minItems": 0,
+      "uniqueItems": true
+    },
+    "transition": {
+      "type": "string",
+      "minLength": 1
+    },
+    "continuity": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "entry_state": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "summary": {
+              "type": "string",
+              "minLength": 1
+            },
+            "asset_ids": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "pattern": "^AS-[0-9]{3,}$"
+              },
+              "minItems": 0,
+              "uniqueItems": true
+            },
+            "frame_ids": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "pattern": "^FR-[0-9]{3,}$"
+              },
+              "minItems": 0,
+              "uniqueItems": true
+            },
+            "invariants": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "minLength": 1
+              },
+              "minItems": 0,
+              "uniqueItems": true
+            },
+            "authorized_changes": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "minLength": 1
+              },
+              "minItems": 0,
+              "uniqueItems": true
+            }
+          },
+          "required": [
+            "summary"
+          ]
+        },
+        "exit_state": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "summary": {
+              "type": "string",
+              "minLength": 1
+            },
+            "asset_ids": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "pattern": "^AS-[0-9]{3,}$"
+              },
+              "minItems": 0,
+              "uniqueItems": true
+            },
+            "frame_ids": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "pattern": "^FR-[0-9]{3,}$"
+              },
+              "minItems": 0,
+              "uniqueItems": true
+            },
+            "invariants": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "minLength": 1
+              },
+              "minItems": 0,
+              "uniqueItems": true
+            },
+            "authorized_changes": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "minLength": 1
+              },
+              "minItems": 0,
+              "uniqueItems": true
+            }
+          },
+          "required": [
+            "summary"
+          ]
+        },
+        "axis_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "screen_direction": {
+          "type": "string",
+          "minLength": 1
+        },
+        "planned_discontinuity": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "entry_state",
+        "exit_state"
+      ]
+    },
+    "rule_ids": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^(DRA|DIR|CIN-CAM|MIS|LGT|SND|EDT)-[0-9]{3}$"
+      },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "frame_ids": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^FR-[0-9]{3,}$"
+      },
+      "minItems": 0,
+      "uniqueItems": true
+    }
+  },
+  "required": [
+    "shot_id",
+    "scene_id",
+    "beat_ids",
+    "purpose",
+    "estimated_duration_s",
+    "shot_size",
+    "camera",
+    "composition",
+    "blocking",
+    "subject_motion",
+    "environment_motion",
+    "lighting",
+    "color",
+    "sound",
+    "transition",
+    "continuity",
+    "rule_ids"
+  ]
+}

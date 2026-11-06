@@ -15,3 +15,4 @@
 - Completed M09 with versioned Seedance evidence, five machine-readable interface profiles, and a production manual.
 - Completed M10 with 13 generation failure patterns and an inspection, repair, and regeneration loop.
 - Completed M11 with ten stage contracts, an image continuity guide, and platform-aware CapCut instructions.
+- Completed M12 with reusable prompts, templates, and four JSON Schema contracts.

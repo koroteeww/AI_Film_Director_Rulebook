@@ -1,0 +1,217 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/koroteeww/AI_Film_Director_Rulebook/main/schemas/scene.schema.json",
+  "title": "Dramatic scene",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "scene_id": {
+      "type": "string",
+      "pattern": "^SC-[0-9]{3,}$"
+    },
+    "heading": {
+      "type": "string",
+      "minLength": 1
+    },
+    "purpose": {
+      "type": "string",
+      "minLength": 1
+    },
+    "location": {
+      "type": "string",
+      "minLength": 1
+    },
+    "time": {
+      "type": "string",
+      "minLength": 1
+    },
+    "character_ids": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^CH-[0-9]{3,}$"
+      },
+      "minItems": 0,
+      "uniqueItems": true
+    },
+    "prop_ids": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^PR-[0-9]{3,}$"
+      },
+      "minItems": 0,
+      "uniqueItems": true
+    },
+    "beat_ids": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^BT-[0-9]{3,}$"
+      },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "action_summary": {
+      "type": "string",
+      "minLength": 1
+    },
+    "emotion_in": {
+      "type": "string",
+      "minLength": 1
+    },
+    "emotion_out": {
+      "type": "string",
+      "minLength": 1
+    },
+    "estimated_duration_s": {
+      "type": "number",
+      "exclusiveMinimum": 0
+    },
+    "continuity": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "entry_state": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "summary": {
+              "type": "string",
+              "minLength": 1
+            },
+            "asset_ids": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "pattern": "^AS-[0-9]{3,}$"
+              },
+              "minItems": 0,
+              "uniqueItems": true
+            },
+            "frame_ids": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "pattern": "^FR-[0-9]{3,}$"
+              },
+              "minItems": 0,
+              "uniqueItems": true
+            },
+            "invariants": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "minLength": 1
+              },
+              "minItems": 0,
+              "uniqueItems": true
+            },
+            "authorized_changes": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "minLength": 1
+              },
+              "minItems": 0,
+              "uniqueItems": true
+            }
+          },
+          "required": [
+            "summary"
+          ]
+        },
+        "exit_state": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "summary": {
+              "type": "string",
+              "minLength": 1
+            },
+            "asset_ids": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "pattern": "^AS-[0-9]{3,}$"
+              },
+              "minItems": 0,
+              "uniqueItems": true
+            },
+            "frame_ids": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "pattern": "^FR-[0-9]{3,}$"
+              },
+              "minItems": 0,
+              "uniqueItems": true
+            },
+            "invariants": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "minLength": 1
+              },
+              "minItems": 0,
+              "uniqueItems": true
+            },
+            "authorized_changes": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "minLength": 1
+              },
+              "minItems": 0,
+              "uniqueItems": true
+            }
+          },
+          "required": [
+            "summary"
+          ]
+        },
+        "axis_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "screen_direction": {
+          "type": "string",
+          "minLength": 1
+        },
+        "planned_discontinuity": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "entry_state",
+        "exit_state"
+      ]
+    },
+    "sound_requirements": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "minItems": 0,
+      "uniqueItems": true
+    }
+  },
+  "required": [
+    "scene_id",
+    "heading",
+    "purpose",
+    "location",
+    "time",
+    "character_ids",
+    "prop_ids",
+    "beat_ids",
+    "action_summary",
+    "emotion_in",
+    "emotion_out",
+    "estimated_duration_s",
+    "continuity",
+    "sound_requirements"
+  ]
+}

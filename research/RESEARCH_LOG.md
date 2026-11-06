@@ -89,3 +89,9 @@ The production loop retains original takes and compares each revised output both
 Derived ten stage contracts from the rulebooks and the production evidence. Compared the Academy sample screenplay and public CapCut desktop, web and mobile guidance. Kept dramatic scene, finished shot and generation clip as separate records. The visual bible carries stable references while the planned frame and clip hold their specific state and intent.
 
 CapCut documents separate audio across surfaces, with distinct UI routes. The guide implements J/L edits through track timing. Desktop documentation describes Color match. Other builds can use manual reference comparisons. Caption and export options depend on platform and context. Local installations were not exercised.
+
+## M12 · Prompts and schemas · 2026-11-06
+
+Published six role prompts, eight fillable production templates, and four Draft 2020-12 schema files. Project references resolve within the schema directory. Stable IDs cover projects, scenes, beats, shots, frames, assets and generation clips. The generation record distinguishes planned duration, requested duration, inherited edit timing, an extension segment and observed trims.
+
+Ran 20 local keyword-level cases for valid and invalid records, including a 35-second scene, a 25-second shot, required endpoint assets, inherited edit timing, an extension segment and the documented long-clip fields. The runtime did not have a standalone JSON Schema validator. The tests exercised the keywords used with a local harness. Cross-record integrity and live provider restrictions are separate checks.

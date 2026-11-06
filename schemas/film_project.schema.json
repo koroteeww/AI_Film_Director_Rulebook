@@ -1,0 +1,127 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/koroteeww/AI_Film_Director_Rulebook/main/schemas/film_project.schema.json",
+  "title": "Film project",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "project_id": {
+      "type": "string",
+      "pattern": "^FP-[a-z0-9][a-z0-9-]{0,63}$"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "premise": {
+      "type": "string",
+      "minLength": 1
+    },
+    "authorship_notes": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "minItems": 0,
+      "uniqueItems": true
+    },
+    "creative_intent": {
+      "type": "string",
+      "minLength": 1
+    },
+    "target_runtime_s": {
+      "type": "integer",
+      "minimum": 180,
+      "maximum": 420
+    },
+    "aspect_ratio": {
+      "type": "string",
+      "pattern": "^[1-9][0-9]*:[1-9][0-9]*$"
+    },
+    "tone": {
+      "type": "string",
+      "minLength": 1
+    },
+    "genre": {
+      "type": "string",
+      "minLength": 1
+    },
+    "focal_character": {
+      "type": "string",
+      "minLength": 1
+    },
+    "dramatic_question": {
+      "type": "string",
+      "minLength": 1
+    },
+    "goal": {
+      "type": "string",
+      "minLength": 1
+    },
+    "stakes": {
+      "type": "string",
+      "minLength": 1
+    },
+    "constraints": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "minItems": 0,
+      "uniqueItems": true
+    },
+    "assumptions": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "minItems": 0,
+      "uniqueItems": true
+    },
+    "open_questions": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "minItems": 0,
+      "uniqueItems": true
+    },
+    "scenes": {
+      "type": "array",
+      "items": {
+        "$ref": "scene.schema.json"
+      },
+      "minItems": 0,
+      "uniqueItems": true
+    },
+    "shots": {
+      "type": "array",
+      "items": {
+        "$ref": "shot.schema.json"
+      },
+      "minItems": 0,
+      "uniqueItems": true
+    },
+    "generation_clips": {
+      "type": "array",
+      "items": {
+        "$ref": "generation_clip.schema.json"
+      },
+      "minItems": 0,
+      "uniqueItems": true
+    }
+  },
+  "required": [
+    "project_id",
+    "title",
+    "premise",
+    "creative_intent",
+    "target_runtime_s",
+    "aspect_ratio",
+    "authorship_notes"
+  ]
+}

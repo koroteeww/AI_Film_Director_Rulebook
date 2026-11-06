@@ -2,9 +2,9 @@
 
 | Checkpoint | Value |
 | --- | --- |
-| Current milestone | M12 · Prompts and schemas |
-| Last update | 2026-11-06 09:53, Asia/Qyzylorda (UTC+05:00) |
-| Prior confirmed commit | [447d3afa](https://github.com/koroteeww/AI_Film_Director_Rulebook/commit/447d3afab2dba66ef145a0fc8de1e49c3e79b0c3) |
+| Current milestone | M13 · Evaluation and QA |
+| Last update | 2026-11-06 09:59, Asia/Qyzylorda (UTC+05:00) |
+| Prior confirmed commit | [11f1894b](https://github.com/koroteeww/AI_Film_Director_Rulebook/commit/11f1894b278ab349a685b34e22dbe08e14d7aa20) |
 | Checkpoint commit | [Latest change to PROGRESS.md](https://github.com/koroteeww/AI_Film_Director_Rulebook/commits/main/PROGRESS.md) · `git log -1 --format=%H -- PROGRESS.md` |
 
 | Milestone | Status |
@@ -21,23 +21,23 @@
 | M09 · Seedance capabilities | Complete |
 | M10 · Generation failures | Complete |
 | M11 · Production workflow | Complete |
-| M12 · Prompts and schemas | Next |
-| M13 · Evaluation and QA | Planned |
+| M12 · Prompts and schemas | Complete |
+| M13 · Evaluation and QA | Next |
 | M14 · AI Director system prompt | Planned |
 | M15 · Consistency review | Planned |
 
 ## Latest completed documents
 
-[Ten workflow files](workflows) · [Image generation guide](ai_production/image_generation.md) · [CapCut editing and delivery](ai_production/capcut_workflow.md)
+[Six role prompts](prompts) · [Eight production templates](templates) · [Four JSON Schemas](schemas/README.md)
 
 ## Research coverage
 
-Each stage defines inputs, decisions, rules, output contract, reusable prompt, quality check, revision triggers and handoff. Added reference-sheet and frame selection guidance and a platform-aware CapCut workflow.
+The production schemas distinguish film project, dramatic scene, edited shot and generation clip. Prompts and templates use the same identifiers and state handoffs. A local check exercised 20 positive and negative cases.
 
 ## Outstanding questions and limits
 
-CapCut controls and export availability vary by release, account, browser, hardware and source. The guide records public documentation and a manual edit pattern. Local builds were not tested.
+The test harness exercised the schema keywords used and local references. A standalone Draft 2020-12 validator was unavailable in the runtime. Provider profile and cross-record checks remain separate from structural validation.
 
 ## Next action
 
-Publish role prompts, production templates and executable JSON Schemas. Check their examples and handoff compatibility.
+Build the 100-point review rubric, stage gates, continuity and export checks, and the evidence-backed rights and disclosure section.
