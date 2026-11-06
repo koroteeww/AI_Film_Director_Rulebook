@@ -83,3 +83,9 @@ Time-directed editing is documented separately from the reliability of requested
 Compared the reference-binding advice from Volcengine and Morphic, VBench's separate evaluation dimensions, EvalVerse's pipeline-oriented research, and the Oxford audiovisual lag research. The model's internal cause is generally unavailable from an artifact alone. The matrix therefore labels likely contributors and uses observable detections and reversible repairs.
 
 The production loop retains original takes and compares each revised output both by itself and in the cut. It records severity, source evidence, one changed variable per retry where practical, and a recovery decision.
+
+## M11 · End-to-end production workflow · 2026-11-06
+
+Derived ten stage contracts from the rulebooks and the production evidence. Compared the Academy sample screenplay and public CapCut desktop, web and mobile guidance. Kept dramatic scene, finished shot and generation clip as separate records. The visual bible carries stable references while the planned frame and clip hold their specific state and intent.
+
+CapCut documents separate audio across surfaces, with distinct UI routes. The guide implements J/L edits through track timing. Desktop documentation describes Color match. Other builds can use manual reference comparisons. Caption and export options depend on platform and context. Local installations were not exercised.
