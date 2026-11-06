@@ -2,9 +2,9 @@
 
 | Checkpoint | Value |
 | --- | --- |
-| Current milestone | M13 · Evaluation and QA |
-| Last update | 2026-11-06 09:59, Asia/Qyzylorda (UTC+05:00) |
-| Prior confirmed commit | [11f1894b](https://github.com/koroteeww/AI_Film_Director_Rulebook/commit/11f1894b278ab349a685b34e22dbe08e14d7aa20) |
+| Current milestone | M14 · AI Director system prompt |
+| Last update | 2026-11-06 10:05, Asia/Qyzylorda (UTC+05:00) |
+| Prior confirmed commit | [90bb0c47](https://github.com/koroteeww/AI_Film_Director_Rulebook/commit/90bb0c47990b0635e67e95fbae449c60280ad125) |
 | Checkpoint commit | [Latest change to PROGRESS.md](https://github.com/koroteeww/AI_Film_Director_Rulebook/commits/main/PROGRESS.md) · `git log -1 --format=%H -- PROGRESS.md` |
 
 | Milestone | Status |
@@ -22,22 +22,22 @@
 | M10 · Generation failures | Complete |
 | M11 · Production workflow | Complete |
 | M12 · Prompts and schemas | Complete |
-| M13 · Evaluation and QA | Next |
-| M14 · AI Director system prompt | Planned |
+| M13 · Evaluation and QA | Complete |
+| M14 · AI Director system prompt | Next |
 | M15 · Consistency review | Planned |
 
 ## Latest completed documents
 
-[Six role prompts](prompts) · [Eight production templates](templates) · [Four JSON Schemas](schemas/README.md)
+[100-point working rubric](quality/evaluation_rubric.md) · [Continuity checklist](quality/continuity_checklist.md) · [Finished-film checklist](quality/final_film_checklist.md) · [Rights and disclosure](quality/rights_and_disclosure.md)
 
 ## Research coverage
 
-The production schemas distinguish film project, dramatic scene, edited shot and generation clip. Prompts and templates use the same identifiers and state handoffs. A local check exercised 20 positive and negative cases.
+The five artistic dimensions have proposed weights and behavioral anchors. The chapter defines stage reviews, release gates and scoped legal, festival and provider references.
 
 ## Outstanding questions and limits
 
-The test harness exercised the schema keywords used and local references. A standalone Draft 2020-12 validator was unavailable in the runtime. Provider profile and cross-record checks remain separate from structural validation.
+The 100-point weights and readiness gate are working choices. Actual eligibility, rights and disclosure depend on the destination, edition, material and applicable law.
 
 ## Next action
 
-Build the 100-point review rubric, stage gates, continuity and export checks, and the evidence-backed rights and disclosure section.
+Write the AI Director system prompt and connect the three operating modes to retrieval, handoffs and the review gates.

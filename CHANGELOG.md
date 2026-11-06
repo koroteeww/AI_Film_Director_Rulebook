@@ -16,3 +16,4 @@
 - Completed M10 with 13 generation failure patterns and an inspection, repair, and regeneration loop.
 - Completed M11 with ten stage contracts, an image continuity guide, and platform-aware CapCut instructions.
 - Completed M12 with reusable prompts, templates, and four JSON Schema contracts.
+- Completed M13 with a five-criterion 100-point working rubric, stage and release checks, and a dated rights reference.

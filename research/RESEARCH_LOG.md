@@ -95,3 +95,9 @@ CapCut documents separate audio across surfaces, with distinct UI routes. The gu
 Published six role prompts, eight fillable production templates, and four Draft 2020-12 schema files. Project references resolve within the schema directory. Stable IDs cover projects, scenes, beats, shots, frames, assets and generation clips. The generation record distinguishes planned duration, requested duration, inherited edit timing, an extension segment and observed trims.
 
 Ran 20 local keyword-level cases for valid and invalid records, including a 35-second scene, a 25-second shot, required endpoint assets, inherited edit timing, an extension segment and the documented long-clip fields. The runtime did not have a standalone JSON Schema validator. The tests exercised the keywords used with a local harness. Cross-record integrity and live provider restrictions are separate checks.
+
+## M13 · Evaluation and quality assurance · 2026-11-06
+
+Compared official 2026 Runway and Reply materials. Their categories and entry requirements differ from the five project criteria. Set proposed rulebook weights of 30, 15, 20, 15 and 20 and kept eligibility and rights as separate release gates. Early-stage reviews use the available artifacts. A finished-film score requires actual evidence.
+
+Verified selected copyright, consent, music, and AI disclosure issues against government, statutory, WIPO, festival or provider materials. Checked Kazakhstan's official indexed AI law and the consolidated text, and kept Article 21 disclosure, machine-readable implementation and Article 23 authorship separate. Recorded examples with their scope and edition.
