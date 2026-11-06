@@ -2,9 +2,9 @@
 
 | Checkpoint | Value |
 | --- | --- |
-| Current milestone | M03 · Directing |
-| Last update | 2026-11-06 09:19, Asia/Qyzylorda (UTC+05:00) |
-| Prior confirmed commit | [e920c89a](https://github.com/koroteeww/AI_Film_Director_Rulebook/commit/e920c89ab2fafa32f9124e06a3f87dc8f6ae60c5) |
+| Current milestone | M04 · Cinematography |
+| Last update | 2026-11-06 09:22, Asia/Qyzylorda (UTC+05:00) |
+| Prior confirmed commit | [ff96a26a](https://github.com/koroteeww/AI_Film_Director_Rulebook/commit/ff96a26a0dd0a8ffe7bd7e910587129170ba4daf) |
 | Checkpoint commit | [Latest change to PROGRESS.md](https://github.com/koroteeww/AI_Film_Director_Rulebook/commits/main/PROGRESS.md) · `git log -1 --format=%H -- PROGRESS.md` |
 
 | Milestone | Status |
@@ -12,8 +12,8 @@
 | Step 0 · Initialization | Complete |
 | M01 · Film schools and bibliography | Complete |
 | M02 · Dramaturgy | Complete |
-| M03 · Directing | Next |
-| M04 · Cinematography | Planned |
+| M03 · Directing | Complete |
+| M04 · Cinematography | Next |
 | M05 · Mise-en-scène | Planned |
 | M06 · Lighting and color | Planned |
 | M07 · Sound | Planned |
@@ -28,16 +28,16 @@
 
 ## Latest completed documents
 
-[Dramaturgy rulebook](rulebooks/01_dramaturgy.md) · [Machine-readable catalog](rules/rule_catalog.yaml) · [Expanded bibliography](sources/bibliography.md)
+[Directing rulebook](rulebooks/02_directing.md) · [Machine-readable catalog](rules/rule_catalog.yaml)
 
 ## Research coverage
 
-17 dramaturgy rules with stable IDs, evidence, application, exceptions, and validation. The chapter compares story structures and provides adaptable 3-, 5- and 7-minute budgets. The evidence register contains 56 source records.
+31 cited rules across dramaturgy and directing, including 14 directing rules. The new sources include Weston's public teaching summary and Tarkovsky's 1967 essay in Russian.
 
 ## Outstanding questions and limits
 
-Timing allocations and scope bands are planning heuristics. Test them on a read or animatic. They do not predict the performance of any generator.
+The publisher sample for Weston's book returned 403. The chapter uses her public author summary for the specific tools. Translate actor methods into observable behavior and test it in context.
 
 ## Next action
 
-Use AFI's directing exercises, the acting traditions and available filmmaker sources to turn beats into performance, staging and motivated coverage.
+Research cinematography and camera movement. Verify optical and spatial mechanics separately from narrative effects.

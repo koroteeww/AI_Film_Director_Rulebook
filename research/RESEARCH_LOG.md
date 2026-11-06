@@ -35,3 +35,9 @@ Record curriculum, craft theory, original work, applied practitioner accounts, s
 Compared Aristotle's plot unity and reversal, McKee's scene exercise, Truby and Egri on motivation and resistance, Field and Vogler on structure, and the author interviews. Read Chekhov's letter in the academic chronicle and the available text of the play. Added Bordwell's discussion of Hitchcock's restricted and widened narration, a short-film teaching pack, and an official studio synopsis.
 
 The sources offer different purposes for a scene. McKee's change test is useful for dramatic progression. A durational or observational scene may contribute through attention, repetition or accumulated pressure. Landau and Vogler describe flexible structure. The runtime budgets, AI field mappings and validation tasks are rulebook adaptations. Actual shot lengths are a later editorial decision.
+
+## M03 · Directing and performance · 2026-11-06
+
+Read AFI course descriptions, Weston's own summary, Stanislavski's action chapter, the Michael Chekhov technique page, and the director accounts. Lumet describes staging after table work on one production. Tarkovsky's republished 1967 essay supports the contrast between duration within a shot and editorial assembly. BFI's Kurosawa analysis provides setting examples. The publisher-linked Weston sample returned 403, so use the author summary for specific tools.
+
+Actor rehearsal methods and motion prompting serve different operations. The rules retain intention and given circumstances in the scene plan and translate only the visible or audible behavior into the clip. The proposed coverage and timing checks require animatic or footage review.
