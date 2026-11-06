@@ -1,41 +1,42 @@
 # AI Film Director Rulebook
 
-A source-backed knowledge base for turning a user's original idea into a 3–7 minute AI short film. It connects dramatic intent to performance, staging, camera, lighting, sound, editing, and feasible generation instructions.
+A source-backed working manual for turning an original idea into a 3–7 minute AI short film. It connects story and emotional intent to direction, staging, camera, lighting, sound, generation and editing.
 
-## Start here
+## Start a film
 
-- [Research roadmap](ROADMAP.md) lists the deliverables and acceptance criteria for M01–M15.
-- [Progress](PROGRESS.md) shows the current checkpoint and the next action.
-- [Bibliography](sources/bibliography.md) and the [source index](sources/source_index.yaml) record what each source supports.
-- [Research log](research/RESEARCH_LOG.md) records decisions, open questions, and source limitations.
+Give the LLM your original premise and the stage you want to work on. Use the [AI Director system prompt](prompts/AI_DIRECTOR_SYSTEM_PROMPT.md) to route the work. It can help with a single stage or guide the full production.
 
-## How the rulebook is organized
+1. Start with the [28 starter rules](rules/priority_rules.md) and the relevant chapter below.
+2. Use the [ten workflows](workflows) to move from idea and screenplay through scenes, shots, storyboard, frames, Seedance, sound and CapCut.
+3. Prepare records with the [role prompts](prompts), [production templates](templates) and [JSON schemas](schemas/README.md).
+4. Review the cut with the [100-point working rubric](quality/evaluation_rubric.md), [continuity checklist](quality/continuity_checklist.md) and [release checks](quality/final_film_checklist.md).
 
-| Location | Use |
+## Cinematic rulebooks
+
+| Domain | Rule IDs |
 | --- | --- |
-| `research/` and `sources/` | Evidence, reading paths, and unresolved questions |
-| `rulebooks/` and `rules/` | Seven filmmaking domains and the machine-readable rule catalog |
-| `workflows/`, `prompts/`, `schemas/`, and `templates/` | Stage contracts, runnable instructions, and reusable production forms |
-| `ai_production/` and `quality/` | Model and editing guides, failure recovery, continuity and review |
-| `projects/` | User-authorized film projects |
+| [Dramaturgy and screenwriting](rulebooks/01_dramaturgy.md) | DRA-001–DRA-017 |
+| [Directing](rulebooks/02_directing.md) | DIR-001–DIR-014 |
+| [Cinematography and camera movement](rulebooks/03_cinematography.md) | CIN-CAM-001–CIN-CAM-018 |
+| [Mise-en-scène](rulebooks/04_mise_en_scene.md) | MIS-001–MIS-012 |
+| [Lighting and color](rulebooks/05_lighting_and_color.md) | LGT-001–LGT-012 |
+| [Sound design](rulebooks/06_sound_design.md) | SND-001–SND-013 |
+| [Montage and editing](rulebooks/07_montage_and_editing.md) | EDT-001–EDT-014 |
 
-Read the roadmap for planned files. Each milestone adds its deliverables as they are researched.
+The [YAML rule catalog](rules/rule_catalog.yaml) contains all 100 rules. The [bibliography](sources/bibliography.md) and [YAML source index](sources/source_index.yaml) record evidence, scope, and access limitations.
 
-## Production vocabulary
+## Production guides
 
-- A **scene** is a dramatic unit. It can contain several beats and shots.
-- A **beat** is a meaningful change in action, information, intention, or emotion.
-- A **shot** is one continuous view in the finished edit.
-- A **generation clip** is a model output. It may supply a shot, an excerpt, or several planned shots if the verified mode and edit support that design.
-- Plan generated clips at **15 seconds or less** as a working ceiling, subject to the selected interface. Verify any 30-second mode for its exact model, provider, and input mode. Plan shot length from the beat and the edit.
+- [Seedance 2.0 and 2.5 manual](ai_production/seedance_manual.md), [capability evidence](research/seedance_research.md), and [interface profiles](ai_production/seedance_profiles.yaml)
+- [Image generation](ai_production/image_generation.md), [continuity management](ai_production/continuity_management.md), and [13 failure modes](ai_production/failure_modes.md)
+- [CapCut workflow](ai_production/capcut_workflow.md) and [rights and disclosure](quality/rights_and_disclosure.md)
 
-Resolve story and emotional intent, then audience comprehension, dramatic continuity, cinematic expression, technical feasibility, and visual novelty. Label conventions and creative heuristics as such. Record intended exceptions and the effect they should have.
+A **scene** is a dramatic unit, a **beat** is a meaningful change, and a **shot** is a continuous view in the finished edit. A **generation clip** is the model's output, which can supply a shot, part of one, or several planned shots. Plan clips at **15 seconds or less** by default. Use a longer single generation only where the exact provider, model and mode are documented. Choose the finished shot length by its dramatic job.
 
-## Resume research
+## Research and maintenance
 
-1. Read this file, the roadmap, and the progress log. Inspect recent commits and any files you will change.
-2. Work on the next incomplete milestone and check sources in English and Russian where relevant. Give every substantive rule a stable ID, evidence, an AI adaptation, and a validation check.
-3. Commit each verified research batch and its progress update together. Use `main` when permitted. If branch protection requires a pull request, keep the work on a research branch and record its status.
-4. Update existing research when evidence changes. Preserve existing IDs and record material changes.
+Read the [roadmap](ROADMAP.md), [progress checkpoint](PROGRESS.md), [research log](research/RESEARCH_LOG.md), and [consistency review](quality/consistency_review.md) before changing the knowledge base. Use [open questions](research/open_questions.md) for bounded evidence gaps. Preserve stable IDs and update sources and progress with every research batch. Use `main` when permitted and a research branch and pull request when branch protection requires one.
 
-Begin a film only after the user supplies its premise. Use the repository's general knowledge independently of individual film projects.
+[Film-school comparison](research/film_schools.md) · [Hollywood and international traditions](research/hollywood_traditions.md) · [Russian and Soviet traditions](research/russian_soviet_traditions.md)
+
+Store user-authorized productions under [projects](projects/README.md) and keep private assets and permission records in suitable private storage.

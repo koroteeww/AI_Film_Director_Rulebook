@@ -20,7 +20,7 @@ Keep the relevant action, direction, time and relationships legible across the s
 
 **Origin.** Smith on continuity editing and attentional expectations. [SRC-SMITH-AT](../sources/bibliography.md#src-smith-at) · [SRC-SMITH-THESIS](../sources/bibliography.md#src-smith-thesis) · [SRC-ACMI-EDIT](../sources/bibliography.md#src-acmi-edit)
 
-**Related.** `EDT-002`, `EDT-004`, `EDT-008`, `EDT-014`, `CIN-CAM-004`, `MIS-012`
+**Related.** [EDT-002](07_montage_and_editing.md#edt-002), [EDT-004](07_montage_and_editing.md#edt-004), [EDT-008](07_montage_and_editing.md#edt-008), [EDT-014](07_montage_and_editing.md#edt-014), [CIN-CAM-004](03_cinematography.md#cin-cam-004), [MIS-012](04_mise_en_scene.md#mis-012)
 
 ### EDT-002
 
@@ -38,7 +38,7 @@ Align motion phases and choose the cut point that makes the action read as one c
 
 **Origin.** ACMI action cutting and Smith's attention account. [SRC-ACMI-EDIT](../sources/bibliography.md#src-acmi-edit) · [SRC-SMITH-AT](../sources/bibliography.md#src-smith-at)
 
-**Related.** `EDT-001`, `EDT-003`, `EDT-004`, `EDT-009`, `CIN-CAM-007`, `SND-005`
+**Related.** [EDT-001](07_montage_and_editing.md#edt-001), [EDT-003](07_montage_and_editing.md#edt-003), [EDT-004](07_montage_and_editing.md#edt-004), [EDT-009](07_montage_and_editing.md#edt-009), [CIN-CAM-007](03_cinematography.md#cin-cam-007), [SND-005](06_sound_design.md#snd-005)
 
 ### EDT-003
 
@@ -56,7 +56,7 @@ Compare candidate cuts for emotional truth, story contribution, rhythm, eye trac
 
 **Origin.** Walter Murch's Rule of Six. [SRC-MURCH-SIX](../sources/bibliography.md#src-murch-six) · [SRC-SMITH-AT](../sources/bibliography.md#src-smith-at)
 
-**Related.** `EDT-001`, `EDT-002`, `EDT-004`, `EDT-012`, `EDT-014`, `DIR-012`
+**Related.** [EDT-001](07_montage_and_editing.md#edt-001), [EDT-002](07_montage_and_editing.md#edt-002), [EDT-004](07_montage_and_editing.md#edt-004), [EDT-012](07_montage_and_editing.md#edt-012), [EDT-014](07_montage_and_editing.md#edt-014), [DIR-012](02_directing.md#dir-012)
 
 ### EDT-004
 
@@ -74,7 +74,7 @@ Decide where the audience is likely looking at the outgoing cut, where it should
 
 **Origin.** Murch on rhythm and eye trace and Smith's attentional account. [SRC-MURCH-SIX](../sources/bibliography.md#src-murch-six) · [SRC-SMITH-AT](../sources/bibliography.md#src-smith-at) · [SRC-BLOCK-VIS](../sources/bibliography.md#src-block-vis)
 
-**Related.** `EDT-001`, `EDT-003`, `EDT-006`, `EDT-010`, `EDT-012`, `CIN-CAM-008`
+**Related.** [EDT-001](07_montage_and_editing.md#edt-001), [EDT-003](07_montage_and_editing.md#edt-003), [EDT-006](07_montage_and_editing.md#edt-006), [EDT-010](07_montage_and_editing.md#edt-010), [EDT-012](07_montage_and_editing.md#edt-012), [CIN-CAM-008](03_cinematography.md#cin-cam-008)
 
 ### EDT-005
 
@@ -92,7 +92,7 @@ Pair a reaction, space or gesture with a context shot and test what new meaning 
 
 **Origin.** Kuleshov tradition and modern bounded replication. [SRC-KUL-TEST](../sources/bibliography.md#src-kul-test) · [SRC-SMITH-AT](../sources/bibliography.md#src-smith-at) · [SRC-EIS-FORM](../sources/bibliography.md#src-eis-form)
 
-**Related.** `EDT-004`, `EDT-006`, `EDT-007`, `EDT-014`, `DIR-007`
+**Related.** [EDT-004](07_montage_and_editing.md#edt-004), [EDT-006](07_montage_and_editing.md#edt-006), [EDT-007](07_montage_and_editing.md#edt-007), [EDT-014](07_montage_and_editing.md#edt-014), [DIR-007](02_directing.md#dir-007)
 
 ### EDT-006
 
@@ -110,7 +110,7 @@ Use shot duration, movement, dominant affect, interacting qualities or conceptua
 
 **Origin.** Eisenstein's Methods of Montage and Pudovkin's discussion of contrast. [SRC-EIS-FORM](../sources/bibliography.md#src-eis-form) · [SRC-PUD-FILM](../sources/bibliography.md#src-pud-film) · [SRC-EIS-BFI](../sources/bibliography.md#src-eis-bfi)
 
-**Related.** `EDT-004`, `EDT-005`, `EDT-007`, `EDT-010`, `EDT-012`, `EDT-013`
+**Related.** [EDT-004](07_montage_and_editing.md#edt-004), [EDT-005](07_montage_and_editing.md#edt-005), [EDT-007](07_montage_and_editing.md#edt-007), [EDT-010](07_montage_and_editing.md#edt-010), [EDT-012](07_montage_and_editing.md#edt-012), [EDT-013](07_montage_and_editing.md#edt-013)
 
 ### EDT-007
 
@@ -128,7 +128,7 @@ Select details that let the viewer reconstruct an event or compare two actions. 
 
 **Origin.** Pudovkin's own discussion and Cameron's analysis. [SRC-PUD-FILM](../sources/bibliography.md#src-pud-film) · [SRC-PUD-STUDY](../sources/bibliography.md#src-pud-study) · [SRC-ACMI-EDIT](../sources/bibliography.md#src-acmi-edit)
 
-**Related.** `EDT-005`, `EDT-006`, `EDT-008`, `EDT-009`, `EDT-013`, `CIN-CAM-018`
+**Related.** [EDT-005](07_montage_and_editing.md#edt-005), [EDT-006](07_montage_and_editing.md#edt-006), [EDT-008](07_montage_and_editing.md#edt-008), [EDT-009](07_montage_and_editing.md#edt-009), [EDT-013](07_montage_and_editing.md#edt-013), [CIN-CAM-018](03_cinematography.md#cin-cam-018)
 
 ### EDT-008
 
@@ -146,7 +146,7 @@ When alternating strands, specify whether they are simultaneous, causally ordere
 
 **Origin.** Pudovkin's parallel and simultaneous examples, applied to editing. [SRC-PUD-FILM](../sources/bibliography.md#src-pud-film) · [SRC-PUD-STUDY](../sources/bibliography.md#src-pud-study)
 
-**Related.** `EDT-001`, `EDT-005`, `EDT-006`, `EDT-007`, `EDT-009`
+**Related.** [EDT-001](07_montage_and_editing.md#edt-001), [EDT-005](07_montage_and_editing.md#edt-005), [EDT-006](07_montage_and_editing.md#edt-006), [EDT-007](07_montage_and_editing.md#edt-007), [EDT-009](07_montage_and_editing.md#edt-009)
 
 ### EDT-009
 
@@ -164,7 +164,7 @@ Omit intervals that viewers can reconstruct. Give the next shot a readable chang
 
 **Origin.** ACMI's condensing-time lesson and Aristotle's plot unity. [SRC-ACMI-EDIT](../sources/bibliography.md#src-acmi-edit) · [SRC-ARIS-POE](../sources/bibliography.md#src-aris-poe)
 
-**Related.** `EDT-001`, `EDT-002`, `EDT-008`, `EDT-011`, `DRA-015`
+**Related.** [EDT-001](07_montage_and_editing.md#edt-001), [EDT-002](07_montage_and_editing.md#edt-002), [EDT-008](07_montage_and_editing.md#edt-008), [EDT-011](07_montage_and_editing.md#edt-011), [DRA-015](01_dramaturgy.md#dra-015)
 
 ### EDT-010
 
@@ -182,7 +182,7 @@ Match a visual feature, gesture, rhythm or sound across the cut when similarity 
 
 **Origin.** Film education examples of graphic matching and sound-bridge practice. [SRC-BPB-MATCH](../sources/bibliography.md#src-bpb-match) · [SRC-ACMI-EDIT](../sources/bibliography.md#src-acmi-edit) · [SRC-ADOBE-JL](../sources/bibliography.md#src-adobe-jl)
 
-**Related.** `EDT-004`, `EDT-006`, `EDT-008`, `EDT-009`, `EDT-014`, `SND-009`
+**Related.** [EDT-004](07_montage_and_editing.md#edt-004), [EDT-006](07_montage_and_editing.md#edt-006), [EDT-008](07_montage_and_editing.md#edt-008), [EDT-009](07_montage_and_editing.md#edt-009), [EDT-014](07_montage_and_editing.md#edt-014), [SND-009](06_sound_design.md#snd-009)
 
 ### EDT-011
 
@@ -200,7 +200,7 @@ Expose a discontinuity between similar views when a visible jump should express 
 
 **Origin.** ACMI's jump-cut lesson and BFI's Breathless example. [SRC-ACMI-EDIT](../sources/bibliography.md#src-acmi-edit) · [SRC-BFI-BREATH](../sources/bibliography.md#src-bfi-breath)
 
-**Related.** `EDT-002`, `EDT-004`, `EDT-009`, `EDT-012`, `CIN-CAM-006`
+**Related.** [EDT-002](07_montage_and_editing.md#edt-002), [EDT-004](07_montage_and_editing.md#edt-004), [EDT-009](07_montage_and_editing.md#edt-009), [EDT-012](07_montage_and_editing.md#edt-012), [CIN-CAM-006](03_cinematography.md#cin-cam-006)
 
 ### EDT-012
 
@@ -218,7 +218,7 @@ Try holding through a complete behavioral, spatial or sonic change. Cut when att
 
 **Origin.** Tarkovsky's observation and recorded time, in dialogue with Murch's timing concern. [SRC-TARK-ESSAY](../sources/bibliography.md#src-tark-essay) · [SRC-TARK-TIME](../sources/bibliography.md#src-tark-time) · [SRC-MURCH-SIX](../sources/bibliography.md#src-murch-six)
 
-**Related.** `EDT-003`, `EDT-004`, `EDT-006`, `EDT-011`, `EDT-013`, `DIR-012`
+**Related.** [EDT-003](07_montage_and_editing.md#edt-003), [EDT-004](07_montage_and_editing.md#edt-004), [EDT-006](07_montage_and_editing.md#edt-006), [EDT-011](07_montage_and_editing.md#edt-011), [EDT-013](07_montage_and_editing.md#edt-013), [DIR-012](02_directing.md#dir-012)
 
 ### EDT-013
 
@@ -236,7 +236,7 @@ Group observed actions, processes or textures around a pattern the sequence can 
 
 **Origin.** Vertov's Kino-Eye tradition and the BFI film account. [SRC-VERT-LEF](../sources/bibliography.md#src-vert-lef) · [SRC-VERT-KINO](../sources/bibliography.md#src-vert-kino) · [SRC-BFI-VERT](../sources/bibliography.md#src-bfi-vert)
 
-**Related.** `EDT-005`, `EDT-006`, `EDT-007`, `EDT-012`, `DRA-016`
+**Related.** [EDT-005](07_montage_and_editing.md#edt-005), [EDT-006](07_montage_and_editing.md#edt-006), [EDT-007](07_montage_and_editing.md#edt-007), [EDT-012](07_montage_and_editing.md#edt-012), [DRA-016](01_dramaturgy.md#dra-016)
 
 ### EDT-014
 
@@ -254,7 +254,7 @@ Design the last cue of one scene and the first cue of the next as one transition
 
 **Origin.** Murch's emotion and story priorities plus split-edit practice. [SRC-MURCH-SIX](../sources/bibliography.md#src-murch-six) · [SRC-ADOBE-JL](../sources/bibliography.md#src-adobe-jl) · [SRC-ACMI-EDIT](../sources/bibliography.md#src-acmi-edit)
 
-**Related.** `EDT-001`, `EDT-003`, `EDT-005`, `EDT-008`, `EDT-010`, `SND-009`, `DRA-017`
+**Related.** [EDT-001](07_montage_and_editing.md#edt-001), [EDT-003](07_montage_and_editing.md#edt-003), [EDT-005](07_montage_and_editing.md#edt-005), [EDT-008](07_montage_and_editing.md#edt-008), [EDT-010](07_montage_and_editing.md#edt-010), [SND-009](06_sound_design.md#snd-009), [DRA-017](01_dramaturgy.md#dra-017)
 
 ## Compare the editing traditions
 

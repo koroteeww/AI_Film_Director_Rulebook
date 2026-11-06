@@ -2,9 +2,9 @@
 
 | Checkpoint | Value |
 | --- | --- |
-| Current milestone | M15 · Consistency review |
-| Last update | 2026-11-06 10:06, Asia/Qyzylorda (UTC+05:00) |
-| Prior confirmed commit | [bf83f09b](https://github.com/koroteeww/AI_Film_Director_Rulebook/commit/bf83f09bd7ce874c741a5082f934bb8472894b56) |
+| Current milestone | M15 · Consistency review complete |
+| Last update | 2026-11-06 10:11, Asia/Qyzylorda (UTC+05:00) |
+| Prior confirmed commit | [f2bcc207](https://github.com/koroteeww/AI_Film_Director_Rulebook/commit/f2bcc20755b8c0d174d2d0334095e4730588e9fb) |
 | Checkpoint commit | [Latest change to PROGRESS.md](https://github.com/koroteeww/AI_Film_Director_Rulebook/commits/main/PROGRESS.md) · `git log -1 --format=%H -- PROGRESS.md` |
 
 | Milestone | Status |
@@ -24,20 +24,20 @@
 | M12 · Prompts and schemas | Complete |
 | M13 · Evaluation and QA | Complete |
 | M14 · AI Director system prompt | Complete |
-| M15 · Consistency review | Next |
+| M15 · Consistency review | Complete |
 
 ## Latest completed documents
 
-[AI Director system prompt](prompts/AI_DIRECTOR_SYSTEM_PROMPT.md)
+[AI Director system prompt](prompts/AI_DIRECTOR_SYSTEM_PROMPT.md) · [28 starter rules](rules/priority_rules.md) · [Complete rule catalog](rules/rule_catalog.yaml) · [Consistency review](quality/consistency_review.md)
 
 ## Research coverage
 
-The system prompt connects screenwriter, film director and AI production supervisor modes to stage routing, rule retrieval, artifact contracts, continuity, review, authorship and project persistence.
+All 15 milestones are complete. The rulebook has 100 cited rules across seven domains, 126 source records, ten workflows, five Seedance profiles, 13 failure modes, four schemas, reusable prompts, and stage and release review.
 
 ## Outstanding questions and limits
 
-The prompt requires an original user premise for a new film and uses observed production evidence for footage judgments. Generation and export remain account- and tool-specific.
+Provider capabilities are documented from public sources. Account availability, generation behavior and CapCut exports require production testing. Schema cases were exercised with the local keyword-level harness. Source access gaps are documented.
 
 ## Next action
 
-Audit repository structure, links, rule and source IDs, schema and workflow alignment, and the final entry path.
+When the user supplies an original premise, start the [idea development workflow](workflows/01_idea_development.md) or route to the requested stage using the [AI Director prompt](prompts/AI_DIRECTOR_SYSTEM_PROMPT.md).

@@ -22,7 +22,7 @@ Mark whether a cue belongs to the story world, comes from outside it, or intenti
 
 **Origin.** Film sound analysis and Chion's audiovisual framework. [SRC-OSU-SOUND](../sources/bibliography.md#src-osu-sound) · [SRC-CHION-AV](../sources/bibliography.md#src-chion-av) · [SRC-THOM-SND](../sources/bibliography.md#src-thom-snd)
 
-**Related.** `SND-007`, `SND-008`, `SND-010`
+**Related.** [SND-007](06_sound_design.md#snd-007), [SND-008](06_sound_design.md#snd-008), [SND-010](06_sound_design.md#snd-010)
 
 ### SND-002
 
@@ -40,7 +40,7 @@ Keep story-critical words and the intended performance readable. Make room throu
 
 **Origin.** Chion's discussion of voice and practical dialogue mixing guidance. [SRC-CHION-NOTE](../sources/bibliography.md#src-chion-note) · [SRC-ADOBE-ROOM](../sources/bibliography.md#src-adobe-room) · [SRC-THOM-SND](../sources/bibliography.md#src-thom-snd)
 
-**Related.** `SND-001`, `SND-003`, `SND-007`, `SND-012`, `SND-013`
+**Related.** [SND-001](06_sound_design.md#snd-001), [SND-003](06_sound_design.md#snd-003), [SND-007](06_sound_design.md#snd-007), [SND-012](06_sound_design.md#snd-012), [SND-013](06_sound_design.md#snd-013)
 
 ### SND-003
 
@@ -58,7 +58,7 @@ Select a coherent voice performance and align visible speech, breaths, gaps and 
 
 **Origin.** Film sound practice adapted to separate generations. [SRC-ADOBE-ROOM](../sources/bibliography.md#src-adobe-room) · [SRC-THOM-SND](../sources/bibliography.md#src-thom-snd) · [SRC-ADOBE-JL](../sources/bibliography.md#src-adobe-jl)
 
-**Related.** `SND-002`, `SND-004`, `SND-007`, `SND-009`, `SND-013`, `DIR-007`
+**Related.** [SND-002](06_sound_design.md#snd-002), [SND-004](06_sound_design.md#snd-004), [SND-007](06_sound_design.md#snd-007), [SND-009](06_sound_design.md#snd-009), [SND-013](06_sound_design.md#snd-013), [DIR-007](02_directing.md#dir-007)
 
 ### SND-004
 
@@ -76,7 +76,7 @@ Build a scene bed with consistent ambience or room tone. Make shifts deliberate 
 
 **Origin.** Adobe's room-tone guidance and sound-design practice. [SRC-ADOBE-ROOM](../sources/bibliography.md#src-adobe-room) · [SRC-ADOBE-SFX](../sources/bibliography.md#src-adobe-sfx) · [SRC-THOM-SND](../sources/bibliography.md#src-thom-snd)
 
-**Related.** `SND-003`, `SND-007`, `SND-009`, `SND-011`, `SND-013`
+**Related.** [SND-003](06_sound_design.md#snd-003), [SND-007](06_sound_design.md#snd-007), [SND-009](06_sound_design.md#snd-009), [SND-011](06_sound_design.md#snd-011), [SND-013](06_sound_design.md#snd-013)
 
 ### SND-005
 
@@ -94,7 +94,7 @@ Perform, select or synthesize action sounds that match timing, weight, material 
 
 **Origin.** Adobe's practitioner explanation of Foley. [SRC-ADOBE-SFX](../sources/bibliography.md#src-adobe-sfx) · [SRC-CHION-AV](../sources/bibliography.md#src-chion-av)
 
-**Related.** `SND-004`, `SND-006`, `SND-007`, `SND-013`, `MIS-007`
+**Related.** [SND-004](06_sound_design.md#snd-004), [SND-006](06_sound_design.md#snd-006), [SND-007](06_sound_design.md#snd-007), [SND-013](06_sound_design.md#snd-013), [MIS-007](04_mise_en_scene.md#mis-007)
 
 ### SND-006
 
@@ -112,7 +112,7 @@ Choose or design effects by the event they identify, imply or stylize. Distingui
 
 **Origin.** Sound-effects practice and Chion's audiovisual relationship. [SRC-ADOBE-SFX](../sources/bibliography.md#src-adobe-sfx) · [SRC-CHION-AV](../sources/bibliography.md#src-chion-av) · [SRC-THOM-SND](../sources/bibliography.md#src-thom-snd)
 
-**Related.** `SND-005`, `SND-007`, `SND-008`, `SND-010`, `SND-012`
+**Related.** [SND-005](06_sound_design.md#snd-005), [SND-007](06_sound_design.md#snd-007), [SND-008](06_sound_design.md#snd-008), [SND-010](06_sound_design.md#snd-010), [SND-012](06_sound_design.md#snd-012)
 
 ### SND-007
 
@@ -130,7 +130,7 @@ Choose what the audience hears from a listener's position or from a deliberately
 
 **Origin.** Thom's sound-centered point of view, with practical spatial cues. [SRC-THOM-SND](../sources/bibliography.md#src-thom-snd) · [SRC-CHION-AV](../sources/bibliography.md#src-chion-av) · [SRC-ADOBE-ROOM](../sources/bibliography.md#src-adobe-room)
 
-**Related.** `SND-001`, `SND-002`, `SND-004`, `SND-008`, `SND-009`, `DIR-002`
+**Related.** [SND-001](06_sound_design.md#snd-001), [SND-002](06_sound_design.md#snd-002), [SND-004](06_sound_design.md#snd-004), [SND-008](06_sound_design.md#snd-008), [SND-009](06_sound_design.md#snd-009), [DIR-002](02_directing.md#dir-002)
 
 ### SND-008
 
@@ -148,7 +148,7 @@ Give an unseen sound a plausible source or deliberate ambiguity. Decide who noti
 
 **Origin.** Thom and a close reading of Chekhov's off-stage cues. [SRC-THOM-SND](../sources/bibliography.md#src-thom-snd) · [SRC-CHEK-PLAY](../sources/bibliography.md#src-chek-play) · [SRC-CHION-AV](../sources/bibliography.md#src-chion-av)
 
-**Related.** `SND-001`, `SND-006`, `SND-007`, `SND-009`, `SND-011`, `DIR-007`
+**Related.** [SND-001](06_sound_design.md#snd-001), [SND-006](06_sound_design.md#snd-006), [SND-007](06_sound_design.md#snd-007), [SND-009](06_sound_design.md#snd-009), [SND-011](06_sound_design.md#snd-011), [DIR-007](02_directing.md#dir-007)
 
 ### SND-009
 
@@ -166,7 +166,7 @@ Use a J-cut to introduce the incoming cue ahead of its picture. Use an L-cut to 
 
 **Origin.** Adobe's split-edit definitions and the rulebook's scene assembly method. [SRC-ADOBE-JL](../sources/bibliography.md#src-adobe-jl) · [SRC-THOM-SND](../sources/bibliography.md#src-thom-snd)
 
-**Related.** `SND-003`, `SND-004`, `SND-007`, `SND-008`, `SND-013`, `DIR-014`
+**Related.** [SND-003](06_sound_design.md#snd-003), [SND-004](06_sound_design.md#snd-004), [SND-007](06_sound_design.md#snd-007), [SND-008](06_sound_design.md#snd-008), [SND-013](06_sound_design.md#snd-013), [DIR-014](02_directing.md#dir-014)
 
 ### SND-010
 
@@ -184,7 +184,7 @@ Decide whether music supports, counters, paces or reinterprets a beat. Choose wh
 
 **Origin.** Chion on audiovisual perception and Thom on writing for sound. [SRC-CHION-AV](../sources/bibliography.md#src-chion-av) · [SRC-CHION-NOTE](../sources/bibliography.md#src-chion-note) · [SRC-THOM-SND](../sources/bibliography.md#src-thom-snd)
 
-**Related.** `SND-001`, `SND-002`, `SND-007`, `SND-009`, `SND-011`, `SND-012`
+**Related.** [SND-001](06_sound_design.md#snd-001), [SND-002](06_sound_design.md#snd-002), [SND-007](06_sound_design.md#snd-007), [SND-009](06_sound_design.md#snd-009), [SND-011](06_sound_design.md#snd-011), [SND-012](06_sound_design.md#snd-012)
 
 ### SND-011
 
@@ -202,7 +202,7 @@ Decide what remains audible, what falls away, and why the space or inner perspec
 
 **Origin.** Chekhov's staged silence and Thom's sound-design approach. [SRC-CHEK-PLAY](../sources/bibliography.md#src-chek-play) · [SRC-THOM-SND](../sources/bibliography.md#src-thom-snd) · [SRC-CHION-AV](../sources/bibliography.md#src-chion-av)
 
-**Related.** `SND-004`, `SND-007`, `SND-008`, `SND-010`, `SND-012`, `DRA-014`
+**Related.** [SND-004](06_sound_design.md#snd-004), [SND-007](06_sound_design.md#snd-007), [SND-008](06_sound_design.md#snd-008), [SND-010](06_sound_design.md#snd-010), [SND-012](06_sound_design.md#snd-012), [DRA-014](01_dramaturgy.md#dra-014)
 
 ### SND-012
 
@@ -220,7 +220,7 @@ Treat integrated loudness, loudness range and true peak as different measurement
 
 **Origin.** EBU R 128 measurement terms and Adobe dialogue practice. [SRC-EBU-R128](../sources/bibliography.md#src-ebu-r128) · [SRC-ADOBE-ROOM](../sources/bibliography.md#src-adobe-room)
 
-**Related.** `SND-002`, `SND-004`, `SND-010`, `SND-011`, `SND-013`
+**Related.** [SND-002](06_sound_design.md#snd-002), [SND-004](06_sound_design.md#snd-004), [SND-010](06_sound_design.md#snd-010), [SND-011](06_sound_design.md#snd-011), [SND-013](06_sound_design.md#snd-013)
 
 ### SND-013
 
@@ -238,7 +238,7 @@ Keep the final audio plan on an editable timeline. Retain native clip audio only
 
 **Origin.** Rulebook integration of the sound categories, ambience and split editing. [SRC-ADOBE-ROOM](../sources/bibliography.md#src-adobe-room) · [SRC-ADOBE-SFX](../sources/bibliography.md#src-adobe-sfx) · [SRC-ADOBE-JL](../sources/bibliography.md#src-adobe-jl) · [SRC-THOM-SND](../sources/bibliography.md#src-thom-snd)
 
-**Related.** `SND-002`, `SND-003`, `SND-004`, `SND-005`, `SND-007`, `SND-009`, `SND-012`
+**Related.** [SND-002](06_sound_design.md#snd-002), [SND-003](06_sound_design.md#snd-003), [SND-004](06_sound_design.md#snd-004), [SND-005](06_sound_design.md#snd-005), [SND-007](06_sound_design.md#snd-007), [SND-009](06_sound_design.md#snd-009), [SND-012](06_sound_design.md#snd-012)
 
 ## Assemble a scene from independent clips
 

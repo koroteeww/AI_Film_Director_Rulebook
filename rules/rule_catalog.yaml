@@ -1119,7 +1119,7 @@ rules:
     type: "technical_constraint"
     priority: 1
     origin: "ASC Light Quality 101 and ARRI hard/soft examples."
-    principle: "At a given subject position, a larger apparent source produces a wider shadow-edge transition. A small apparent source produces sharper shadows."
+    principle: "With the subject and shadow-receiving surface geometry held fixed, a larger apparent source produces a wider shadow-edge transition. A small apparent source produces sharper shadows."
     why_it_works: "Shadow-edge quality changes texture, form and the feel of a space independently of brightness."
     when_to_apply: "Specifying sun, diffuse sky, windows, bounce and fabric texture."
     when_to_break: "Mixed hard and soft components can be intentional. Give each a separate source and effect."

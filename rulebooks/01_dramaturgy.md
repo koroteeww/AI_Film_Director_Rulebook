@@ -22,7 +22,7 @@ Organize the film around one consequential action, relationship change or inquir
 
 **Origin.** Aristotle's account of plot unity, applied to the short form. [SRC-ARIS-POE](../sources/bibliography.md#src-aris-poe) · [SRC-NYU-GRAD](../sources/bibliography.md#src-nyu-grad)
 
-**Related.** `DRA-006`, `DRA-015`
+**Related.** [DRA-006](01_dramaturgy.md#dra-006), [DRA-015](01_dramaturgy.md#dra-015)
 
 ### DRA-002
 
@@ -40,7 +40,7 @@ Give each major beat a cause and a consequence. Use plausibility within the film
 
 **Origin.** Aristotle on probable or necessary sequence, with a short-film application. [SRC-ARIS-POE](../sources/bibliography.md#src-aris-poe) · [SRC-FILTA-BLACK](../sources/bibliography.md#src-filta-black)
 
-**Related.** `DRA-001`, `DRA-007`, `DRA-009`
+**Related.** [DRA-001](01_dramaturgy.md#dra-001), [DRA-007](01_dramaturgy.md#dra-007), [DRA-009](01_dramaturgy.md#dra-009)
 
 ### DRA-003
 
@@ -58,7 +58,7 @@ Give the character a concrete pursuit, a reason to pursue it and, if the premise
 
 **Origin.** Truby's distinction between desire and need, with Egri's emphasis on behavior. [SRC-TRUB-TALK](../sources/bibliography.md#src-trub-talk) · [SRC-EGRI-ART](../sources/bibliography.md#src-egri-art) · [SRC-PIX-PIPER](../sources/bibliography.md#src-pix-piper)
 
-**Related.** `DRA-004`, `DRA-005`, `DRA-016`
+**Related.** [DRA-004](01_dramaturgy.md#dra-004), [DRA-005](01_dramaturgy.md#dra-005), [DRA-016](01_dramaturgy.md#dra-016)
 
 ### DRA-004
 
@@ -76,7 +76,7 @@ Make the pursuit meet resistance and change the cost, options, information or ta
 
 **Origin.** Egri on conflict arising from character and Truby on opponents. [SRC-EGRI-ART](../sources/bibliography.md#src-egri-art) · [SRC-TRUB-TALK](../sources/bibliography.md#src-trub-talk) · [SRC-PIX-PIPER](../sources/bibliography.md#src-pix-piper)
 
-**Related.** `DRA-002`, `DRA-003`, `DRA-006`
+**Related.** [DRA-002](01_dramaturgy.md#dra-002), [DRA-003](01_dramaturgy.md#dra-003), [DRA-006](01_dramaturgy.md#dra-006)
 
 ### DRA-005
 
@@ -94,7 +94,7 @@ Give a scene an objective and a discernible change in knowledge, leverage, relat
 
 **Origin.** McKee's scene-value exercise, broadened for observational and tonal work. [SRC-MCK-TURN](../sources/bibliography.md#src-mck-turn) · [SRC-AFI-DIR](../sources/bibliography.md#src-afi-dir)
 
-**Related.** `DRA-003`, `DRA-006`, `DRA-015`
+**Related.** [DRA-003](01_dramaturgy.md#dra-003), [DRA-006](01_dramaturgy.md#dra-006), [DRA-015](01_dramaturgy.md#dra-015)
 
 ### DRA-006
 
@@ -112,7 +112,7 @@ Give the viewer something specific to wonder about and update the answer as circ
 
 **Origin.** Landau's discussion of anticipation, adapted to short-film planning. [SRC-LAND-TALK](../sources/bibliography.md#src-land-talk) · [SRC-BORD-BOMB](../sources/bibliography.md#src-bord-bomb)
 
-**Related.** `DRA-001`, `DRA-005`, `DRA-010`, `DRA-017`
+**Related.** [DRA-001](01_dramaturgy.md#dra-001), [DRA-005](01_dramaturgy.md#dra-005), [DRA-010](01_dramaturgy.md#dra-010), [DRA-017](01_dramaturgy.md#dra-017)
 
 ### DRA-007
 
@@ -130,7 +130,7 @@ Let a significant choice reveal change, failure to change, or a principle tested
 
 **Origin.** Truby on weakness and need and Aristotle on recognition, with an optional stable arc. [SRC-TRUB-TALK](../sources/bibliography.md#src-trub-talk) · [SRC-ARIS-POE](../sources/bibliography.md#src-aris-poe)
 
-**Related.** `DRA-002`, `DRA-003`, `DRA-005`, `DRA-017`
+**Related.** [DRA-002](01_dramaturgy.md#dra-002), [DRA-003](01_dramaturgy.md#dra-003), [DRA-005](01_dramaturgy.md#dra-005), [DRA-017](01_dramaturgy.md#dra-017)
 
 ### DRA-008
 
@@ -148,7 +148,7 @@ If framing, repetition, sound or dialogue presents a detail as consequential, pl
 
 **Origin.** Anton Chekhov's advice on a monologue that creates a promise, applied to screen emphasis. [SRC-CHEK-GUN](../sources/bibliography.md#src-chek-gun) · [SRC-CHEK-CHR](../sources/bibliography.md#src-chek-chr) · [SRC-CHEK-PLAY](../sources/bibliography.md#src-chek-play)
 
-**Related.** `DRA-002`, `DRA-009`, `DRA-015`
+**Related.** [DRA-002](01_dramaturgy.md#dra-002), [DRA-009](01_dramaturgy.md#dra-009), [DRA-015](01_dramaturgy.md#dra-015)
 
 ### DRA-009
 
@@ -166,7 +166,7 @@ Prepare a turn with evidence the audience can reinterpret once it has the missin
 
 **Origin.** Aristotle on reversal and recognition, with Chekhov's treatment of expectation. [SRC-ARIS-POE](../sources/bibliography.md#src-aris-poe) · [SRC-CHEK-GUN](../sources/bibliography.md#src-chek-gun)
 
-**Related.** `DRA-002`, `DRA-008`, `DRA-010`
+**Related.** [DRA-002](01_dramaturgy.md#dra-002), [DRA-008](01_dramaturgy.md#dra-008), [DRA-010](01_dramaturgy.md#dra-010)
 
 ### DRA-010
 
@@ -184,7 +184,7 @@ Choose which story facts the viewer and each key character have at each beat. De
 
 **Origin.** Hitchcock's illustration and Bordwell's analysis of narration, extended to a beat ledger. [SRC-BORD-BOMB](../sources/bibliography.md#src-bord-bomb) · [SRC-LAND-TALK](../sources/bibliography.md#src-land-talk)
 
-**Related.** `DRA-006`, `DRA-009`, `DRA-012`
+**Related.** [DRA-006](01_dramaturgy.md#dra-006), [DRA-009](01_dramaturgy.md#dra-009), [DRA-012](01_dramaturgy.md#dra-012)
 
 ### DRA-011
 
@@ -202,7 +202,7 @@ Give essential information through behavior, an object being used, environmental
 
 **Origin.** Hitchcock's AFI master class and NYU's visual exercise. [SRC-HITCH-AFI](../sources/bibliography.md#src-hitch-afi) · [SRC-NYU-GRAD](../sources/bibliography.md#src-nyu-grad)
 
-**Related.** `DRA-005`, `DRA-012`, `DRA-013`, `DRA-015`
+**Related.** [DRA-005](01_dramaturgy.md#dra-005), [DRA-012](01_dramaturgy.md#dra-012), [DRA-013](01_dramaturgy.md#dra-013), [DRA-015](01_dramaturgy.md#dra-015)
 
 ### DRA-012
 
@@ -220,7 +220,7 @@ Give the character a reason to avoid saying something directly. Let the line and
 
 **Origin.** A close reading of Anton Chekhov's play, combined with actor-oriented scene work. [SRC-CHEK-PLAY](../sources/bibliography.md#src-chek-play) · [SRC-AFI-DIR](../sources/bibliography.md#src-afi-dir)
 
-**Related.** `DRA-003`, `DRA-005`, `DRA-010`, `DRA-013`, `DRA-014`
+**Related.** [DRA-003](01_dramaturgy.md#dra-003), [DRA-005](01_dramaturgy.md#dra-005), [DRA-010](01_dramaturgy.md#dra-010), [DRA-013](01_dramaturgy.md#dra-013), [DRA-014](01_dramaturgy.md#dra-014)
 
 ### DRA-013
 
@@ -238,7 +238,7 @@ Keep dialogue that pursues, conceals, changes, specifies or gives a character an
 
 **Origin.** Hitchcock on action-bearing exposition and the NYU sync-sound exercise, adapted to script revision. [SRC-HITCH-AFI](../sources/bibliography.md#src-hitch-afi) · [SRC-NYU-GRAD](../sources/bibliography.md#src-nyu-grad) · [SRC-CHEK-PLAY](../sources/bibliography.md#src-chek-play)
 
-**Related.** `DRA-011`, `DRA-012`, `DRA-014`, `DRA-015`
+**Related.** [DRA-011](01_dramaturgy.md#dra-011), [DRA-012](01_dramaturgy.md#dra-012), [DRA-014](01_dramaturgy.md#dra-014), [DRA-015](01_dramaturgy.md#dra-015)
 
 ### DRA-014
 
@@ -256,7 +256,7 @@ Specify what happens in a pause, what the audience can hear and what ends the si
 
 **Origin.** The silence and recurring off-screen sound in The Cherry Orchard, applied to film. [SRC-CHEK-PLAY](../sources/bibliography.md#src-chek-play) · [SRC-NYU-GRAD](../sources/bibliography.md#src-nyu-grad)
 
-**Related.** `DRA-005`, `DRA-012`, `DRA-013`, `DRA-017`
+**Related.** [DRA-005](01_dramaturgy.md#dra-005), [DRA-012](01_dramaturgy.md#dra-012), [DRA-013](01_dramaturgy.md#dra-013), [DRA-017](01_dramaturgy.md#dra-017)
 
 ### DRA-015
 
@@ -274,7 +274,7 @@ Spend runtime on actions that change the story or how the audience experiences i
 
 **Origin.** Aristotle's unity test and NYU's limited-scope projects, adapted to short production. [SRC-ARIS-POE](../sources/bibliography.md#src-aris-poe) · [SRC-NYU-GRAD](../sources/bibliography.md#src-nyu-grad) · [SRC-MCK-TURN](../sources/bibliography.md#src-mck-turn)
 
-**Related.** `DRA-001`, `DRA-005`, `DRA-011`, `DRA-016`
+**Related.** [DRA-001](01_dramaturgy.md#dra-001), [DRA-005](01_dramaturgy.md#dra-005), [DRA-011](01_dramaturgy.md#dra-011), [DRA-016](01_dramaturgy.md#dra-016)
 
 ### DRA-016
 
@@ -292,7 +292,7 @@ Use a structure when it clarifies the intended action or emotion. Compare one al
 
 **Origin.** Field, Campbell, Vogler, Landau and rulebook synthesis for shorts. [SRC-FIELD-CASE](../sources/bibliography.md#src-field-case) · [SRC-CAMP-HERO](../sources/bibliography.md#src-camp-hero) · [SRC-VOGL-TALK](../sources/bibliography.md#src-vogl-talk) · [SRC-LAND-TALK](../sources/bibliography.md#src-land-talk)
 
-**Related.** `DRA-001`, `DRA-006`, `DRA-007`, `DRA-015`
+**Related.** [DRA-001](01_dramaturgy.md#dra-001), [DRA-006](01_dramaturgy.md#dra-006), [DRA-007](01_dramaturgy.md#dra-007), [DRA-015](01_dramaturgy.md#dra-015)
 
 ### DRA-017
 
@@ -310,7 +310,7 @@ Show the outcome of the governing action, or make the intended uncertainty perce
 
 **Origin.** Aristotle on completeness and a close reading of the final sound cues in The Cherry Orchard. [SRC-ARIS-POE](../sources/bibliography.md#src-aris-poe) · [SRC-CHEK-PLAY](../sources/bibliography.md#src-chek-play) · [SRC-LAND-TALK](../sources/bibliography.md#src-land-talk)
 
-**Related.** `DRA-002`, `DRA-006`, `DRA-007`, `DRA-008`, `DRA-014`
+**Related.** [DRA-002](01_dramaturgy.md#dra-002), [DRA-006](01_dramaturgy.md#dra-006), [DRA-007](01_dramaturgy.md#dra-007), [DRA-008](01_dramaturgy.md#dra-008), [DRA-014](01_dramaturgy.md#dra-014)
 
 ## Structure selection
 

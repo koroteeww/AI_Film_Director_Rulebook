@@ -20,7 +20,7 @@ Draw entrances, exits, anchors, obstacles and visibility before positioning came
 
 **Origin.** HSE staging practice and AFI concept modeling. [SRC-HSE-STAGE](../sources/bibliography.md#src-hse-stage) · [SRC-AFI-DES](../sources/bibliography.md#src-afi-des)
 
-**Related.** `MIS-004`, `MIS-005`, `MIS-010`, `MIS-012`, `CIN-CAM-003`
+**Related.** [MIS-004](04_mise_en_scene.md#mis-004), [MIS-005](04_mise_en_scene.md#mis-005), [MIS-010](04_mise_en_scene.md#mis-010), [MIS-012](04_mise_en_scene.md#mis-012), [CIN-CAM-003](03_cinematography.md#cin-cam-003)
 
 ### MIS-002
 
@@ -38,7 +38,7 @@ Change distance, angle of approach, access or boundary crossing when it reveals 
 
 **Origin.** Proxemics and scene staging as interpreted in the rulebook. [SRC-HALL-SPACE](../sources/bibliography.md#src-hall-space) · [SRC-OSU-MISE](../sources/bibliography.md#src-osu-mise) · [SRC-BORD-CROSS](../sources/bibliography.md#src-bord-cross)
 
-**Related.** `MIS-001`, `MIS-003`, `MIS-004`, `MIS-011`, `DIR-003`
+**Related.** [MIS-001](04_mise_en_scene.md#mis-001), [MIS-003](04_mise_en_scene.md#mis-003), [MIS-004](04_mise_en_scene.md#mis-004), [MIS-011](04_mise_en_scene.md#mis-011), [DIR-003](02_directing.md#dir-003)
 
 ### MIS-003
 
@@ -56,7 +56,7 @@ Express power through access to the center, height, exits, barriers, seating, gr
 
 **Origin.** Bordwell on blocking and Ken Adam's design account. [SRC-BORD-CROSS](../sources/bibliography.md#src-bord-cross) · [SRC-BFI-ADAM](../sources/bibliography.md#src-bfi-adam) · [SRC-HSE-STAGE](../sources/bibliography.md#src-hse-stage)
 
-**Related.** `MIS-002`, `MIS-004`, `MIS-006`, `MIS-010`, `DIR-013`
+**Related.** [MIS-002](04_mise_en_scene.md#mis-002), [MIS-004](04_mise_en_scene.md#mis-004), [MIS-006](04_mise_en_scene.md#mis-006), [MIS-010](04_mise_en_scene.md#mis-010), [DIR-013](02_directing.md#dir-013)
 
 ### MIS-004
 
@@ -74,7 +74,7 @@ Set torso, head, gaze, hands and feet in relation to the action and the other pe
 
 **Origin.** Bordwell's blocking analysis and actor-oriented performance work. [SRC-BORD-CROSS](../sources/bibliography.md#src-bord-cross) · [SRC-WEST-TOOLS](../sources/bibliography.md#src-west-tools) · [SRC-SMITH-THESIS](../sources/bibliography.md#src-smith-thesis)
 
-**Related.** `MIS-001`, `MIS-002`, `MIS-005`, `MIS-011`, `MIS-012`, `CIN-CAM-005`
+**Related.** [MIS-001](04_mise_en_scene.md#mis-001), [MIS-002](04_mise_en_scene.md#mis-002), [MIS-005](04_mise_en_scene.md#mis-005), [MIS-011](04_mise_en_scene.md#mis-011), [MIS-012](04_mise_en_scene.md#mis-012), [CIN-CAM-005](03_cinematography.md#cin-cam-005)
 
 ### MIS-005
 
@@ -92,7 +92,7 @@ Define the boundary, movement vector, on-screen time, and state before entering 
 
 **Origin.** Smith's discussion of entrances and exits, applied to staging. [SRC-SMITH-AT](../sources/bibliography.md#src-smith-at) · [SRC-BORD-CROSS](../sources/bibliography.md#src-bord-cross)
 
-**Related.** `MIS-001`, `MIS-004`, `MIS-010`, `MIS-012`, `CIN-CAM-004`, `CIN-CAM-007`
+**Related.** [MIS-001](04_mise_en_scene.md#mis-001), [MIS-004](04_mise_en_scene.md#mis-004), [MIS-010](04_mise_en_scene.md#mis-010), [MIS-012](04_mise_en_scene.md#mis-012), [CIN-CAM-004](03_cinematography.md#cin-cam-004), [CIN-CAM-007](03_cinematography.md#cin-cam-007)
 
 ### MIS-006
 
@@ -110,7 +110,7 @@ Choose a small number of spatial features, materials and signs of use that expre
 
 **Origin.** AFI visual development and Adam's account of set design. [SRC-AFI-DES](../sources/bibliography.md#src-afi-des) · [SRC-OSU-MISE](../sources/bibliography.md#src-osu-mise) · [SRC-BFI-ADAM](../sources/bibliography.md#src-bfi-adam)
 
-**Related.** `MIS-001`, `MIS-003`, `MIS-007`, `MIS-008`, `MIS-009`
+**Related.** [MIS-001](04_mise_en_scene.md#mis-001), [MIS-003](04_mise_en_scene.md#mis-003), [MIS-007](04_mise_en_scene.md#mis-007), [MIS-008](04_mise_en_scene.md#mis-008), [MIS-009](04_mise_en_scene.md#mis-009)
 
 ### MIS-007
 
@@ -128,7 +128,7 @@ Identify the props that change action or reveal information. Track holder, locat
 
 **Origin.** Chekhov on emphasis and film design practice, extended into continuity tracking. [SRC-CHEK-GUN](../sources/bibliography.md#src-chek-gun) · [SRC-OSU-MISE](../sources/bibliography.md#src-osu-mise) · [SRC-AFI-DES](../sources/bibliography.md#src-afi-des)
 
-**Related.** `MIS-005`, `MIS-006`, `MIS-009`, `MIS-012`, `DRA-008`, `CIN-CAM-007`
+**Related.** [MIS-005](04_mise_en_scene.md#mis-005), [MIS-006](04_mise_en_scene.md#mis-006), [MIS-009](04_mise_en_scene.md#mis-009), [MIS-012](04_mise_en_scene.md#mis-012), [DRA-008](01_dramaturgy.md#dra-008), [CIN-CAM-007](03_cinematography.md#cin-cam-007)
 
 ### MIS-008
 
@@ -146,7 +146,7 @@ Specify silhouette, materials, palette, layers, accessories, wear and changes th
 
 **Origin.** Film studies on costume and AFI visual-development practice. [SRC-OSU-MISE](../sources/bibliography.md#src-osu-mise) · [SRC-AFI-DES](../sources/bibliography.md#src-afi-des) · [SRC-GIKIT-PLAN](../sources/bibliography.md#src-gikit-plan)
 
-**Related.** `MIS-006`, `MIS-007`, `MIS-011`, `MIS-012`
+**Related.** [MIS-006](04_mise_en_scene.md#mis-006), [MIS-007](04_mise_en_scene.md#mis-007), [MIS-011](04_mise_en_scene.md#mis-011), [MIS-012](04_mise_en_scene.md#mis-012)
 
 ### MIS-009
 
@@ -164,7 +164,7 @@ Give important wind, rain, machinery or background activity a direction, cause a
 
 **Origin.** Hitchcock on the possibilities of the setting and BFI on Kurosawa's weather. [SRC-HITCH-AFI](../sources/bibliography.md#src-hitch-afi) · [SRC-KURO-WEATH](../sources/bibliography.md#src-kuro-weath) · [SRC-HSE-STAGE](../sources/bibliography.md#src-hse-stage)
 
-**Related.** `MIS-006`, `MIS-007`, `MIS-010`, `MIS-012`, `DIR-011`
+**Related.** [MIS-006](04_mise_en_scene.md#mis-006), [MIS-007](04_mise_en_scene.md#mis-007), [MIS-010](04_mise_en_scene.md#mis-010), [MIS-012](04_mise_en_scene.md#mis-012), [DIR-011](02_directing.md#dir-011)
 
 ### MIS-010
 
@@ -182,7 +182,7 @@ Use bodies, walls, props or focus to control what is hidden, when it becomes vis
 
 **Origin.** Bordwell's analysis of actor crossings and staging in depth. [SRC-BORD-CROSS](../sources/bibliography.md#src-bord-cross) · [SRC-OSU-MISE](../sources/bibliography.md#src-osu-mise) · [SRC-HSE-STAGE](../sources/bibliography.md#src-hse-stage)
 
-**Related.** `MIS-001`, `MIS-003`, `MIS-005`, `MIS-009`, `CIN-CAM-009`, `DIR-009`
+**Related.** [MIS-001](04_mise_en_scene.md#mis-001), [MIS-003](04_mise_en_scene.md#mis-003), [MIS-005](04_mise_en_scene.md#mis-005), [MIS-009](04_mise_en_scene.md#mis-009), [CIN-CAM-009](03_cinematography.md#cin-cam-009), [DIR-009](02_directing.md#dir-009)
 
 ### MIS-011
 
@@ -200,7 +200,7 @@ Choose the smallest clearly readable body action that pursues the intention or r
 
 **Origin.** Stanislavski's action, Weston's process tools and the HSE workshop. [SRC-STAN-ACT](../sources/bibliography.md#src-stan-act) · [SRC-WEST-TOOLS](../sources/bibliography.md#src-west-tools) · [SRC-HSE-STAGE](../sources/bibliography.md#src-hse-stage)
 
-**Related.** `MIS-002`, `MIS-004`, `MIS-008`, `MIS-012`, `DIR-003`, `DIR-006`
+**Related.** [MIS-002](04_mise_en_scene.md#mis-002), [MIS-004](04_mise_en_scene.md#mis-004), [MIS-008](04_mise_en_scene.md#mis-008), [MIS-012](04_mise_en_scene.md#mis-012), [DIR-003](02_directing.md#dir-003), [DIR-006](02_directing.md#dir-006)
 
 ### MIS-012
 
@@ -218,7 +218,7 @@ Freeze the stable attributes of a scene and describe only authorized changes in 
 
 **Origin.** Production-design planning, continuity editing, and rulebook adaptation. [SRC-AFI-DES](../sources/bibliography.md#src-afi-des) · [SRC-HSE-STAGE](../sources/bibliography.md#src-hse-stage) · [SRC-SMITH-AT](../sources/bibliography.md#src-smith-at)
 
-**Related.** `MIS-001`, `MIS-004`, `MIS-005`, `MIS-007`, `MIS-008`, `MIS-009`, `CIN-CAM-004`
+**Related.** [MIS-001](04_mise_en_scene.md#mis-001), [MIS-004](04_mise_en_scene.md#mis-004), [MIS-005](04_mise_en_scene.md#mis-005), [MIS-007](04_mise_en_scene.md#mis-007), [MIS-008](04_mise_en_scene.md#mis-008), [MIS-009](04_mise_en_scene.md#mis-009), [CIN-CAM-004](03_cinematography.md#cin-cam-004)
 
 ## Stage map and visual-bible handoff
 

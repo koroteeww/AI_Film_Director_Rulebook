@@ -107,3 +107,9 @@ Verified selected copyright, consent, music, and AI disclosure issues against go
 Connected the three operating modes to ten workflows, domain retrieval, role prompts, schemas, timing and continuity rules, the release ledger and the staged review system. Preserved user authorship, the 15-second planning baseline and exact-mode conditions for a longer request. The same prompt can enter at an independent stage when its prerequisites are available.
 
 The prompt records when a user film may be created and where authorized project progress belongs. The final consistency review checks those links and handoffs against the published files.
+
+## M15 · Consistency review · 2026-11-06
+
+Checked 100 unique rules, 126 unique source records, 28 starter rules, five capability profiles, ten workflows, four schemas and the 100-point rubric. Parsed the YAML registries and checked internal links, rule and source references and the Markdown/catalog agreement. Verified 12 blob hashes against the M14 checkpoint and retained the results of the 20 local schema fixtures.
+
+Corrected the AFI course locator and source bylines for the Kurosawa and StageMilk articles. Added navigable related-rule links and clarified the conditions of the shadow-edge principle. The final navigation starts with the user premise and provides entry points for each stage. Documented remaining access, product and runtime-test limits in the consistency review.

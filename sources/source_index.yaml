@@ -10,7 +10,7 @@ sources:
     evidence_type: "institutional-curriculum"
     access: "open"
     url: "https://conservatory.afi.com/directing-curriculum/"
-    locator: "First-year DIR 5131, DIR 535, DIR 515, and cycle-film mentorship"
+    locator: "First-year DIR 5131, DIR 535, DIR 537, and cycle-film mentorship"
     finding: "Reviewing cycle cuts connects performance, point of view, mise-en-scène and editing. Directing exercises require a rationale for each shot, move and edit."
     scope: "Public course descriptions."
     accessed: "2026-11-06"
@@ -464,10 +464,10 @@ sources:
     accessed: "2026-11-06"
   - group: "Directing and acting"
     source_id: "SRC-STAGE-CHEK"
-    author: "StageMilk"
+    author: "Jake Fryer-Hornsby"
     title: "How to Act Chekhov"
     institution: "StageMilk"
-    year: null
+    year: 2021
     language: "en"
     evidence_type: "practitioner-guide"
     access: "open"
@@ -828,7 +828,7 @@ sources:
     accessed: "2026-11-06"
   - group: "Directing and acting"
     source_id: "SRC-KURO-WEATH"
-    author: "James Bell"
+    author: "Jasper Sharp"
     title: "How Akira Kurosawa films command the weather"
     institution: "British Film Institute"
     year: 2017

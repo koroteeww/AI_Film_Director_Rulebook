@@ -22,7 +22,7 @@ Set the frame scale around the action, relationship or detail that must read.
 
 **Origin.** ACMI shot-size exercises and AFI shot rationale. [SRC-ACMI-SHOT](../sources/bibliography.md#src-acmi-shot) · [SRC-AFI-DIR](../sources/bibliography.md#src-afi-dir)
 
-**Related.** `CIN-CAM-002`, `CIN-CAM-003`, `CIN-CAM-008`, `CIN-CAM-018`, `DIR-010`
+**Related.** [CIN-CAM-002](03_cinematography.md#cin-cam-002), [CIN-CAM-003](03_cinematography.md#cin-cam-003), [CIN-CAM-008](03_cinematography.md#cin-cam-008), [CIN-CAM-018](03_cinematography.md#cin-cam-018), [DIR-010](02_directing.md#dir-010)
 
 ### CIN-CAM-002
 
@@ -40,7 +40,7 @@ Choose height, yaw, pitch and any roll by the relationship the viewer should per
 
 **Origin.** ASC camera placement examples. [SRC-ASC-POS](../sources/bibliography.md#src-asc-pos) · [SRC-ACMI-SHOT](../sources/bibliography.md#src-acmi-shot)
 
-**Related.** `CIN-CAM-001`, `CIN-CAM-005`, `CIN-CAM-010`, `DIR-002`
+**Related.** [CIN-CAM-001](03_cinematography.md#cin-cam-001), [CIN-CAM-005](03_cinematography.md#cin-cam-005), [CIN-CAM-010](03_cinematography.md#cin-cam-010), [DIR-002](02_directing.md#dir-002)
 
 ### CIN-CAM-003
 
@@ -58,7 +58,7 @@ Show the relevant positions, routes and relationships before fragmenting them. R
 
 **Origin.** ACMI establishing shot and Smith's account of analytical editing. [SRC-ACMI-SHOT](../sources/bibliography.md#src-acmi-shot) · [SRC-SMITH-THESIS](../sources/bibliography.md#src-smith-thesis)
 
-**Related.** `CIN-CAM-004`, `CIN-CAM-005`, `CIN-CAM-009`, `CIN-CAM-018`
+**Related.** [CIN-CAM-004](03_cinematography.md#cin-cam-004), [CIN-CAM-005](03_cinematography.md#cin-cam-005), [CIN-CAM-009](03_cinematography.md#cin-cam-009), [CIN-CAM-018](03_cinematography.md#cin-cam-018)
 
 ### CIN-CAM-004
 
@@ -76,7 +76,7 @@ For a continuous exchange or motion, choose the dominant axis and default camera
 
 **Origin.** Classical axis convention described by Smith. [SRC-SMITH-THESIS](../sources/bibliography.md#src-smith-thesis) · [SRC-SMITH-AT](../sources/bibliography.md#src-smith-at)
 
-**Related.** `CIN-CAM-003`, `CIN-CAM-005`, `CIN-CAM-006`, `CIN-CAM-007`, `CIN-CAM-014`
+**Related.** [CIN-CAM-003](03_cinematography.md#cin-cam-003), [CIN-CAM-005](03_cinematography.md#cin-cam-005), [CIN-CAM-006](03_cinematography.md#cin-cam-006), [CIN-CAM-007](03_cinematography.md#cin-cam-007), [CIN-CAM-014](03_cinematography.md#cin-cam-014)
 
 ### CIN-CAM-005
 
@@ -94,7 +94,7 @@ Plan who looks at whom, gaze height and screenward direction across complementar
 
 **Origin.** Smith on eyeline matching and shot/reverse-shot. [SRC-SMITH-THESIS](../sources/bibliography.md#src-smith-thesis) · [SRC-SMITH-AT](../sources/bibliography.md#src-smith-at)
 
-**Related.** `CIN-CAM-002`, `CIN-CAM-003`, `CIN-CAM-004`, `CIN-CAM-018`, `DIR-002`
+**Related.** [CIN-CAM-002](03_cinematography.md#cin-cam-002), [CIN-CAM-003](03_cinematography.md#cin-cam-003), [CIN-CAM-004](03_cinematography.md#cin-cam-004), [CIN-CAM-018](03_cinematography.md#cin-cam-018), [DIR-002](02_directing.md#dir-002)
 
 ### CIN-CAM-006
 
@@ -112,7 +112,7 @@ For consecutive views of the same subject, change the angle or scale enough for 
 
 **Origin.** The 30-degree rule described in Smith's thesis. [SRC-SMITH-THESIS](../sources/bibliography.md#src-smith-thesis) · [SRC-SMITH-AT](../sources/bibliography.md#src-smith-at)
 
-**Related.** `CIN-CAM-004`, `CIN-CAM-007`, `CIN-CAM-018`
+**Related.** [CIN-CAM-004](03_cinematography.md#cin-cam-004), [CIN-CAM-007](03_cinematography.md#cin-cam-007), [CIN-CAM-018](03_cinematography.md#cin-cam-018)
 
 ### CIN-CAM-007
 
@@ -130,7 +130,7 @@ Cut on compatible phases of a continuous action. Preserve the actor, hand, targe
 
 **Origin.** Smith's attentional account of match-action and exits/entrances. [SRC-SMITH-AT](../sources/bibliography.md#src-smith-at) · [SRC-SMITH-THESIS](../sources/bibliography.md#src-smith-thesis)
 
-**Related.** `CIN-CAM-004`, `CIN-CAM-005`, `CIN-CAM-006`, `CIN-CAM-013`
+**Related.** [CIN-CAM-004](03_cinematography.md#cin-cam-004), [CIN-CAM-005](03_cinematography.md#cin-cam-005), [CIN-CAM-006](03_cinematography.md#cin-cam-006), [CIN-CAM-013](03_cinematography.md#cin-cam-013)
 
 ### CIN-CAM-008
 
@@ -148,7 +148,7 @@ Use scale, tonal contrast, line, negative space, symmetry or asymmetry to priori
 
 **Origin.** ACMI framing exercises and Block's contrast and affinity. [SRC-ACMI-COMP](../sources/bibliography.md#src-acmi-comp) · [SRC-BLOCK-VIS](../sources/bibliography.md#src-block-vis)
 
-**Related.** `CIN-CAM-001`, `CIN-CAM-002`, `CIN-CAM-009`, `CIN-CAM-011`, `DIR-009`
+**Related.** [CIN-CAM-001](03_cinematography.md#cin-cam-001), [CIN-CAM-002](03_cinematography.md#cin-cam-002), [CIN-CAM-009](03_cinematography.md#cin-cam-009), [CIN-CAM-011](03_cinematography.md#cin-cam-011), [DIR-009](02_directing.md#dir-009)
 
 ### CIN-CAM-009
 
@@ -166,7 +166,7 @@ Use foreground, middle and background relationships, overlap, scale and motion t
 
 **Origin.** Block's visual structure and ASC placement practice. [SRC-BLOCK-VIS](../sources/bibliography.md#src-block-vis) · [SRC-ASC-POS](../sources/bibliography.md#src-asc-pos) · [SRC-ACMI-COMP](../sources/bibliography.md#src-acmi-comp)
 
-**Related.** `CIN-CAM-003`, `CIN-CAM-008`, `CIN-CAM-010`, `CIN-CAM-011`, `CIN-CAM-014`
+**Related.** [CIN-CAM-003](03_cinematography.md#cin-cam-003), [CIN-CAM-008](03_cinematography.md#cin-cam-008), [CIN-CAM-010](03_cinematography.md#cin-cam-010), [CIN-CAM-011](03_cinematography.md#cin-cam-011), [CIN-CAM-014](03_cinematography.md#cin-cam-014)
 
 ### CIN-CAM-010
 
@@ -184,7 +184,7 @@ Set viewpoint and subject distance first. For the same rectilinear viewpoint, fo
 
 **Origin.** Projective perspective and the Fujifilm camera-position comparison. [SRC-FUJI-PERS](../sources/bibliography.md#src-fuji-pers) · [SRC-ASC-DIST](../sources/bibliography.md#src-asc-dist) · [SRC-ASC-POS](../sources/bibliography.md#src-asc-pos)
 
-**Related.** `CIN-CAM-002`, `CIN-CAM-008`, `CIN-CAM-009`, `CIN-CAM-013`, `CIN-CAM-015`
+**Related.** [CIN-CAM-002](03_cinematography.md#cin-cam-002), [CIN-CAM-008](03_cinematography.md#cin-cam-008), [CIN-CAM-009](03_cinematography.md#cin-cam-009), [CIN-CAM-013](03_cinematography.md#cin-cam-013), [CIN-CAM-015](03_cinematography.md#cin-cam-015)
 
 ### CIN-CAM-011
 
@@ -202,7 +202,7 @@ Choose which distances are acceptably sharp and when the plane of focus should c
 
 **Origin.** Nikon aperture basics and ACMI focus examples. [SRC-NIK-AP](../sources/bibliography.md#src-nik-ap) · [SRC-ACMI-COMP](../sources/bibliography.md#src-acmi-comp) · [SRC-ASC-CRAFT](../sources/bibliography.md#src-asc-craft)
 
-**Related.** `CIN-CAM-008`, `CIN-CAM-009`, `CIN-CAM-010`, `CIN-CAM-012`, `CIN-CAM-017`
+**Related.** [CIN-CAM-008](03_cinematography.md#cin-cam-008), [CIN-CAM-009](03_cinematography.md#cin-cam-009), [CIN-CAM-010](03_cinematography.md#cin-cam-010), [CIN-CAM-012](03_cinematography.md#cin-cam-012), [CIN-CAM-017](03_cinematography.md#cin-cam-017)
 
 ### CIN-CAM-012
 
@@ -220,7 +220,7 @@ Use a pan for horizontal rotation and a tilt for vertical rotation. Keep camera 
 
 **Origin.** ACMI camera-movement descriptions. [SRC-ACMI-MOVE](../sources/bibliography.md#src-acmi-move) · [SRC-ASC-POS](../sources/bibliography.md#src-asc-pos)
 
-**Related.** `CIN-CAM-009`, `CIN-CAM-013`, `CIN-CAM-014`, `CIN-CAM-017`
+**Related.** [CIN-CAM-009](03_cinematography.md#cin-cam-009), [CIN-CAM-013](03_cinematography.md#cin-cam-013), [CIN-CAM-014](03_cinematography.md#cin-cam-014), [CIN-CAM-017](03_cinematography.md#cin-cam-017)
 
 ### CIN-CAM-013
 
@@ -238,7 +238,7 @@ Use a push-in or pull-out to change distance, or a lateral track to change posit
 
 **Origin.** ACMI movement examples and camera-position optics. [SRC-ACMI-MOVE](../sources/bibliography.md#src-acmi-move) · [SRC-FUJI-PERS](../sources/bibliography.md#src-fuji-pers)
 
-**Related.** `CIN-CAM-009`, `CIN-CAM-010`, `CIN-CAM-012`, `CIN-CAM-014`, `CIN-CAM-015`, `CIN-CAM-017`
+**Related.** [CIN-CAM-009](03_cinematography.md#cin-cam-009), [CIN-CAM-010](03_cinematography.md#cin-cam-010), [CIN-CAM-012](03_cinematography.md#cin-cam-012), [CIN-CAM-014](03_cinematography.md#cin-cam-014), [CIN-CAM-015](03_cinematography.md#cin-cam-015), [CIN-CAM-017](03_cinematography.md#cin-cam-017)
 
 ### CIN-CAM-014
 
@@ -256,7 +256,7 @@ A crane moves the viewpoint vertically or through an arc. An orbit moves around 
 
 **Origin.** Camera-position mechanics and AFI shot rationale. [SRC-ASC-POS](../sources/bibliography.md#src-asc-pos) · [SRC-ACMI-MOVE](../sources/bibliography.md#src-acmi-move) · [SRC-AFI-DIR](../sources/bibliography.md#src-afi-dir)
 
-**Related.** `CIN-CAM-003`, `CIN-CAM-004`, `CIN-CAM-009`, `CIN-CAM-013`, `CIN-CAM-017`
+**Related.** [CIN-CAM-003](03_cinematography.md#cin-cam-003), [CIN-CAM-004](03_cinematography.md#cin-cam-004), [CIN-CAM-009](03_cinematography.md#cin-cam-009), [CIN-CAM-013](03_cinematography.md#cin-cam-013), [CIN-CAM-017](03_cinematography.md#cin-cam-017)
 
 ### CIN-CAM-015
 
@@ -274,7 +274,7 @@ For a zoom-only shot, keep the camera position fixed and change field of view. A
 
 **Origin.** Focal length and position optics applied to ACMI zoom. [SRC-ACMI-MOVE](../sources/bibliography.md#src-acmi-move) · [SRC-FUJI-PERS](../sources/bibliography.md#src-fuji-pers) · [SRC-ACMI-COMP](../sources/bibliography.md#src-acmi-comp)
 
-**Related.** `CIN-CAM-010`, `CIN-CAM-012`, `CIN-CAM-013`, `CIN-CAM-017`
+**Related.** [CIN-CAM-010](03_cinematography.md#cin-cam-010), [CIN-CAM-012](03_cinematography.md#cin-cam-012), [CIN-CAM-013](03_cinematography.md#cin-cam-013), [CIN-CAM-017](03_cinematography.md#cin-cam-017)
 
 ### CIN-CAM-016
 
@@ -292,7 +292,7 @@ A locked frame can let the action and environment define rhythm. Controlled hand
 
 **Origin.** ACMI movement teaching and AFI's shot rationale. [SRC-ACMI-MOVE](../sources/bibliography.md#src-acmi-move) · [SRC-AFI-DIR](../sources/bibliography.md#src-afi-dir) · [SRC-TARK-ESSAY](../sources/bibliography.md#src-tark-essay)
 
-**Related.** `CIN-CAM-008`, `CIN-CAM-012`, `CIN-CAM-013`, `CIN-CAM-017`, `DIR-010`
+**Related.** [CIN-CAM-008](03_cinematography.md#cin-cam-008), [CIN-CAM-012](03_cinematography.md#cin-cam-012), [CIN-CAM-013](03_cinematography.md#cin-cam-013), [CIN-CAM-017](03_cinematography.md#cin-cam-017), [DIR-010](02_directing.md#dir-010)
 
 ### CIN-CAM-017
 
@@ -310,7 +310,7 @@ Give a move a dramatic trigger, a pace, an endpoint and enough usable hold or ac
 
 **Origin.** AFI rationale for moves and cuts, adapted to generation planning. [SRC-AFI-DIR](../sources/bibliography.md#src-afi-dir) · [SRC-ACMI-MOVE](../sources/bibliography.md#src-acmi-move)
 
-**Related.** `CIN-CAM-011`, `CIN-CAM-012`, `CIN-CAM-013`, `CIN-CAM-014`, `CIN-CAM-015`, `CIN-CAM-016`, `DIR-010`
+**Related.** [CIN-CAM-011](03_cinematography.md#cin-cam-011), [CIN-CAM-012](03_cinematography.md#cin-cam-012), [CIN-CAM-013](03_cinematography.md#cin-cam-013), [CIN-CAM-014](03_cinematography.md#cin-cam-014), [CIN-CAM-015](03_cinematography.md#cin-cam-015), [CIN-CAM-016](03_cinematography.md#cin-cam-016), [DIR-010](02_directing.md#dir-010)
 
 ### CIN-CAM-018
 
@@ -328,7 +328,7 @@ An insert isolates relevant detail. A cutaway shifts attention to a related pers
 
 **Origin.** Analytical editing and shot-size practice, adapted to AI coverage. [SRC-ACMI-SHOT](../sources/bibliography.md#src-acmi-shot) · [SRC-SMITH-AT](../sources/bibliography.md#src-smith-at) · [SRC-AFI-DIR](../sources/bibliography.md#src-afi-dir)
 
-**Related.** `CIN-CAM-001`, `CIN-CAM-003`, `CIN-CAM-005`, `CIN-CAM-006`, `CIN-CAM-007`, `DRA-008`
+**Related.** [CIN-CAM-001](03_cinematography.md#cin-cam-001), [CIN-CAM-003](03_cinematography.md#cin-cam-003), [CIN-CAM-005](03_cinematography.md#cin-cam-005), [CIN-CAM-006](03_cinematography.md#cin-cam-006), [CIN-CAM-007](03_cinematography.md#cin-cam-007), [DRA-008](01_dramaturgy.md#dra-008)
 
 ## Translate a shot into geometry
 

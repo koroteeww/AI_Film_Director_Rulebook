@@ -20,7 +20,7 @@ For each scene, name what the viewer should notice, understand and feel by the e
 
 **Origin.** AFI Director's Craft and NFTS script interpretation. [SRC-AFI-DIR](../sources/bibliography.md#src-afi-dir) · [SRC-NFTS-DIR](../sources/bibliography.md#src-nfts-dir)
 
-**Related.** `DIR-002`, `DIR-005`, `DIR-010`, `DRA-005`
+**Related.** [DIR-002](02_directing.md#dir-002), [DIR-005](02_directing.md#dir-005), [DIR-010](02_directing.md#dir-010), [DRA-005](01_dramaturgy.md#dra-005)
 
 ### DIR-002
 
@@ -38,7 +38,7 @@ Choose whose experience anchors a beat, what the viewer knows, and when camera o
 
 **Origin.** Bordwell on access to story information and AFI on narrative point of view. [SRC-BORD-BOMB](../sources/bibliography.md#src-bord-bomb) · [SRC-AFI-DIR](../sources/bibliography.md#src-afi-dir)
 
-**Related.** `DIR-001`, `DIR-007`, `DIR-009`, `DRA-010`
+**Related.** [DIR-001](02_directing.md#dir-001), [DIR-007](02_directing.md#dir-007), [DIR-009](02_directing.md#dir-009), [DRA-010](01_dramaturgy.md#dra-010)
 
 ### DIR-003
 
@@ -56,7 +56,7 @@ Give the performer a verb aimed at a target and a reason to try it now.
 
 **Origin.** Stanislavski's action work and Weston's process-oriented tools. [SRC-STAN-ACT](../sources/bibliography.md#src-stan-act) · [SRC-WEST-TOOLS](../sources/bibliography.md#src-west-tools)
 
-**Related.** `DIR-004`, `DIR-005`, `DIR-006`, `DRA-003`
+**Related.** [DIR-004](02_directing.md#dir-004), [DIR-005](02_directing.md#dir-005), [DIR-006](02_directing.md#dir-006), [DRA-003](01_dramaturgy.md#dra-003)
 
 ### DIR-004
 
@@ -74,7 +74,7 @@ Identify facts of place, relationship, preceding event and immediate constraints
 
 **Origin.** Stanislavski's предлагаемые обстоятельства, adapted to a performance brief. [SRC-STAN-ACT](../sources/bibliography.md#src-stan-act) · [SRC-WEST-TOOLS](../sources/bibliography.md#src-west-tools)
 
-**Related.** `DIR-003`, `DIR-006`, `DIR-008`
+**Related.** [DIR-003](02_directing.md#dir-003), [DIR-006](02_directing.md#dir-006), [DIR-008](02_directing.md#dir-008)
 
 ### DIR-005
 
@@ -92,7 +92,7 @@ Mark a new beat when the character changes tactic, registers information or shif
 
 **Origin.** Weston on emotional events and McKee on scene changes. [SRC-WEST-TOOLS](../sources/bibliography.md#src-west-tools) · [SRC-MCK-TURN](../sources/bibliography.md#src-mck-turn) · [SRC-AFI-DIR](../sources/bibliography.md#src-afi-dir)
 
-**Related.** `DIR-001`, `DIR-003`, `DIR-007`, `DIR-012`, `DRA-005`
+**Related.** [DIR-001](02_directing.md#dir-001), [DIR-003](02_directing.md#dir-003), [DIR-007](02_directing.md#dir-007), [DIR-012](02_directing.md#dir-012), [DRA-005](01_dramaturgy.md#dra-005)
 
 ### DIR-006
 
@@ -110,7 +110,7 @@ Keep the inner intention in direction notes and choose a few visible or audible 
 
 **Origin.** Rulebook translation of Weston's physical-life and action tools. [SRC-WEST-TOOLS](../sources/bibliography.md#src-west-tools) · [SRC-AFI-DIR](../sources/bibliography.md#src-afi-dir)
 
-**Related.** `DIR-003`, `DIR-004`, `DIR-008`, `DIR-010`
+**Related.** [DIR-003](02_directing.md#dir-003), [DIR-004](02_directing.md#dir-004), [DIR-008](02_directing.md#dir-008), [DIR-010](02_directing.md#dir-010)
 
 ### DIR-007
 
@@ -128,7 +128,7 @@ Plan when a listener receives a cue, how they register it and whether the viewer
 
 **Origin.** Weston's relationship-based approach and Chekhov's use of pauses. [SRC-WEST-TOOLS](../sources/bibliography.md#src-west-tools) · [SRC-CHEK-PLAY](../sources/bibliography.md#src-chek-play)
 
-**Related.** `DIR-002`, `DIR-005`, `DIR-012`, `DRA-012`, `DRA-014`
+**Related.** [DIR-002](02_directing.md#dir-002), [DIR-005](02_directing.md#dir-005), [DIR-012](02_directing.md#dir-012), [DRA-012](01_dramaturgy.md#dra-012), [DRA-014](01_dramaturgy.md#dra-014)
 
 ### DIR-008
 
@@ -146,7 +146,7 @@ Explore a larger physical gesture that expresses the character's drive, then dec
 
 **Origin.** Michael Chekhov's psychological gesture, with a film planning adaptation. [SRC-MCHEK-TECH](../sources/bibliography.md#src-mchek-tech) · [SRC-WEST-TOOLS](../sources/bibliography.md#src-west-tools)
 
-**Related.** `DIR-003`, `DIR-004`, `DIR-006`
+**Related.** [DIR-003](02_directing.md#dir-003), [DIR-004](02_directing.md#dir-004), [DIR-006](02_directing.md#dir-006)
 
 ### DIR-009
 
@@ -164,7 +164,7 @@ Use position, orientation, depth, contrast and timed movement to control when a 
 
 **Origin.** AFI cinematic storytelling and NYU staging practice. [SRC-AFI-DIR](../sources/bibliography.md#src-afi-dir) · [SRC-NYU-GRAD](../sources/bibliography.md#src-nyu-grad) · [SRC-BLOCK-VIS](../sources/bibliography.md#src-block-vis)
 
-**Related.** `DIR-001`, `DIR-002`, `DIR-010`, `DIR-011`
+**Related.** [DIR-001](02_directing.md#dir-001), [DIR-002](02_directing.md#dir-002), [DIR-010](02_directing.md#dir-010), [DIR-011](02_directing.md#dir-011)
 
 ### DIR-010
 
@@ -182,7 +182,7 @@ Tie shot size, movement, camera placement and the cut to a dramatic purpose such
 
 **Origin.** AFI Director's Craft and Bordwell's account of narrative access. [SRC-AFI-DIR](../sources/bibliography.md#src-afi-dir) · [SRC-BORD-BOMB](../sources/bibliography.md#src-bord-bomb)
 
-**Related.** `DIR-001`, `DIR-002`, `DIR-006`, `DIR-009`, `DIR-014`
+**Related.** [DIR-001](02_directing.md#dir-001), [DIR-002](02_directing.md#dir-002), [DIR-006](02_directing.md#dir-006), [DIR-009](02_directing.md#dir-009), [DIR-014](02_directing.md#dir-014)
 
 ### DIR-011
 
@@ -200,7 +200,7 @@ Choose a feature of the location, prop or environment that alters an action or t
 
 **Origin.** Hitchcock's AFI setting example and BFI analysis of Kurosawa's weather. [SRC-HITCH-AFI](../sources/bibliography.md#src-hitch-afi) · [SRC-KURO-WEATH](../sources/bibliography.md#src-kuro-weath)
 
-**Related.** `DIR-004`, `DIR-009`, `DIR-013`, `DRA-011`
+**Related.** [DIR-004](02_directing.md#dir-004), [DIR-009](02_directing.md#dir-009), [DIR-013](02_directing.md#dir-013), [DRA-011](01_dramaturgy.md#dra-011)
 
 ### DIR-012
 
@@ -218,7 +218,7 @@ Choose where the scene should tighten, hold or release. Let action, listening, s
 
 **Origin.** Tarkovsky on filmed time and Weston's moment-by-moment process. [SRC-TARK-ESSAY](../sources/bibliography.md#src-tark-essay) · [SRC-WEST-TOOLS](../sources/bibliography.md#src-west-tools) · [SRC-AFI-DIR](../sources/bibliography.md#src-afi-dir)
 
-**Related.** `DIR-005`, `DIR-007`, `DIR-014`, `DRA-014`, `DRA-017`
+**Related.** [DIR-005](02_directing.md#dir-005), [DIR-007](02_directing.md#dir-007), [DIR-014](02_directing.md#dir-014), [DRA-014](01_dramaturgy.md#dra-014), [DRA-017](01_dramaturgy.md#dra-017)
 
 ### DIR-013
 
@@ -236,7 +236,7 @@ Change one or more perceptible relations across a beat, such as distance, moveme
 
 **Origin.** Block's visual contrast and AFI's integration of image with story. [SRC-BLOCK-VIS](../sources/bibliography.md#src-block-vis) · [SRC-AFI-DIR](../sources/bibliography.md#src-afi-dir)
 
-**Related.** `DIR-001`, `DIR-009`, `DIR-010`, `DIR-012`
+**Related.** [DIR-001](02_directing.md#dir-001), [DIR-009](02_directing.md#dir-009), [DIR-010](02_directing.md#dir-010), [DIR-012](02_directing.md#dir-012)
 
 ### DIR-014
 
@@ -254,7 +254,7 @@ Walk through the scene from entry state to exit, then plan the shots and transit
 
 **Origin.** Lumet's rehearsal account, AFI exercises and NFTS expressive editing. [SRC-LUM-TALK](../sources/bibliography.md#src-lum-talk) · [SRC-AFI-DIR](../sources/bibliography.md#src-afi-dir) · [SRC-NFTS-DIR](../sources/bibliography.md#src-nfts-dir)
 
-**Related.** `DIR-005`, `DIR-009`, `DIR-010`, `DIR-012`, `DRA-015`
+**Related.** [DIR-005](02_directing.md#dir-005), [DIR-009](02_directing.md#dir-009), [DIR-010](02_directing.md#dir-010), [DIR-012](02_directing.md#dir-012), [DRA-015](01_dramaturgy.md#dra-015)
 
 ## Directing pass
 

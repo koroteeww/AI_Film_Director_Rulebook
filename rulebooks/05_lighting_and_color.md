@@ -22,7 +22,7 @@ Start with a plausible source in the scene, or a clearly intended stylized light
 
 **Origin.** ARRI source roles and ASC set-lighting practice. [SRC-ARRI-LIGHT](../sources/bibliography.md#src-arri-light) · [SRC-ASC-BURUM](../sources/bibliography.md#src-asc-burum) · [SRC-VGIK-CIN](../sources/bibliography.md#src-vgik-cin)
 
-**Related.** `LGT-002`, `LGT-004`, `LGT-007`, `LGT-010`, `MIS-001`
+**Related.** [LGT-002](05_lighting_and_color.md#lgt-002), [LGT-004](05_lighting_and_color.md#lgt-004), [LGT-007](05_lighting_and_color.md#lgt-007), [LGT-010](05_lighting_and_color.md#lgt-010), [MIS-001](04_mise_en_scene.md#mis-001)
 
 ### LGT-002
 
@@ -40,7 +40,7 @@ Use key for the dominant modeling light, fill for shadow control, and back, edge
 
 **Origin.** ARRI handbook and Burum's professional demonstration. [SRC-ARRI-LIGHT](../sources/bibliography.md#src-arri-light) · [SRC-ASC-BURUM](../sources/bibliography.md#src-asc-burum)
 
-**Related.** `LGT-001`, `LGT-003`, `LGT-005`, `LGT-010`
+**Related.** [LGT-001](05_lighting_and_color.md#lgt-001), [LGT-003](05_lighting_and_color.md#lgt-003), [LGT-005](05_lighting_and_color.md#lgt-005), [LGT-010](05_lighting_and_color.md#lgt-010)
 
 ### LGT-003
 
@@ -58,7 +58,7 @@ Name what is being compared. A source key-to-fill ratio and a lit-to-shadow subj
 
 **Origin.** Lighting role separation in ARRI and exposure arithmetic. [SRC-ARRI-LIGHT](../sources/bibliography.md#src-arri-light) · [SRC-ASC-BURUM](../sources/bibliography.md#src-asc-burum) · [SRC-BMD-MATCH](../sources/bibliography.md#src-bmd-match)
 
-**Related.** `LGT-002`, `LGT-006`, `LGT-010`, `LGT-012`
+**Related.** [LGT-002](05_lighting_and_color.md#lgt-002), [LGT-006](05_lighting_and_color.md#lgt-006), [LGT-010](05_lighting_and_color.md#lgt-010), [LGT-012](05_lighting_and_color.md#lgt-012)
 
 ### LGT-004
 
@@ -76,13 +76,13 @@ Record visible practical fixtures and their apparent effect, then add plausible 
 
 **Origin.** ARRI background-light and source guidance plus ASC examples. [SRC-ARRI-LIGHT](../sources/bibliography.md#src-arri-light) · [SRC-ASC-BURUM](../sources/bibliography.md#src-asc-burum)
 
-**Related.** `LGT-001`, `LGT-002`, `LGT-007`, `LGT-010`, `LGT-011`, `MIS-007`
+**Related.** [LGT-001](05_lighting_and_color.md#lgt-001), [LGT-002](05_lighting_and_color.md#lgt-002), [LGT-007](05_lighting_and_color.md#lgt-007), [LGT-010](05_lighting_and_color.md#lgt-010), [LGT-011](05_lighting_and_color.md#lgt-011), [MIS-007](04_mise_en_scene.md#mis-007)
 
 ### LGT-005
 
 **Control hard and soft light by apparent source size** · technical constraint · priority 1 · high confidence
 
-At a given subject position, a larger apparent source produces a wider shadow-edge transition. A small apparent source produces sharper shadows.
+With the subject and shadow-receiving surface geometry held fixed, a larger apparent source produces a wider shadow-edge transition. A small apparent source produces sharper shadows.
 
 **Why it works.** Shadow-edge quality changes texture, form and the feel of a space independently of brightness.
 
@@ -94,7 +94,7 @@ At a given subject position, a larger apparent source produces a wider shadow-ed
 
 **Origin.** ASC Light Quality 101 and ARRI hard/soft examples. [SRC-ASC-QUALITY](../sources/bibliography.md#src-asc-quality) · [SRC-ARRI-LIGHT](../sources/bibliography.md#src-arri-light)
 
-**Related.** `LGT-001`, `LGT-002`, `LGT-003`, `LGT-006`, `LGT-011`
+**Related.** [LGT-001](05_lighting_and_color.md#lgt-001), [LGT-002](05_lighting_and_color.md#lgt-002), [LGT-003](05_lighting_and_color.md#lgt-003), [LGT-006](05_lighting_and_color.md#lgt-006), [LGT-011](05_lighting_and_color.md#lgt-011)
 
 ### LGT-006
 
@@ -112,7 +112,7 @@ For a high-key treatment keep most important areas luminous and manage contrast.
 
 **Origin.** ARRI lighting functions and the Alton reading path. [SRC-ARRI-LIGHT](../sources/bibliography.md#src-arri-light) · [SRC-ALTON-LIGHT](../sources/bibliography.md#src-alton-light) · [SRC-BLOCK-VIS](../sources/bibliography.md#src-block-vis)
 
-**Related.** `LGT-002`, `LGT-003`, `LGT-005`, `LGT-008`, `LGT-010`
+**Related.** [LGT-002](05_lighting_and_color.md#lgt-002), [LGT-003](05_lighting_and_color.md#lgt-003), [LGT-005](05_lighting_and_color.md#lgt-005), [LGT-008](05_lighting_and_color.md#lgt-008), [LGT-010](05_lighting_and_color.md#lgt-010)
 
 ### LGT-007
 
@@ -130,7 +130,7 @@ Track the apparent colors of sources and the camera's neutral reference separate
 
 **Origin.** ARRI notes on color, applied to shot continuity. [SRC-ARRI-LIGHT](../sources/bibliography.md#src-arri-light) · [SRC-BMD-MATCH](../sources/bibliography.md#src-bmd-match)
 
-**Related.** `LGT-001`, `LGT-004`, `LGT-008`, `LGT-010`, `LGT-012`
+**Related.** [LGT-001](05_lighting_and_color.md#lgt-001), [LGT-004](05_lighting_and_color.md#lgt-004), [LGT-008](05_lighting_and_color.md#lgt-008), [LGT-010](05_lighting_and_color.md#lgt-010), [LGT-012](05_lighting_and_color.md#lgt-012)
 
 ### LGT-008
 
@@ -148,7 +148,7 @@ Define a palette for the environment and wardrobe, then reserve selected hue, va
 
 **Origin.** Block's visual structure and AFI design work. [SRC-BLOCK-VIS](../sources/bibliography.md#src-block-vis) · [SRC-AFI-DES](../sources/bibliography.md#src-afi-des)
 
-**Related.** `LGT-006`, `LGT-007`, `LGT-009`, `LGT-010`, `CIN-CAM-008`
+**Related.** [LGT-006](05_lighting_and_color.md#lgt-006), [LGT-007](05_lighting_and_color.md#lgt-007), [LGT-009](05_lighting_and_color.md#lgt-009), [LGT-010](05_lighting_and_color.md#lgt-010), [CIN-CAM-008](03_cinematography.md#cin-cam-008)
 
 ### LGT-009
 
@@ -166,7 +166,7 @@ Build color meaning through repetition, placement and change across the film. Gi
 
 **Origin.** Block's contrast framework and a rulebook application of setup and payoff. [SRC-BLOCK-VIS](../sources/bibliography.md#src-block-vis) · [SRC-AFI-DES](../sources/bibliography.md#src-afi-des) · [SRC-CHEK-GUN](../sources/bibliography.md#src-chek-gun)
 
-**Related.** `LGT-007`, `LGT-008`, `LGT-010`, `LGT-012`, `DRA-008`
+**Related.** [LGT-007](05_lighting_and_color.md#lgt-007), [LGT-008](05_lighting_and_color.md#lgt-008), [LGT-010](05_lighting_and_color.md#lgt-010), [LGT-012](05_lighting_and_color.md#lgt-012), [DRA-008](01_dramaturgy.md#dra-008)
 
 ### LGT-010
 
@@ -184,7 +184,7 @@ Keep important subject surfaces distinguishable from the background and preserve
 
 **Origin.** ARRI separation and background light plus shot-matching practice. [SRC-ARRI-LIGHT](../sources/bibliography.md#src-arri-light) · [SRC-BMD-MATCH](../sources/bibliography.md#src-bmd-match) · [SRC-ASC-BURUM](../sources/bibliography.md#src-asc-burum)
 
-**Related.** `LGT-001`, `LGT-002`, `LGT-003`, `LGT-006`, `LGT-007`, `LGT-012`
+**Related.** [LGT-001](05_lighting_and_color.md#lgt-001), [LGT-002](05_lighting_and_color.md#lgt-002), [LGT-003](05_lighting_and_color.md#lgt-003), [LGT-006](05_lighting_and_color.md#lgt-006), [LGT-007](05_lighting_and_color.md#lgt-007), [LGT-012](05_lighting_and_color.md#lgt-012)
 
 ### LGT-011
 
@@ -202,7 +202,7 @@ Place haze, dust, smoke or rain in the mapped space. Describe how sources, occlu
 
 **Origin.** ASC lighting quality and BFI on expressive weather, adapted to generation. [SRC-ASC-QUALITY](../sources/bibliography.md#src-asc-quality) · [SRC-KURO-WEATH](../sources/bibliography.md#src-kuro-weath) · [SRC-ARRI-LIGHT](../sources/bibliography.md#src-arri-light)
 
-**Related.** `LGT-001`, `LGT-004`, `LGT-005`, `LGT-010`, `MIS-009`
+**Related.** [LGT-001](05_lighting_and_color.md#lgt-001), [LGT-004](05_lighting_and_color.md#lgt-004), [LGT-005](05_lighting_and_color.md#lgt-005), [LGT-010](05_lighting_and_color.md#lgt-010), [MIS-009](04_mise_en_scene.md#mis-009)
 
 ### LGT-012
 
@@ -220,7 +220,7 @@ Identify the footage's color interpretation, correct accidental exposure and bal
 
 **Origin.** Blackmagic shot-matching training and the ACES concept of a look. [SRC-BMD-MATCH](../sources/bibliography.md#src-bmd-match) · [SRC-ACES-LOOK](../sources/bibliography.md#src-aces-look) · [SRC-BLOCK-VIS](../sources/bibliography.md#src-block-vis)
 
-**Related.** `LGT-003`, `LGT-006`, `LGT-007`, `LGT-008`, `LGT-009`, `LGT-010`
+**Related.** [LGT-003](05_lighting_and_color.md#lgt-003), [LGT-006](05_lighting_and_color.md#lgt-006), [LGT-007](05_lighting_and_color.md#lgt-007), [LGT-008](05_lighting_and_color.md#lgt-008), [LGT-009](05_lighting_and_color.md#lgt-009), [LGT-010](05_lighting_and_color.md#lgt-010)
 
 ## Frame and editorial continuity
 
