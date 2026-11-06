@@ -1,0 +1,58 @@
+schema_version: 1
+checked_on: "2026-11-06"
+planning_default_max_s: 15
+# Describes the cited mode and interface. Absent fields require a provider check.
+profiles:
+  - profile_id: "volc_seedance_20"
+    provider: "Volcengine Ark API"
+    model: "doubao-seedance-2-0-260128"
+    generation_modes: ["text","first_frame","first_last","reference"]
+    min_duration_s: 4
+    max_duration_s: 15
+    output_resolutions: ["480p","720p","1080p","4k"]
+    output_fps: 24
+    reference_caps: {"image":9,"video":3,"audio":3,"video_total_s":15,"audio_total_s":15,"audio_only":false}
+    special_tasks: ["edit","extend"]
+    source_ids: ["SRC-VOLC-GEN","SRC-VOLC-20"]
+  - profile_id: "volc_seedance_25"
+    provider: "Volcengine Ark API"
+    model: "doubao-seedance-2-5-260628"
+    generation_modes: ["text","first_frame","first_last","reference"]
+    min_duration_s: 4
+    max_duration_s: 30
+    output_resolutions: ["480p","720p","1080p"]
+    output_fps: 24
+    reference_caps: {"image":30,"video":10,"audio":10,"total":50,"video_total_s":30,"audio_total_s":30,"audio_only":true}
+    special_tasks: ["edit","extend"]
+    edit_duration: "auto; follows source"
+    source_ids: ["SRC-VOLC-GEN","SRC-VOLC-P25","SRC-SEED-25"]
+  - profile_id: "fal_us_seedance_20_reference"
+    provider: "fal US API"
+    model: "bytedance/seedance-2.0/us/reference-to-video"
+    generation_modes: ["reference"]
+    min_duration_s: 4
+    max_duration_s: 15
+    output_resolutions: ["480p","720p","1080p","4k"]
+    reference_caps: {"image":9,"video":3,"audio":3,"total":12,"video_total_s":15,"audio_total_s":15,"audio_only":false}
+    source_ids: ["SRC-FAL-20R"]
+  - profile_id: "fal_us_seedance_25_reference"
+    provider: "fal US API"
+    model: "bytedance/seedance-2.5/us/reference-to-video"
+    generation_modes: ["reference"]
+    min_duration_s: 4
+    max_duration_s: 30
+    output_resolutions: ["480p","720p","1080p"]
+    reference_caps: {"image":30,"video":10,"audio":10,"total":50,"video_total_s":30.2,"audio_total_s":30.2}
+    special_tasks: ["edit","extend"]
+    edit_duration: "auto; duration and aspect ratio coerced"
+    source_ids: ["SRC-FAL-25R"]
+  - profile_id: "morphic_seedance_25_reference"
+    provider: "Morphic Studio"
+    model: "Seedance 2.5"
+    generation_modes: ["reference"]
+    max_duration_s: 30
+    output_resolutions: ["1080p"]
+    reference_caps: {"image":30,"video":10,"audio":10,"total":50,"audio_only":true}
+    special_tasks: ["edit","extend"]
+    edit_duration: "inherits source duration and aspect ratio"
+    source_ids: ["SRC-MORPH-25"]

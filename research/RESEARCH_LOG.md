@@ -71,3 +71,9 @@ The audio workflow tracks one scene bed, selected dialogue and sync points, cue 
 Compared Smith, the ACMI editing curriculum, Eisenstein's Methods of Montage, Pudovkin's selections and Cameron's analysis, Vertov's manifesto and BFI film record, Tarkovsky's original essay, and Murch's Rule of Six. The approaches answer different practical questions about spatial continuity, shot relations, emotion, and duration. The bounded Kuleshov replication supports testing a contextual reading without treating an interpretation as guaranteed.
 
 Published 14 montage and editing rules and selected 28 starter rules across the seven domains. Catalog checks confirm that all 100 stable rule IDs are unique and that each rule points to registered evidence and valid related IDs.
+
+## M09 · Seedance technical research · 2026-11-06
+
+Started with the three supplied Morphic links. Compared the ByteDance Seed 2.0 and 2.5 announcements, Volcengine Ark capabilities and Chinese prompt guidance, the indexed BytePlus model list, fal schemas, and Dreamina's standard versus beta mode description. ByteDance's release and named interfaces document up to 30 seconds in a Seedance 2.5 generation. Published profiles retain the exact mode and evidence. Standard 2.0 can list 4K while verified 2.5 API generation lists through 1080p. The 15-second default remains the rulebook planning constraint.
+
+Time-directed editing is documented separately from the reliability of requested beat timing in new generation. Prompt-based keyframe guidance differs from dedicated input roles. Mode and platform differences apply to edit duration, reference caps and output format. No footage generation was performed. The timing experiment and scene review checks remain procedures for production.
