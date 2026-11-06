@@ -1,0 +1,2059 @@
+{
+  "project_id": "FP-my-earth-edm",
+  "title": "My Earth EDM",
+  "premise": "The supplied English lyrics move from city hustle to touching spring water and grass, then to the discovery that Earth is a living home shared by everyone.",
+  "authorship_notes": [
+    "Author supplied the song lyrics in English and requested a directing project using workflows 04–06.",
+    "Story action, staging, design, target durations and coverage are directing proposals for review."
+  ],
+  "creative_intent": "Begin with the pressure of a route everyone has to cross. Bring the audience down to the height of a bare hand and let a small act of care change how the whole square moves.",
+  "target_runtime_s": 240,
+  "aspect_ratio": "16:9",
+  "tone": "Restless, tactile, then expansive",
+  "genre": "Narrative EDM music video",
+  "focal_character": "CH-001 · Mara, a groundskeeper",
+  "dramatic_question": "Can Mara keep the walking route open and give the spring water back to the planted strip?",
+  "goal": "Clear the existing garden spillway so the spring feeds the roots beside the crossing.",
+  "stakes": "If she keeps sweeping the overflow away, people keep dodging it and the garden stays dry.",
+  "constraints": [
+    "Keep the supplied song section order.",
+    "Plan generated segments at 15 seconds or less, including handles.",
+    "Lyrics only at planning. Sync points depend on the audio master."
+  ],
+  "assumptions": [
+    "Mara, Iman and the spring square are original proposals. The basin and garden spillway already exist.",
+    "16:9 landscape, no performance lip sync, one continuous morning in the square.",
+    "The two seasonal details are associative inserts. The square remains in the same season."
+  ],
+  "open_questions": [
+    "What is the final stereo master or arrangement, and where do its section downbeats fall?",
+    "Approve the square layout, character silhouettes and contrast between planted strip and pavers before reference-frame production."
+  ],
+  "scenes": [
+    {
+      "scene_id": "SC-001",
+      "heading": "EXT. SPRING SQUARE – MORNING",
+      "purpose": "Show the overflow as a small problem Mara can try to solve. Establish the only crossing, the source side and the planted strip.",
+      "location": "LOC-001 · South crossing and low basin",
+      "time": "One morning · before contact",
+      "character_ids": [
+        "CH-001",
+        "CH-002"
+      ],
+      "prop_ids": [
+        "PR-001"
+      ],
+      "beat_ids": [
+        "BT-001"
+      ],
+      "action_summary": "Pedestrians pass left to right. Mara sweeps the thin sheet away. It curls back around the broom, and she looks upstream.",
+      "emotion_in": "Hurry",
+      "emotion_out": "Attention caught",
+      "estimated_duration_s": 40,
+      "continuity": {
+        "entry_state": {
+          "summary": "Both gloves on, broom in Mara’s hands, Iman moving past with tote. Thin overflow crosses the paving.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-007"
+          ],
+          "frame_ids": [
+            "FR-001"
+          ]
+        },
+        "exit_state": {
+          "summary": "Same overflow returns, broom held still. Mara is looking up and left toward the spring.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-007"
+          ],
+          "frame_ids": [
+            "FR-004"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "Stay south of basin-to-garden axis. Keep the audience with Mara. The source is heard before its mouth is singled out."
+      },
+      "sound_requirements": [
+        "Continuous plaza traffic and shoe bed.",
+        "Water starts off screen. Place its first clear location with Mara’s head turn."
+      ]
+    },
+    {
+      "scene_id": "SC-002",
+      "heading": "EXT. SPRING BASIN AND GARDEN EDGE – MORNING",
+      "purpose": "Change scale and listening perspective. Show the intact spring and the dry destination before explaining the blockage.",
+      "location": "LOC-001 · Basin south lip and garden curb",
+      "time": "Same morning · a few steps later",
+      "character_ids": [
+        "CH-001"
+      ],
+      "prop_ids": [
+        "PR-001"
+      ],
+      "beat_ids": [
+        "BT-002",
+        "BT-003"
+      ],
+      "action_summary": "Mara follows the overflow, rests her broom, pockets her right glove and cups the spring water. She touches the grass beyond the outlet.",
+      "emotion_in": "Distracted",
+      "emotion_out": "Present and curious",
+      "estimated_duration_s": 50,
+      "continuity": {
+        "entry_state": {
+          "summary": "Gloves on, source murmurs, broom carried, runoff toward paving.",
+          "asset_ids": [
+            "AS-001",
+            "AS-003",
+            "AS-004",
+            "AS-007"
+          ],
+          "frame_ids": [
+            "FR-005"
+          ]
+        },
+        "exit_state": {
+          "summary": "Broom against basin west wall. Bare right hand wet, left glove on. Grass bed still dry.",
+          "asset_ids": [
+            "AS-001",
+            "AS-003",
+            "AS-004",
+            "AS-007"
+          ],
+          "frame_ids": [
+            "FR-010"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "Right hand enters near foreground and touches water once. Keep the spring at frame left in wider shots and the grass right."
+      },
+      "sound_requirements": [
+        "Narrow the traffic bed toward Mara’s listening position.",
+        "One clear contact accent on Drop 1, then a held moment."
+      ]
+    },
+    {
+      "scene_id": "SC-003",
+      "heading": "EXT. BASIN AND ASSOCIATIVE GRASS DETAILS – MORNING",
+      "purpose": "Give the lyric’s seasonal scale an image, then return to evidence of why the garden is dry.",
+      "location": "LOC-001 · Basin and garden · associative macro inserts",
+      "time": "Present morning framing a seasonal association",
+      "character_ids": [
+        "CH-001"
+      ],
+      "prop_ids": [
+        "PR-002"
+      ],
+      "beat_ids": [
+        "BT-004"
+      ],
+      "action_summary": "Basin ripple leads to two fixed grass views with changed season cues. Return to the actual fork where leaves and twig block the east notch.",
+      "emotion_in": "Curious",
+      "emotion_out": "Understands the route",
+      "estimated_duration_s": 36,
+      "continuity": {
+        "entry_state": {
+          "summary": "Wet right hand, dry garden, bypass running south.",
+          "asset_ids": [
+            "AS-001",
+            "AS-003",
+            "AS-005",
+            "AS-007",
+            "AS-008"
+          ],
+          "frame_ids": [
+            "FR-011"
+          ]
+        },
+        "exit_state": {
+          "summary": "Same place and costume. Mara can see the wet leaf mat and the twig at the east mouth.",
+          "asset_ids": [
+            "AS-001",
+            "AS-003",
+            "AS-005",
+            "AS-007",
+            "AS-008"
+          ],
+          "frame_ids": [
+            "FR-014"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "SH-012 and SH-013 are matched abstract time inserts. SH-014 restores the same morning and frame orientation."
+      },
+      "sound_requirements": [
+        "Bridge both macros with the same water motif.",
+        "Reopen the square’s room tone on the return."
+      ]
+    },
+    {
+      "scene_id": "SC-004",
+      "heading": "EXT. STONE FORK – MORNING",
+      "purpose": "Let a new tactic and help pay off. The viewer must see which object blocks which direction, and where the first water goes.",
+      "location": "LOC-001 · Basin, east notch and curb",
+      "time": "Continuous",
+      "character_ids": [
+        "CH-001",
+        "CH-002"
+      ],
+      "prop_ids": [
+        "PR-002",
+        "PR-003"
+      ],
+      "beat_ids": [
+        "BT-005",
+        "BT-006"
+      ],
+      "action_summary": "Mara points out the east notch to Iman. He puts the tote down, lifts the leaves and holds them to the left. Mara frees the twig. Water runs right into the bed.",
+      "emotion_in": "Intent and cooperation",
+      "emotion_out": "Relief",
+      "estimated_duration_s": 50,
+      "continuity": {
+        "entry_state": {
+          "summary": "Leaf mat and twig block the east notch. Broom parked. Tote on Iman’s left shoulder.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-005",
+            "AS-006",
+            "AS-007"
+          ],
+          "frame_ids": [
+            "FR-015"
+          ]
+        },
+        "exit_state": {
+          "summary": "Leaves held to west lip, twig laid beside them. Bare right hand and cuff damp, water entering grass from the west.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-005",
+            "AS-006",
+            "AS-007"
+          ],
+          "frame_ids": [
+            "FR-020"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "Mara works nearest the south lip. Iman takes the west edge. Match cuts across twig clearance and first movement of water."
+      },
+      "sound_requirements": [
+        "Build-up on lift and hesitation.",
+        "Second drop begins at twig clearance. Use continuous water from the same source."
+      ]
+    },
+    {
+      "scene_id": "SC-005",
+      "heading": "EXT. SPRING SQUARE CROSSING – MORNING",
+      "purpose": "Show shared care becoming ordinary behavior as the square reopens.",
+      "location": "LOC-001 · West lip, south bench and crossing",
+      "time": "A few minutes later",
+      "character_ids": [
+        "CH-001",
+        "CH-002"
+      ],
+      "prop_ids": [
+        "PR-001",
+        "PR-002",
+        "PR-003"
+      ],
+      "beat_ids": [
+        "BT-007"
+      ],
+      "action_summary": "Iman brings the leaf pan from the bench. Together they clear the lip. Mara retrieves the broom. Iman returns for his tote and takes the dry crossing.",
+      "emotion_in": "Relief",
+      "emotion_out": "Quiet fellowship",
+      "estimated_duration_s": 22,
+      "continuity": {
+        "entry_state": {
+          "summary": "Bed receiving water, debris at west lip. Tote and empty leaf pan on bench. Broom parked.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-005",
+            "AS-006",
+            "AS-007"
+          ],
+          "frame_ids": [
+            "FR-021"
+          ]
+        },
+        "exit_state": {
+          "summary": "Leaves and twig in pan on bench. Mara has broom, Iman has tote. Dry pedestrian line stays south.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-005",
+            "AS-006",
+            "AS-007"
+          ],
+          "frame_ids": [
+            "FR-023"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "Allow the old overflow sheen to remain. Feet follow the dry route around it. Keep one walker at a time in close coverage."
+      },
+      "sound_requirements": [
+        "Footsteps and soft pan scrape under the breakdown.",
+        "Water bed continues without a reset."
+      ]
+    },
+    {
+      "scene_id": "SC-006",
+      "heading": "EXT. SPRING SQUARE ABOVE THE CROSSING – MORNING",
+      "purpose": "Reveal how a narrow runnel and a human route can occupy one frame. Make flight a feeling of space opening.",
+      "location": "LOC-001 · Whole square",
+      "time": "Same morning · final release",
+      "character_ids": [
+        "CH-001",
+        "CH-002"
+      ],
+      "prop_ids": [
+        "PR-001",
+        "PR-003"
+      ],
+      "beat_ids": [
+        "BT-008"
+      ],
+      "action_summary": "People resume crossing. Mara watches the flow. The view rises in stages and holds over the basin, grass and path.",
+      "emotion_in": "Fellowship",
+      "emotion_out": "Expansion and ease",
+      "estimated_duration_s": 36,
+      "continuity": {
+        "entry_state": {
+          "summary": "Water enters east bed, walkers go left to right on the dry crossing, Mara holds broom.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-006",
+            "AS-007"
+          ],
+          "frame_ids": [
+            "FR-024"
+          ]
+        },
+        "exit_state": {
+          "summary": "Same layout and flow, seen from above. No growth or change of weather. Cut to credits.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-006",
+            "AS-007"
+          ],
+          "frame_ids": [
+            "FR-027"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "Rise without yaw. Top view stays north up with grass right and crossing below. The last view can be a held board with subtle water movement."
+      },
+      "sound_requirements": [
+        "Final drop is the widest music moment.",
+        "Keep a little water under the last held image."
+      ]
+    }
+  ],
+  "shots": [
+    {
+      "shot_id": "SH-001",
+      "scene_id": "SC-001",
+      "beat_ids": [
+        "BT-001"
+      ],
+      "purpose": "Establish the two routes",
+      "estimated_duration_s": 9,
+      "shot_size": "WS",
+      "camera": {
+        "viewpoint": "South curb, across the crossing",
+        "angle": "Eye level or low as noted, south of AX-001",
+        "lens_intent": "28 mm equivalent for wide geography",
+        "focus": "Crossing and rim readable in moderate depth",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "Basin left of center, garden right, walkway near edge. Eyes follow moving boots."
+        }
+      },
+      "composition": "Basin left of center, garden right, walkway near edge. Eyes follow moving boots.",
+      "blocking": "Mara waits near west lip, Iman enters west.",
+      "subject_motion": "Iman walks right past Mara while she sets the broom head down.",
+      "environment_motion": "Water moves by the established route. Other pedestrians move only when described.",
+      "lighting": "LGT-A · fixed northeast dawn and cool sky fill. Preserve right cuff value and water rim highlight.",
+      "color": "Graphite pavers, clay jacket, restrained spring green. Keep wet and dry surfaces distinguishable.",
+      "sound": [
+        "Street bed and song establish the pulse."
+      ],
+      "transition": "Cut down to the next step.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Broom upright in gloved hands.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-007"
+          ]
+        },
+        "exit_state": {
+          "summary": "Broom head touches the wet pavers.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-007"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "Garden flow and crossing read east, screen right. Initial overflow runs toward the foreground."
+      },
+      "rule_ids": [
+        "CIN-CAM-003",
+        "DIR-009"
+      ],
+      "frame_ids": [
+        "FR-001"
+      ]
+    },
+    {
+      "shot_id": "SH-002",
+      "scene_id": "SC-001",
+      "beat_ids": [
+        "BT-001"
+      ],
+      "purpose": "Let Iman register the overflow",
+      "estimated_duration_s": 10,
+      "shot_size": "CU",
+      "camera": {
+        "viewpoint": "South lip or top of the fork with north up",
+        "angle": "Low or steep insert as noted",
+        "lens_intent": "Macro or 85 mm equivalent, shallow but adequate contact depth",
+        "focus": "Contact plane and target remain legible",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "Wet diagonal enters upper left. Shoe and splash fill lower right."
+        }
+      },
+      "composition": "Wet diagonal enters upper left. Shoe and splash fill lower right.",
+      "blocking": "Iman crosses south of the basin.",
+      "subject_motion": "He shortens his step to avoid the splash, then clears frame right.",
+      "environment_motion": "Water moves by the established route. Other pedestrians move only when described.",
+      "lighting": "LGT-A · fixed northeast dawn and cool sky fill. Preserve right cuff value and water rim highlight.",
+      "color": "Graphite pavers, clay jacket, restrained spring green. Keep wet and dry surfaces distinguishable.",
+      "sound": [
+        "One near splash, with street bed continuous."
+      ],
+      "transition": "Match movement right to broom bristles.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Shoe approaches a wet edge.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-007"
+          ]
+        },
+        "exit_state": {
+          "summary": "Right shoe lands on the dry side.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-007"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "Garden flow and crossing read east, screen right. Initial overflow runs toward the foreground."
+      },
+      "rule_ids": [
+        "DIR-002",
+        "EDT-004"
+      ],
+      "frame_ids": [
+        "FR-002"
+      ]
+    },
+    {
+      "shot_id": "SH-003",
+      "scene_id": "SC-001",
+      "beat_ids": [
+        "BT-001"
+      ],
+      "purpose": "Show why sweeping fails",
+      "estimated_duration_s": 9,
+      "shot_size": "CU",
+      "camera": {
+        "viewpoint": "South lip or top of the fork with north up",
+        "angle": "Low or steep insert as noted",
+        "lens_intent": "Macro or 85 mm equivalent, shallow but adequate contact depth",
+        "focus": "Contact plane and target remain legible",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "Blue bristles low left, returning sheet crosses the center."
+        }
+      },
+      "composition": "Blue bristles low left, returning sheet crosses the center.",
+      "blocking": "Mara plants both feet south of the wet line.",
+      "subject_motion": "She pushes the sheet east. Water curls back from the upper left.",
+      "environment_motion": "Water moves by the established route. Other pedestrians move only when described.",
+      "lighting": "LGT-A · fixed northeast dawn and cool sky fill. Preserve right cuff value and water rim highlight.",
+      "color": "Graphite pavers, clay jacket, restrained spring green. Keep wet and dry surfaces distinguishable.",
+      "sound": [
+        "Bristle scrape followed by a distinct trickle."
+      ],
+      "transition": "Let the trickle lead the reaction cut.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Bristles hover over the sheet.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-007"
+          ]
+        },
+        "exit_state": {
+          "summary": "Bristles stop. A second thread reaches them.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-007"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "Garden flow and crossing read east, screen right. Initial overflow runs toward the foreground."
+      },
+      "rule_ids": [
+        "DIR-005",
+        "SND-008"
+      ],
+      "frame_ids": [
+        "FR-003"
+      ]
+    },
+    {
+      "shot_id": "SH-004",
+      "scene_id": "SC-001",
+      "beat_ids": [
+        "BT-001"
+      ],
+      "purpose": "Give Mara the first change of attention",
+      "estimated_duration_s": 12,
+      "shot_size": "MCU",
+      "camera": {
+        "viewpoint": "South side of basin, at Mara’s shoulder or hand height",
+        "angle": "Oblique from south",
+        "lens_intent": "50 mm equivalent for hand and reaction scale",
+        "focus": "Hold on the named hand, face or lip",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "Face right of frame, leave left open for her upstream gaze."
+        }
+      },
+      "composition": "Face right of frame, leave left open for her upstream gaze.",
+      "blocking": "Mara at the south curb with broom held still.",
+      "subject_motion": "She stops her shoulders, lifts her eyes up-left and takes the first step toward the source.",
+      "environment_motion": "Water moves by the established route. Other pedestrians move only when described.",
+      "lighting": "LGT-A · fixed northeast dawn and cool sky fill. Preserve right cuff value and water rim highlight.",
+      "color": "Graphite pavers, clay jacket, restrained spring green. Keep wet and dry surfaces distinguishable.",
+      "sound": [
+        "Trickle separates from traffic."
+      ],
+      "transition": "Follow the look into the build.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Looking down at broom.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-007"
+          ]
+        },
+        "exit_state": {
+          "summary": "Looking up-left and moving toward basin.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-007"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "Garden flow and crossing read east, screen right. Initial overflow runs toward the foreground."
+      },
+      "rule_ids": [
+        "DIR-002",
+        "SND-008"
+      ],
+      "frame_ids": [
+        "FR-004"
+      ]
+    },
+    {
+      "shot_id": "SH-005",
+      "scene_id": "SC-002",
+      "beat_ids": [
+        "BT-002"
+      ],
+      "purpose": "Lead from wet route to spring",
+      "estimated_duration_s": 8,
+      "shot_size": "MS",
+      "camera": {
+        "viewpoint": "South curb, across the crossing",
+        "angle": "Eye level or low as noted, south of AX-001",
+        "lens_intent": "28 mm equivalent for wide geography",
+        "focus": "Crossing and rim readable in moderate depth",
+        "motion": {
+          "type": "track",
+          "path": "About 1.5 m parallel to Mara from the south side",
+          "trigger": "First upstream step",
+          "endpoint": "Stop as broom rests against the west wall",
+          "pace": "Match her two slow steps"
+        }
+      },
+      "composition": "Mara centered in profile, low rim ahead left.",
+      "blocking": "Mara walks from south crossing to the near side of the basin.",
+      "subject_motion": "She takes two steps upstream and leans broom against the west basin wall.",
+      "environment_motion": "Water moves by the established route. Other pedestrians move only when described.",
+      "lighting": "LGT-A · fixed northeast dawn and cool sky fill. Preserve right cuff value and water rim highlight.",
+      "color": "Graphite pavers, clay jacket, restrained spring green. Keep wet and dry surfaces distinguishable.",
+      "sound": [
+        "Trickle close enough to place at left."
+      ],
+      "transition": "Cut to the right wrist as she lowers her gaze.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Broom in both hands.",
+          "asset_ids": [
+            "AS-001",
+            "AS-003",
+            "AS-004",
+            "AS-007"
+          ]
+        },
+        "exit_state": {
+          "summary": "Broom parked, Mara next to basin.",
+          "asset_ids": [
+            "AS-001",
+            "AS-003",
+            "AS-004",
+            "AS-007"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "Garden flow and crossing read east, screen right. Initial overflow runs toward the foreground."
+      },
+      "rule_ids": [
+        "DIR-010",
+        "CIN-CAM-017"
+      ],
+      "frame_ids": [
+        "FR-005"
+      ]
+    },
+    {
+      "shot_id": "SH-006",
+      "scene_id": "SC-002",
+      "beat_ids": [
+        "BT-002"
+      ],
+      "purpose": "Prepare a change in touch",
+      "estimated_duration_s": 8,
+      "shot_size": "CU",
+      "camera": {
+        "viewpoint": "South side of basin, at Mara’s shoulder or hand height",
+        "angle": "Oblique from south",
+        "lens_intent": "50 mm equivalent for hand and reaction scale",
+        "focus": "Hold on the named hand, face or lip",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "Hands above dark rim, left jacket pocket visible at the end."
+        }
+      },
+      "composition": "Hands above dark rim, left jacket pocket visible at the end.",
+      "blocking": "Mara stands at the south lip with hands above waist.",
+      "subject_motion": "Left gloved hand removes the right glove and tucks it in the left patch pocket.",
+      "environment_motion": "Water moves by the established route. Other pedestrians move only when described.",
+      "lighting": "LGT-A · fixed northeast dawn and cool sky fill. Preserve right cuff value and water rim highlight.",
+      "color": "Graphite pavers, clay jacket, restrained spring green. Keep wet and dry surfaces distinguishable.",
+      "sound": [
+        "Fabric and close trickle under the last build."
+      ],
+      "transition": "Hold a clean beat before contact.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Both gloves on.",
+          "asset_ids": [
+            "AS-001",
+            "AS-003",
+            "AS-004",
+            "AS-007"
+          ]
+        },
+        "exit_state": {
+          "summary": "Right hand bare and dry, glove corner visible at left pocket.",
+          "asset_ids": [
+            "AS-001",
+            "AS-003",
+            "AS-004",
+            "AS-007"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "Garden flow and crossing read east, screen right. Initial overflow runs toward the foreground."
+      },
+      "rule_ids": [
+        "MIS-007",
+        "MIS-012"
+      ],
+      "frame_ids": [
+        "FR-006"
+      ]
+    },
+    {
+      "shot_id": "SH-007",
+      "scene_id": "SC-002",
+      "beat_ids": [
+        "BT-003"
+      ],
+      "purpose": "Land the first drop as contact",
+      "estimated_duration_s": 8,
+      "shot_size": "ECU",
+      "camera": {
+        "viewpoint": "South lip or top of the fork with north up",
+        "angle": "Low or steep insert as noted",
+        "lens_intent": "Macro or 85 mm equivalent, shallow but adequate contact depth",
+        "focus": "Contact plane and target remain legible",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "Bare hand in foreground, pale ring starts beneath fingertips."
+        }
+      },
+      "composition": "Bare hand in foreground, pale ring starts beneath fingertips.",
+      "blocking": "Right hand reaches down from the south lip.",
+      "subject_motion": "Right fingertips break the surface once, then palm rests just under it.",
+      "environment_motion": "Water moves by the established route. Other pedestrians move only when described.",
+      "lighting": "LGT-A · fixed northeast dawn and cool sky fill. Preserve right cuff value and water rim highlight.",
+      "color": "Graphite pavers, clay jacket, restrained spring green. Keep wet and dry surfaces distinguishable.",
+      "sound": [
+        "Drop downbeat at first contact. Let music take foreground."
+      ],
+      "transition": "Cut on the expanding ring.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Fingertips above surface.",
+          "asset_ids": [
+            "AS-001",
+            "AS-003",
+            "AS-004",
+            "AS-007"
+          ]
+        },
+        "exit_state": {
+          "summary": "Right palm cupped in water.",
+          "asset_ids": [
+            "AS-001",
+            "AS-003",
+            "AS-004",
+            "AS-007"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "Garden flow and crossing read east, screen right. Initial overflow runs toward the foreground."
+      },
+      "rule_ids": [
+        "EDT-002",
+        "SND-010"
+      ],
+      "frame_ids": [
+        "FR-028",
+        "FR-007"
+      ]
+    },
+    {
+      "shot_id": "SH-008",
+      "scene_id": "SC-002",
+      "beat_ids": [
+        "BT-003"
+      ],
+      "purpose": "Give the touch time to register",
+      "estimated_duration_s": 8,
+      "shot_size": "CU",
+      "camera": {
+        "viewpoint": "South lip or top of the fork with north up",
+        "angle": "Low or steep insert as noted",
+        "lens_intent": "Macro or 85 mm equivalent, shallow but adequate contact depth",
+        "focus": "Contact plane and target remain legible",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "Ring fills center, sky light drifts softly in one corner."
+        }
+      },
+      "composition": "Ring fills center, sky light drifts softly in one corner.",
+      "blocking": "Right palm stays at the lower frame edge.",
+      "subject_motion": "Hand holds still while the first ring widens and dissolves.",
+      "environment_motion": "Water moves by the established route. Other pedestrians move only when described.",
+      "lighting": "LGT-A · fixed northeast dawn and cool sky fill. Preserve right cuff value and water rim highlight.",
+      "color": "Graphite pavers, clay jacket, restrained spring green. Keep wet and dry surfaces distinguishable.",
+      "sound": [
+        "Trace of water beneath the drop."
+      ],
+      "transition": "Cut from the ring to the lift.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Ring just formed.",
+          "asset_ids": [
+            "AS-001",
+            "AS-003",
+            "AS-004",
+            "AS-007"
+          ]
+        },
+        "exit_state": {
+          "summary": "Ring settles around hand.",
+          "asset_ids": [
+            "AS-001",
+            "AS-003",
+            "AS-004",
+            "AS-007"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "Garden flow and crossing read east, screen right. Initial overflow runs toward the foreground."
+      },
+      "rule_ids": [
+        "DIR-010",
+        "EDT-004"
+      ],
+      "frame_ids": [
+        "FR-008"
+      ]
+    },
+    {
+      "shot_id": "SH-009",
+      "scene_id": "SC-002",
+      "beat_ids": [
+        "BT-003"
+      ],
+      "purpose": "Turn touch into a look toward the grass",
+      "estimated_duration_s": 9,
+      "shot_size": "CU",
+      "camera": {
+        "viewpoint": "South side of basin, at Mara’s shoulder or hand height",
+        "angle": "Oblique from south",
+        "lens_intent": "50 mm equivalent for hand and reaction scale",
+        "focus": "Hold on the named hand, face or lip",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "Palm near center, dry stone and green edge at right."
+        }
+      },
+      "composition": "Palm near center, dry stone and green edge at right.",
+      "blocking": "Mara lifts her right hand above the rim.",
+      "subject_motion": "Drops fall straight back. Her hand relaxes and moves right toward the bed.",
+      "environment_motion": "Water moves by the established route. Other pedestrians move only when described.",
+      "lighting": "LGT-A · fixed northeast dawn and cool sky fill. Preserve right cuff value and water rim highlight.",
+      "color": "Graphite pavers, clay jacket, restrained spring green. Keep wet and dry surfaces distinguishable.",
+      "sound": [
+        "One close drip if space in track."
+      ],
+      "transition": "Cut along the reach to the grass.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Palm cupped under water.",
+          "asset_ids": [
+            "AS-001",
+            "AS-003",
+            "AS-004",
+            "AS-007"
+          ]
+        },
+        "exit_state": {
+          "summary": "Wet right hand above rim, right sleeve still dry.",
+          "asset_ids": [
+            "AS-001",
+            "AS-003",
+            "AS-004",
+            "AS-007"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "Garden flow and crossing read east, screen right. Initial overflow runs toward the foreground."
+      },
+      "rule_ids": [
+        "DIR-009",
+        "MIS-012"
+      ],
+      "frame_ids": [
+        "FR-009"
+      ]
+    },
+    {
+      "shot_id": "SH-010",
+      "scene_id": "SC-002",
+      "beat_ids": [
+        "BT-003"
+      ],
+      "purpose": "Show the dry destination",
+      "estimated_duration_s": 9,
+      "shot_size": "MS",
+      "camera": {
+        "viewpoint": "South side of basin, at Mara’s shoulder or hand height",
+        "angle": "Oblique from south",
+        "lens_intent": "50 mm equivalent for hand and reaction scale",
+        "focus": "Hold on the named hand, face or lip",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "Mara low left, small green bed visible at right and fork between."
+        }
+      },
+      "composition": "Mara low left, small green bed visible at right and fork between.",
+      "blocking": "She shifts one step east along the dry south lip and crouches.",
+      "subject_motion": "Her bare fingers brush the dry blades and pause at the empty runnel.",
+      "environment_motion": "Water moves by the established route. Other pedestrians move only when described.",
+      "lighting": "LGT-A · fixed northeast dawn and cool sky fill. Preserve right cuff value and water rim highlight.",
+      "color": "Graphite pavers, clay jacket, restrained spring green. Keep wet and dry surfaces distinguishable.",
+      "sound": [
+        "Grass brush under a continuous spring bed."
+      ],
+      "transition": "Use the curve of grass to move into Verse 2.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Wet fingers just short of grass.",
+          "asset_ids": [
+            "AS-001",
+            "AS-003",
+            "AS-004",
+            "AS-007"
+          ]
+        },
+        "exit_state": {
+          "summary": "Fingers at the dry bed. Broom remains at basin west wall.",
+          "asset_ids": [
+            "AS-001",
+            "AS-003",
+            "AS-004",
+            "AS-007"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "Garden flow and crossing read east, screen right. Initial overflow runs toward the foreground."
+      },
+      "rule_ids": [
+        "DIR-002",
+        "CIN-CAM-003"
+      ],
+      "frame_ids": [
+        "FR-010"
+      ]
+    },
+    {
+      "shot_id": "SH-011",
+      "scene_id": "SC-003",
+      "beat_ids": [
+        "BT-004"
+      ],
+      "purpose": "Give water the lyric’s scale",
+      "estimated_duration_s": 9,
+      "shot_size": "CU",
+      "camera": {
+        "viewpoint": "South lip or top of the fork with north up",
+        "angle": "Low or steep insert as noted",
+        "lens_intent": "Macro or 85 mm equivalent, shallow but adequate contact depth",
+        "focus": "Contact plane and target remain legible",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "Pale disc and an incomplete ring share the center."
+        }
+      },
+      "composition": "Pale disc and an incomplete ring share the center.",
+      "blocking": "Mara’s hand stays outside the composition.",
+      "subject_motion": "The ripple passes a small reflection of the morning sky.",
+      "environment_motion": "Water moves by the established route. Other pedestrians move only when described.",
+      "lighting": "LGT-A · fixed northeast dawn and cool sky fill. Preserve right cuff value and water rim highlight.",
+      "color": "Graphite pavers, clay jacket, restrained spring green. Keep wet and dry surfaces distinguishable.",
+      "sound": [
+        "Wind threads through the water cue."
+      ],
+      "transition": "Match the arc to the grass silhouette.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Basin water still running south at fork.",
+          "asset_ids": [
+            "AS-003",
+            "AS-007"
+          ]
+        },
+        "exit_state": {
+          "summary": "Ripple clears the same reflection.",
+          "asset_ids": [
+            "AS-003",
+            "AS-007"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "Garden flow and crossing read east, screen right. Initial overflow runs toward the foreground."
+      },
+      "rule_ids": [
+        "EDT-010",
+        "SND-004"
+      ],
+      "frame_ids": [
+        "FR-011"
+      ]
+    },
+    {
+      "shot_id": "SH-012",
+      "scene_id": "SC-003",
+      "beat_ids": [
+        "BT-004"
+      ],
+      "purpose": "Suggest a season in one surface",
+      "estimated_duration_s": 9,
+      "shot_size": "ECU",
+      "camera": {
+        "viewpoint": "South lip or top of the fork with north up",
+        "angle": "Low or steep insert as noted",
+        "lens_intent": "Macro or 85 mm equivalent, shallow but adequate contact depth",
+        "focus": "Contact plane and target remain legible",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "Grass tips curve in from left, dew at center."
+        }
+      },
+      "composition": "Grass tips curve in from left, dew at center.",
+      "blocking": "Associative insert. No present-day character or costume.",
+      "subject_motion": "One blade moves under its own bead of dew.",
+      "environment_motion": "One blade or leaf trembles. The rest holds.",
+      "lighting": "LGT-B · soft macro backlight. Stable curve and angle across both details.",
+      "color": "Green and dew shift to copper and pale frost in the same composition.",
+      "sound": [
+        "Carry the spring bed through the association."
+      ],
+      "transition": "Cut on the curve to the autumn detail.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Green grass and bead of dew.",
+          "asset_ids": [
+            "AS-003",
+            "AS-008"
+          ]
+        },
+        "exit_state": {
+          "summary": "The bead holds at the tip.",
+          "asset_ids": [
+            "AS-003",
+            "AS-008"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "Garden flow and crossing read east, screen right. Initial overflow runs toward the foreground."
+      },
+      "rule_ids": [
+        "CIN-CAM-008",
+        "EDT-010"
+      ],
+      "frame_ids": [
+        "FR-012"
+      ]
+    },
+    {
+      "shot_id": "SH-013",
+      "scene_id": "SC-003",
+      "beat_ids": [
+        "BT-004"
+      ],
+      "purpose": "Let the same land hold a different season",
+      "estimated_duration_s": 9,
+      "shot_size": "ECU",
+      "camera": {
+        "viewpoint": "South lip or top of the fork with north up",
+        "angle": "Low or steep insert as noted",
+        "lens_intent": "Macro or 85 mm equivalent, shallow but adequate contact depth",
+        "focus": "Contact plane and target remain legible",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "Repeat the grass curve, copper leaf and thin frost at center."
+        }
+      },
+      "composition": "Repeat the grass curve, copper leaf and thin frost at center.",
+      "blocking": "Associative insert. No present-day character or costume.",
+      "subject_motion": "Frosted tips and one leaf tremble gently.",
+      "environment_motion": "One blade or leaf trembles. The rest holds.",
+      "lighting": "LGT-B · soft macro backlight. Stable curve and angle across both details.",
+      "color": "Green and dew shift to copper and pale frost in the same composition.",
+      "sound": [
+        "Same bridge, with wind slightly nearer."
+      ],
+      "transition": "Return to the real fork on the next phrase.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Copper leaf still.",
+          "asset_ids": [
+            "AS-003",
+            "AS-008"
+          ]
+        },
+        "exit_state": {
+          "summary": "Same shape held as the tremor stops.",
+          "asset_ids": [
+            "AS-003",
+            "AS-008"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "Garden flow and crossing read east, screen right. Initial overflow runs toward the foreground."
+      },
+      "rule_ids": [
+        "CIN-CAM-008",
+        "EDT-010"
+      ],
+      "frame_ids": [
+        "FR-013"
+      ]
+    },
+    {
+      "shot_id": "SH-014",
+      "scene_id": "SC-003",
+      "beat_ids": [
+        "BT-004"
+      ],
+      "purpose": "Make the obstruction readable",
+      "estimated_duration_s": 9,
+      "shot_size": "CU",
+      "camera": {
+        "viewpoint": "South lip or top of the fork with north up",
+        "angle": "Low or steep insert as noted",
+        "lens_intent": "Macro or 85 mm equivalent, shallow but adequate contact depth",
+        "focus": "Contact plane and target remain legible",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "North-up insert shows fork center, bypass down and bed right."
+        }
+      },
+      "composition": "North-up insert shows fork center, bypass down and bed right.",
+      "blocking": "Mara’s wet right hand stops short of the fork.",
+      "subject_motion": "Her finger follows the south overflow, then hovers over the twig in the east notch.",
+      "environment_motion": "Water moves by the established route. Other pedestrians move only when described.",
+      "lighting": "LGT-A · fixed northeast dawn and cool sky fill. Preserve right cuff value and water rim highlight.",
+      "color": "Graphite pavers, clay jacket, restrained spring green. Keep wet and dry surfaces distinguishable.",
+      "sound": [
+        "Square bed returns around one water cue."
+      ],
+      "transition": "Cut wider for Iman’s response to her point.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Bypass wet, garden notch blocked.",
+          "asset_ids": [
+            "AS-001",
+            "AS-003",
+            "AS-005",
+            "AS-007"
+          ]
+        },
+        "exit_state": {
+          "summary": "Twig and leaf mat visible, with the east route dry.",
+          "asset_ids": [
+            "AS-001",
+            "AS-003",
+            "AS-005",
+            "AS-007"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "Garden flow and crossing read east, screen right. Initial overflow runs toward the foreground."
+      },
+      "rule_ids": [
+        "MIS-001",
+        "DIR-009"
+      ],
+      "frame_ids": [
+        "FR-014"
+      ]
+    },
+    {
+      "shot_id": "SH-015",
+      "scene_id": "SC-004",
+      "beat_ids": [
+        "BT-005"
+      ],
+      "purpose": "Invite help and retain the route",
+      "estimated_duration_s": 8,
+      "shot_size": "MS",
+      "camera": {
+        "viewpoint": "South curb, across the crossing",
+        "angle": "Eye level or low as noted, south of AX-001",
+        "lens_intent": "28 mm equivalent for wide geography",
+        "focus": "Crossing and rim readable in moderate depth",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "Mara foreground left of bed, Iman behind at west lip."
+        }
+      },
+      "composition": "Mara foreground left of bed, Iman behind at west lip.",
+      "blocking": "Mara points toward the blocked notch. Iman stays on dry stone.",
+      "subject_motion": "Iman sets his tote on the south bench and kneels at the west lip.",
+      "environment_motion": "Water moves by the established route. Other pedestrians move only when described.",
+      "lighting": "LGT-A · fixed northeast dawn and cool sky fill. Preserve right cuff value and water rim highlight.",
+      "color": "Graphite pavers, clay jacket, restrained spring green. Keep wet and dry surfaces distinguishable.",
+      "sound": [
+        "Soft tote contact under the build."
+      ],
+      "transition": "Carry their shared gaze into the fork.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Tote on left shoulder.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-005",
+            "AS-006",
+            "AS-007"
+          ]
+        },
+        "exit_state": {
+          "summary": "Tote on bench, Iman reaches for leaf mat.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-005",
+            "AS-006",
+            "AS-007"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "Garden flow and crossing read east, screen right. Initial overflow runs toward the foreground."
+      },
+      "rule_ids": [
+        "DIR-005",
+        "CIN-CAM-005"
+      ],
+      "frame_ids": [
+        "FR-015"
+      ]
+    },
+    {
+      "shot_id": "SH-016",
+      "scene_id": "SC-004",
+      "beat_ids": [
+        "BT-005"
+      ],
+      "purpose": "Show the two jobs before fragmenting them",
+      "estimated_duration_s": 8,
+      "shot_size": "MS",
+      "camera": {
+        "viewpoint": "South curb, across the crossing",
+        "angle": "Eye level or low as noted, south of AX-001",
+        "lens_intent": "28 mm equivalent for wide geography",
+        "focus": "Crossing and rim readable in moderate depth",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "Both at low edges of the fork, dry bed on right."
+        }
+      },
+      "composition": "Both at low edges of the fork, dry bed on right.",
+      "blocking": "Iman west, Mara nearest south edge with right hand free.",
+      "subject_motion": "Iman lifts the leaf mat to the west lip. Mara waits while the twig holds.",
+      "environment_motion": "Water moves by the established route. Other pedestrians move only when described.",
+      "lighting": "LGT-A · fixed northeast dawn and cool sky fill. Preserve right cuff value and water rim highlight.",
+      "color": "Graphite pavers, clay jacket, restrained spring green. Keep wet and dry surfaces distinguishable.",
+      "sound": [
+        "Leaf scrape, water keeps spilling south."
+      ],
+      "transition": "Cut inward while the leaf mat stays held.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Wet mat covers the fork.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-005",
+            "AS-006",
+            "AS-007"
+          ]
+        },
+        "exit_state": {
+          "summary": "Mat pinned west by Iman, twig alone across the notch.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-005",
+            "AS-006",
+            "AS-007"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "Garden flow and crossing read east, screen right. Initial overflow runs toward the foreground."
+      },
+      "rule_ids": [
+        "DIR-009",
+        "MIS-012"
+      ],
+      "frame_ids": [
+        "FR-016"
+      ]
+    },
+    {
+      "shot_id": "SH-017",
+      "scene_id": "SC-004",
+      "beat_ids": [
+        "BT-006"
+      ],
+      "purpose": "Land the second drop on release",
+      "estimated_duration_s": 8,
+      "shot_size": "ECU",
+      "camera": {
+        "viewpoint": "South lip or top of the fork with north up",
+        "angle": "Low or steep insert as noted",
+        "lens_intent": "Macro or 85 mm equivalent, shallow but adequate contact depth",
+        "focus": "Contact plane and target remain legible",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "Dark twig across the low notch, bare fingers central."
+        }
+      },
+      "composition": "Dark twig across the low notch, bare fingers central.",
+      "blocking": "Right fingers come from the near edge. Leaf mat remains left.",
+      "subject_motion": "Mara pinches and draws the twig toward the south lip in one movement.",
+      "environment_motion": "Water moves by the established route. Other pedestrians move only when described.",
+      "lighting": "LGT-A · fixed northeast dawn and cool sky fill. Preserve right cuff value and water rim highlight.",
+      "color": "Graphite pavers, clay jacket, restrained spring green. Keep wet and dry surfaces distinguishable.",
+      "sound": [
+        "Clearance on Drop 2. Record a little water release for the edit."
+      ],
+      "transition": "Cut on the first water movement east.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Twig seated, water beads behind it.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-005",
+            "AS-006",
+            "AS-007"
+          ]
+        },
+        "exit_state": {
+          "summary": "Twig clear; the water front has just moved past its old position.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-005",
+            "AS-006",
+            "AS-007"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "Garden flow and crossing read east, screen right. Initial overflow runs toward the foreground."
+      },
+      "rule_ids": [
+        "EDT-002",
+        "SND-010"
+      ],
+      "frame_ids": [
+        "FR-017",
+        "FR-029"
+      ]
+    },
+    {
+      "shot_id": "SH-018",
+      "scene_id": "SC-004",
+      "beat_ids": [
+        "BT-006"
+      ],
+      "purpose": "Follow the consequence along its real path",
+      "estimated_duration_s": 9,
+      "shot_size": "CU",
+      "camera": {
+        "viewpoint": "South lip or top of the fork with north up",
+        "angle": "Low or steep insert as noted",
+        "lens_intent": "Macro or 85 mm equivalent, shallow but adequate contact depth",
+        "focus": "Contact plane and target remain legible",
+        "motion": {
+          "type": "pan",
+          "path": "Track the eastward thread with a short pan, staying south of the fork",
+          "trigger": "First visible water front",
+          "endpoint": "Stop with the grass border in the right half",
+          "pace": "Follow the flow at one steady pace"
+        }
+      },
+      "composition": "Water front stays central, grass already visible at right.",
+      "blocking": "Actors stay outside this insert on the west and south edges.",
+      "subject_motion": "The first thread continues east from the notch along the channel.",
+      "environment_motion": "Water moves by the established route. Other pedestrians move only when described.",
+      "lighting": "LGT-A · fixed northeast dawn and cool sky fill. Preserve right cuff value and water rim highlight.",
+      "color": "Graphite pavers, clay jacket, restrained spring green. Keep wet and dry surfaces distinguishable.",
+      "sound": [
+        "Continue the exact release sound across the cut."
+      ],
+      "transition": "Cut on arrival at the grass border.",
+      "continuity": {
+        "entry_state": {
+          "summary": "First water beyond the notch.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-005",
+            "AS-006",
+            "AS-007"
+          ]
+        },
+        "exit_state": {
+          "summary": "Leading edge reaches the grass border.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-005",
+            "AS-006",
+            "AS-007"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "Garden flow and crossing read east, screen right. Initial overflow runs toward the foreground."
+      },
+      "rule_ids": [
+        "EDT-002",
+        "CIN-CAM-017"
+      ],
+      "frame_ids": [
+        "FR-018"
+      ]
+    },
+    {
+      "shot_id": "SH-019",
+      "scene_id": "SC-004",
+      "beat_ids": [
+        "BT-006"
+      ],
+      "purpose": "Pay off the earlier dry grass contact",
+      "estimated_duration_s": 8,
+      "shot_size": "ECU",
+      "camera": {
+        "viewpoint": "South lip or top of the fork with north up",
+        "angle": "Low or steep insert as noted",
+        "lens_intent": "Macro or 85 mm equivalent, shallow but adequate contact depth",
+        "focus": "Contact plane and target remain legible",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "Same blade cluster as SH-010, water at the bottom edge."
+        }
+      },
+      "composition": "Same blade cluster as SH-010, water at the bottom edge.",
+      "blocking": "Mara’s wet right fingertips enter from the near side.",
+      "subject_motion": "She rests fingers against the blades as water passes under them.",
+      "environment_motion": "Water moves by the established route. Other pedestrians move only when described.",
+      "lighting": "LGT-A · fixed northeast dawn and cool sky fill. Preserve right cuff value and water rim highlight.",
+      "color": "Graphite pavers, clay jacket, restrained spring green. Keep wet and dry surfaces distinguishable.",
+      "sound": [
+        "One small rush under the sustained drop."
+      ],
+      "transition": "Cut upward to her shoulders easing.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Water just reaches grass.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-005",
+            "AS-006",
+            "AS-007"
+          ]
+        },
+        "exit_state": {
+          "summary": "Grass is wet; right cuff has a small dark mark.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-005",
+            "AS-006",
+            "AS-007"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "Garden flow and crossing read east, screen right. Initial overflow runs toward the foreground."
+      },
+      "rule_ids": [
+        "MIS-012",
+        "EDT-004"
+      ],
+      "frame_ids": [
+        "FR-019"
+      ]
+    },
+    {
+      "shot_id": "SH-020",
+      "scene_id": "SC-004",
+      "beat_ids": [
+        "BT-006"
+      ],
+      "purpose": "Let cooperation register",
+      "estimated_duration_s": 9,
+      "shot_size": "MS",
+      "camera": {
+        "viewpoint": "South side of basin, at Mara’s shoulder or hand height",
+        "angle": "Oblique from south",
+        "lens_intent": "50 mm equivalent for hand and reaction scale",
+        "focus": "Hold on the named hand, face or lip",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "Mara near right, Iman west left, bed between them in depth."
+        }
+      },
+      "composition": "Mara near right, Iman west left, bed between them in depth.",
+      "blocking": "Iman rests leaves at west lip. Mara lays twig beside them.",
+      "subject_motion": "Mara looks toward Iman. He shifts his weight back as both let their shoulders fall.",
+      "environment_motion": "Water moves by the established route. Other pedestrians move only when described.",
+      "lighting": "LGT-A · fixed northeast dawn and cool sky fill. Preserve right cuff value and water rim highlight.",
+      "color": "Graphite pavers, clay jacket, restrained spring green. Keep wet and dry surfaces distinguishable.",
+      "sound": [
+        "Let water continue as music falls into breakdown."
+      ],
+      "transition": "Let the quieter sound lead the cleanup.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Wet fingers and cuff, debris still in hands.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-005",
+            "AS-006",
+            "AS-007"
+          ]
+        },
+        "exit_state": {
+          "summary": "Debris at west lip, both hands relaxed.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-005",
+            "AS-006",
+            "AS-007"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "Garden flow and crossing read east, screen right. Initial overflow runs toward the foreground."
+      },
+      "rule_ids": [
+        "DIR-001",
+        "DRA-005"
+      ],
+      "frame_ids": [
+        "FR-020"
+      ]
+    },
+    {
+      "shot_id": "SH-021",
+      "scene_id": "SC-005",
+      "beat_ids": [
+        "BT-007"
+      ],
+      "purpose": "Turn relief into shared work",
+      "estimated_duration_s": 8,
+      "shot_size": "CU",
+      "camera": {
+        "viewpoint": "South side of basin, at Mara’s shoulder or hand height",
+        "angle": "Oblique from south",
+        "lens_intent": "50 mm equivalent for hand and reaction scale",
+        "focus": "Hold on the named hand, face or lip",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "Pan enters from left, moving hands above it."
+        }
+      },
+      "composition": "Pan enters from left, moving hands above it.",
+      "blocking": "Iman carries pan from bench to west lip. Mara remains south.",
+      "subject_motion": "Together they gather the leaves and twig into the pan.",
+      "environment_motion": "Water moves by the established route. Other pedestrians move only when described.",
+      "lighting": "LGT-A · fixed northeast dawn and cool sky fill. Preserve right cuff value and water rim highlight.",
+      "color": "Graphite pavers, clay jacket, restrained spring green. Keep wet and dry surfaces distinguishable.",
+      "sound": [
+        "Quiet scrape under the breakdown."
+      ],
+      "transition": "Cut after the twig settles.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Debris at west lip and empty pan.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-005",
+            "AS-006",
+            "AS-007"
+          ]
+        },
+        "exit_state": {
+          "summary": "All debris in pan.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-005",
+            "AS-006",
+            "AS-007"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "Garden flow and crossing read east, screen right. Initial overflow runs toward the foreground."
+      },
+      "rule_ids": [
+        "MIS-007",
+        "SND-004"
+      ],
+      "frame_ids": [
+        "FR-021"
+      ]
+    },
+    {
+      "shot_id": "SH-022",
+      "scene_id": "SC-005",
+      "beat_ids": [
+        "BT-007"
+      ],
+      "purpose": "Show the dry route becoming normal",
+      "estimated_duration_s": 7,
+      "shot_size": "MS",
+      "camera": {
+        "viewpoint": "South curb, across the crossing",
+        "angle": "Eye level or low as noted, south of AX-001",
+        "lens_intent": "28 mm equivalent for wide geography",
+        "focus": "Crossing and rim readable in moderate depth",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "Two lines separated by the curb. Feet in the lower third."
+        }
+      },
+      "composition": "Two lines separated by the curb. Feet in the lower third.",
+      "blocking": "Mara collects broom on west side. Iman puts pan back on bench.",
+      "subject_motion": "Iman slips the tote over his left shoulder and takes the dry crossing toward the east.",
+      "environment_motion": "Water moves by the established route. Other pedestrians move only when described.",
+      "lighting": "LGT-A · fixed northeast dawn and cool sky fill. Preserve right cuff value and water rim highlight.",
+      "color": "Graphite pavers, clay jacket, restrained spring green. Keep wet and dry surfaces distinguishable.",
+      "sound": [
+        "Shoe bed settles into an even pace."
+      ],
+      "transition": "Use Iman’s step to open into the two-route wide.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Tote on bench, broom against basin.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-005",
+            "AS-006",
+            "AS-007"
+          ]
+        },
+        "exit_state": {
+          "summary": "Tote on left shoulder, broom in Mara’s gloved left hand.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-005",
+            "AS-006",
+            "AS-007"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "Garden flow and crossing read east, screen right. Initial overflow runs toward the foreground."
+      },
+      "rule_ids": [
+        "DIR-009",
+        "CIN-CAM-004"
+      ],
+      "frame_ids": [
+        "FR-022"
+      ]
+    },
+    {
+      "shot_id": "SH-023",
+      "scene_id": "SC-005",
+      "beat_ids": [
+        "BT-007"
+      ],
+      "purpose": "Hold both routes in one calm image",
+      "estimated_duration_s": 7,
+      "shot_size": "WS",
+      "camera": {
+        "viewpoint": "South curb, across the crossing",
+        "angle": "Eye level or low as noted, south of AX-001",
+        "lens_intent": "28 mm equivalent for wide geography",
+        "focus": "Crossing and rim readable in moderate depth",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "Mara and grass right of center, walkway clear in front."
+        }
+      },
+      "composition": "Mara and grass right of center, walkway clear in front.",
+      "blocking": "Mara steps back to west basin edge. Iman remains on the dry south side.",
+      "subject_motion": "Iman crosses steadily, and a following walker uses the same route.",
+      "environment_motion": "Water moves by the established route. Other pedestrians move only when described.",
+      "lighting": "LGT-A · fixed northeast dawn and cool sky fill. Preserve right cuff value and water rim highlight.",
+      "color": "Graphite pavers, clay jacket, restrained spring green. Keep wet and dry surfaces distinguishable.",
+      "sound": [
+        "A little air in the breakdown, water continuous."
+      ],
+      "transition": "Hold until the final drop opens the frame.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Old sheen remains on the pavers.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-005",
+            "AS-006",
+            "AS-007"
+          ]
+        },
+        "exit_state": {
+          "summary": "Crossing clear, water visible in its east channel.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-005",
+            "AS-006",
+            "AS-007"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "Garden flow and crossing read east, screen right. Initial overflow runs toward the foreground."
+      },
+      "rule_ids": [
+        "DIR-014",
+        "DRA-017"
+      ],
+      "frame_ids": [
+        "FR-023"
+      ]
+    },
+    {
+      "shot_id": "SH-024",
+      "scene_id": "SC-006",
+      "beat_ids": [
+        "BT-008"
+      ],
+      "purpose": "Open the final drop on the working square",
+      "estimated_duration_s": 9,
+      "shot_size": "WS",
+      "camera": {
+        "viewpoint": "South curb, across the crossing",
+        "angle": "Eye level or low as noted, south of AX-001",
+        "lens_intent": "28 mm equivalent for wide geography",
+        "focus": "Crossing and rim readable in moderate depth",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "Same side as SH-001, spring left, planted strip right, walkway below."
+        }
+      },
+      "composition": "Same side as SH-001, spring left, planted strip right, walkway below.",
+      "blocking": "Mara stands west with broom vertical. Iman walks east.",
+      "subject_motion": "One following walker passes as Mara lets her gaze track the water instead of the traffic.",
+      "environment_motion": "Water moves by the established route. Other pedestrians move only when described.",
+      "lighting": "LGT-A · fixed northeast dawn and cool sky fill. Preserve right cuff value and water rim highlight.",
+      "color": "Graphite pavers, clay jacket, restrained spring green. Keep wet and dry surfaces distinguishable.",
+      "sound": [
+        "Final drop opens here."
+      ],
+      "transition": "Cut upward from the view she has just cleared.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Path and water already separated.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-006",
+            "AS-007"
+          ]
+        },
+        "exit_state": {
+          "summary": "Both movements visible together.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-006",
+            "AS-007"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "Garden flow and crossing read east, screen right. Initial overflow runs toward the foreground."
+      },
+      "rule_ids": [
+        "DIR-001",
+        "SND-010"
+      ],
+      "frame_ids": [
+        "FR-024"
+      ]
+    },
+    {
+      "shot_id": "SH-025",
+      "scene_id": "SC-006",
+      "beat_ids": [
+        "BT-008"
+      ],
+      "purpose": "Make expansion physical",
+      "estimated_duration_s": 9,
+      "shot_size": "WS",
+      "camera": {
+        "viewpoint": "South-central line above the square",
+        "angle": "High oblique to overhead, north up at top",
+        "lens_intent": "28–35 mm equivalent with stable edges",
+        "focus": "Basin, channel and crossing in depth",
+        "motion": {
+          "type": "crane",
+          "path": "Rise from roughly 1.5 to 4.5 m over the south line, with no yaw",
+          "trigger": "First settled wide beat",
+          "endpoint": "High oblique frame with basin and crossing visible",
+          "pace": "Slow, with a short hold at the top"
+        }
+      },
+      "composition": "Runnel points east while the walkway opens at the bottom.",
+      "blocking": "Mara and Iman keep their routes and scale change follows the camera only.",
+      "subject_motion": "Mara holds still, Iman completes his crossing.",
+      "environment_motion": "Water moves by the established route. Other pedestrians move only when described.",
+      "lighting": "LGT-A · fixed northeast dawn and cool sky fill. Preserve right cuff value and water rim highlight.",
+      "color": "Graphite pavers, clay jacket, restrained spring green. Keep wet and dry surfaces distinguishable.",
+      "sound": [
+        "Music opens over continuous water."
+      ],
+      "transition": "Cut once the high framing settles.",
+      "continuity": {
+        "entry_state": {
+          "summary": "View just above the two paths.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-006",
+            "AS-007"
+          ]
+        },
+        "exit_state": {
+          "summary": "High oblique view holding both routes.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-006",
+            "AS-007"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "Garden flow and crossing read east, screen right. Initial overflow runs toward the foreground."
+      },
+      "rule_ids": [
+        "DIR-010",
+        "CIN-CAM-017"
+      ],
+      "frame_ids": [
+        "FR-025",
+        "FR-030"
+      ]
+    },
+    {
+      "shot_id": "SH-026",
+      "scene_id": "SC-006",
+      "beat_ids": [
+        "BT-008"
+      ],
+      "purpose": "See the geometry as one small watershed",
+      "estimated_duration_s": 9,
+      "shot_size": "EWS",
+      "camera": {
+        "viewpoint": "South-central line above the square",
+        "angle": "High oblique to overhead, north up at top",
+        "lens_intent": "28–35 mm equivalent with stable edges",
+        "focus": "Basin, channel and crossing in depth",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "North-up spring and east bed, dry line along bottom."
+        }
+      },
+      "composition": "North-up spring and east bed, dry line along bottom.",
+      "blocking": "Mara at west lip. Iman moves toward east exit below the bed.",
+      "subject_motion": "Only walkers and water move through the geometry.",
+      "environment_motion": "Water moves by the established route. Other pedestrians move only when described.",
+      "lighting": "LGT-A · fixed northeast dawn and cool sky fill. Preserve right cuff value and water rim highlight.",
+      "color": "Graphite pavers, clay jacket, restrained spring green. Keep wet and dry surfaces distinguishable.",
+      "sound": [
+        "Keep the spring in the bed under the drop."
+      ],
+      "transition": "Cut to a slightly wider held top view.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Both paths clearly visible.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-006",
+            "AS-007"
+          ]
+        },
+        "exit_state": {
+          "summary": "Iman reaches the right edge.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-006",
+            "AS-007"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "Garden flow and crossing read east, screen right. Initial overflow runs toward the foreground."
+      },
+      "rule_ids": [
+        "MIS-001",
+        "CIN-CAM-003"
+      ],
+      "frame_ids": [
+        "FR-026"
+      ]
+    },
+    {
+      "shot_id": "SH-027",
+      "scene_id": "SC-006",
+      "beat_ids": [
+        "BT-008"
+      ],
+      "purpose": "Hold long enough for ease to replace urgency",
+      "estimated_duration_s": 9,
+      "shot_size": "EWS",
+      "camera": {
+        "viewpoint": "South-central line above the square",
+        "angle": "High oblique to overhead, north up at top",
+        "lens_intent": "28–35 mm equivalent with stable edges",
+        "focus": "Basin, channel and crossing in depth",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "Whole square, arcs of path and water, no dominant face."
+        }
+      },
+      "composition": "Whole square, arcs of path and water, no dominant face.",
+      "blocking": "Mara stays at left. Walkers use the south crossing.",
+      "subject_motion": "Water keeps running and the walking rhythm returns to normal.",
+      "environment_motion": "Water moves by the established route. Other pedestrians move only when described.",
+      "lighting": "LGT-A · fixed northeast dawn and cool sky fill. Preserve right cuff value and water rim highlight.",
+      "color": "Graphite pavers, clay jacket, restrained spring green. Keep wet and dry surfaces distinguishable.",
+      "sound": [
+        "Trace of water under the tail. Credits begin at 3:54."
+      ],
+      "transition": "Fade after the held view.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Iman at exit and water in grass.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-006",
+            "AS-007"
+          ]
+        },
+        "exit_state": {
+          "summary": "Same square in motion as the song releases.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-006",
+            "AS-007"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "Garden flow and crossing read east, screen right. Initial overflow runs toward the foreground."
+      },
+      "rule_ids": [
+        "DRA-017",
+        "DIR-014"
+      ],
+      "frame_ids": [
+        "FR-027"
+      ]
+    }
+  ]
+}

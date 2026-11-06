@@ -1,0 +1,2007 @@
+{
+  "project_id": "FP-believe",
+  "title": "Believe",
+  "premise": "The supplied English lyrics return to a shared sky, love and faith, then ask us to let the past go and find steadiness when the ground feels uncertain.",
+  "authorship_notes": [
+    "Author supplied the song lyrics in English and requested a directing project using workflows 04–06.",
+    "Story action, staging, design, target durations and coverage are directing proposals for review."
+  ],
+  "creative_intent": "Let the audience feel the grip of an unfinished goodbye, then see Lena loosen it. Bring the parents and daughter into the same composition across distance while keeping their spaces distinct.",
+  "target_runtime_s": 216,
+  "aspect_ratio": "16:9",
+  "tone": "Intimate, uncertain, then quietly devotional",
+  "genre": "Narrative music video",
+  "focal_character": "CH-001 · Lena, a young adult leaving home",
+  "dramatic_question": "When the call goes dark, can Lena stay with the goodbye she has been trying to put off?",
+  "goal": "Keep her parents with her for the first minutes of the journey.",
+  "stakes": "A dropped call makes the departure feel final before she is ready to let go.",
+  "constraints": [
+    "Keep the supplied song section order.",
+    "Plan generated segments at 15 seconds or less, including handles.",
+    "Lyrics only at planning. Sync points depend on the audio master."
+  ],
+  "assumptions": [
+    "Lena, Zoya, Pavel and the train departure are original proposals.",
+    "16:9 landscape, no sung lip sync or required dialogue, one evening on a short stretch of the journey.",
+    "The crescent is a matched visual anchor for the same evening. Neither party can see the other after the train leaves."
+  ],
+  "open_questions": [
+    "Where do the first chorus, reprise and tail land in the stereo master?",
+    "Approve the degree of intimacy in the family performance and the moon and window framing before reference-frame production."
+  ],
+  "scenes": [
+    {
+      "scene_id": "SC-001",
+      "heading": "EXT. STATION PLATFORM – BLUE HOUR",
+      "purpose": "Show one family occupying one place, and plant a gesture and a photograph before they have to carry meaning alone.",
+      "location": "LOC-001 · Canopy and waiting carriage door",
+      "time": "Evening · before departure",
+      "character_ids": [
+        "CH-001",
+        "CH-002",
+        "CH-003"
+      ],
+      "prop_ids": [
+        "PR-002",
+        "PR-005"
+      ],
+      "beat_ids": [
+        "BT-001"
+      ],
+      "action_summary": "Zoya gives Lena the photograph, then opens her palm toward a gap in the canopy. Pavel steadies Lena’s bag strap. Lena steps into the carriage.",
+      "emotion_in": "Closeness",
+      "emotion_out": "Reluctance",
+      "estimated_duration_s": 36,
+      "continuity": {
+        "entry_state": {
+          "summary": "Train still. Family together behind platform line. Photograph with Zoya.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-007",
+            "AS-010",
+            "AS-012",
+            "AS-013"
+          ],
+          "frame_ids": [
+            "FR-001"
+          ]
+        },
+        "exit_state": {
+          "summary": "Lena aboard with photograph in left hand. Parents on platform. Door closed.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-007",
+            "AS-010",
+            "AS-012",
+            "AS-013"
+          ],
+          "frame_ids": [
+            "FR-004"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "Camera south, rails north. Train nose and exit east, screen right. Keep the moon at upper right beyond canopy. Only contact happens at rest."
+      },
+      "sound_requirements": [
+        "Air and muffled station traffic.",
+        "One gentle door close under the outgoing chorus."
+      ]
+    },
+    {
+      "scene_id": "SC-002",
+      "heading": "INT. CARRIAGE BAY / EXT. PLATFORM – EVENING",
+      "purpose": "Give Lena a physical loss of place and a new tactic. Make her hands change from gripping the past to holding a call.",
+      "location": "LOC-002 and LOC-001 · Seat and canopy",
+      "time": "First minutes after boarding",
+      "character_ids": [
+        "CH-001",
+        "CH-002",
+        "CH-003"
+      ],
+      "prop_ids": [
+        "PR-001",
+        "PR-002",
+        "PR-003",
+        "PR-004",
+        "PR-005"
+      ],
+      "beat_ids": [
+        "BT-002"
+      ],
+      "action_summary": "Lena tucks the bag below her seat. The platform recedes. She puts the picture flat and raises her phone. Pavel answers under the canopy.",
+      "emotion_in": "Reluctance",
+      "emotion_out": "Concentrated reassurance",
+      "estimated_duration_s": 33,
+      "continuity": {
+        "entry_state": {
+          "summary": "Photo in left hand. Train begins moving east. Reading lamp already lit.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-009",
+            "AS-010",
+            "AS-011",
+            "AS-013"
+          ],
+          "frame_ids": [
+            "FR-005"
+          ]
+        },
+        "exit_state": {
+          "summary": "Photo face up near window. Lena’s phone upright in right hand and active. Pavel holds his own phone.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-009",
+            "AS-010",
+            "AS-011",
+            "AS-013"
+          ],
+          "frame_ids": [
+            "FR-008"
+          ]
+        },
+        "axis_id": "AX-002",
+        "screen_direction": "Train looks north from aisle. Window scenery travels left. Platform insert returns to AX-001 with fixed posts before moving back."
+      },
+      "sound_requirements": [
+        "Begin a single rolling bed as the platform recedes.",
+        "A quiet answer cue may carry the switch of place."
+      ]
+    },
+    {
+      "scene_id": "SC-003",
+      "heading": "INT. CARRIAGE BAY / EXT. PLATFORM – EVENING",
+      "purpose": "Let the screen keep them close while the outside world changes. Make distance readable before the signal fails.",
+      "location": "LOC-002 and LOC-001 · Two ends of the call",
+      "time": "Continuous · into the tunnel",
+      "character_ids": [
+        "CH-001",
+        "CH-002",
+        "CH-003"
+      ],
+      "prop_ids": [
+        "PR-001",
+        "PR-002",
+        "PR-003",
+        "PR-004"
+      ],
+      "beat_ids": [
+        "BT-003"
+      ],
+      "action_summary": "Lena watches the call. The parents stand close enough to fit the same screen. The train enters a tunnel and exterior light disappears.",
+      "emotion_in": "Reassurance",
+      "emotion_out": "Unease",
+      "estimated_duration_s": 36,
+      "continuity": {
+        "entry_state": {
+          "summary": "Phone active. Photo face up. Cool exterior visible beyond warm lamp reflection.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-009",
+            "AS-010",
+            "AS-011"
+          ],
+          "frame_ids": [
+            "FR-009"
+          ]
+        },
+        "exit_state": {
+          "summary": "Phone still active on last beat. Tunnel dark outside. Warm lamp unchanged.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-009",
+            "AS-010",
+            "AS-011"
+          ],
+          "frame_ids": [
+            "FR-012"
+          ]
+        },
+        "axis_id": "AX-002",
+        "screen_direction": "Show the phone portrait image via a separate plate of the same parents and canopy. A frontal device insert has no lateral action axis."
+      },
+      "sound_requirements": [
+        "Hold the music. The platform bed can sit close to the call moment.",
+        "Dark exterior coincides with enclosed rail tone."
+      ]
+    },
+    {
+      "scene_id": "SC-004",
+      "heading": "INT. CARRIAGE BAY – TUNNEL TO OPEN AIR",
+      "purpose": "Take away the old tactic. Let Lena first try to restore it, then notice the world outside the phone.",
+      "location": "LOC-002 · Table and window",
+      "time": "Continuous · tunnel passage",
+      "character_ids": [
+        "CH-001"
+      ],
+      "prop_ids": [
+        "PR-001",
+        "PR-002",
+        "PR-003"
+      ],
+      "beat_ids": [
+        "BT-004"
+      ],
+      "action_summary": "The bay sways. Lena catches the sliding picture and the call freezes. One retry gives her no answer. Cool sky returns at the window edge.",
+      "emotion_in": "Alarm",
+      "emotion_out": "Still uncertain, attention lifting",
+      "estimated_duration_s": 33,
+      "continuity": {
+        "entry_state": {
+          "summary": "Tunnel outside. Phone active in right hand, photo near outer edge.",
+          "asset_ids": [
+            "AS-001",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-011"
+          ],
+          "frame_ids": [
+            "FR-013"
+          ]
+        },
+        "exit_state": {
+          "summary": "Photo resettled face up. Dark phone still in right hand. Cool exterior has returned.",
+          "asset_ids": [
+            "AS-001",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-011"
+          ],
+          "frame_ids": [
+            "FR-016"
+          ]
+        },
+        "axis_id": "AX-002",
+        "screen_direction": "Keep the train moving right, outside plate left. Confine the photo slip and catch to one insert. Lamp remains on."
+      },
+      "sound_requirements": [
+        "One short rail jolt, then enclosed rolling bed.",
+        "Brief filtered call decay if space allows. No words are needed."
+      ]
+    },
+    {
+      "scene_id": "SC-005",
+      "heading": "INT. CARRIAGE BAY / EXT. PLATFORM – NIGHT",
+      "purpose": "Show the change as a choice in Lena’s hands. Let the viewers share the sky before the parents and daughter do.",
+      "location": "LOC-002 and LOC-001 · Window and open canopy end",
+      "time": "Moments later · same evening",
+      "character_ids": [
+        "CH-001",
+        "CH-002",
+        "CH-003"
+      ],
+      "prop_ids": [
+        "PR-001",
+        "PR-002",
+        "PR-003",
+        "PR-004"
+      ],
+      "beat_ids": [
+        "BT-005"
+      ],
+      "action_summary": "Lena sets the phone face down and turns off the lamp. She opens her right palm like Zoya. At the platform’s open end, Zoya does the same. Pavel lowers his phone.",
+      "emotion_in": "Uncertainty",
+      "emotion_out": "Recognition and trust",
+      "estimated_duration_s": 36,
+      "continuity": {
+        "entry_state": {
+          "summary": "Lamp on with a bright spot in window. Dark phone in Lena’s right hand. Parents near their original post.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-009",
+            "AS-010",
+            "AS-011",
+            "AS-012"
+          ],
+          "frame_ids": [
+            "FR-017"
+          ]
+        },
+        "exit_state": {
+          "summary": "Lena’s phone face down, lamp off and palm open. Parents stand side by side near the open end.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-009",
+            "AS-010",
+            "AS-011",
+            "AS-012"
+          ],
+          "frame_ids": [
+            "FR-020"
+          ]
+        },
+        "axis_id": "AX-002",
+        "screen_direction": "Use the window view to reorient, then the canopy post to mark the cut back to the platform. Same moon shape and height. The people occupy separate places."
+      },
+      "sound_requirements": [
+        "Clear lamp click if it survives the music.",
+        "Keep train and platform acoustics distinct under the chorus."
+      ]
+    },
+    {
+      "scene_id": "SC-006",
+      "heading": "EXT. PLATFORM / INT. CARRIAGE BAY – NIGHT",
+      "purpose": "Leave the connection in the paired frames after the hands have let go. Keep the departure real.",
+      "location": "LOC-001 and LOC-002 · Two frames of sky",
+      "time": "Same evening · a short afterbeat",
+      "character_ids": [
+        "CH-001",
+        "CH-002",
+        "CH-003"
+      ],
+      "prop_ids": [
+        "PR-001",
+        "PR-002",
+        "PR-004"
+      ],
+      "beat_ids": [
+        "BT-006"
+      ],
+      "action_summary": "Zoya touches Pavel’s sleeve. Lena lets her hand rest beside the photograph. The canopy and window successively frame the same crescent.",
+      "emotion_in": "Trust",
+      "emotion_out": "Quiet release",
+      "estimated_duration_s": 36,
+      "continuity": {
+        "entry_state": {
+          "summary": "Parents side by side. Lena’s palm up and phone dark on table.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-009",
+            "AS-010",
+            "AS-011",
+            "AS-012"
+          ],
+          "frame_ids": [
+            "FR-021"
+          ]
+        },
+        "exit_state": {
+          "summary": "Pavel’s phone pocketed. Lena’s hand relaxed and picture face up. Last image is the window’s sky.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-009",
+            "AS-010",
+            "AS-011",
+            "AS-012"
+          ],
+          "frame_ids": [
+            "FR-024"
+          ]
+        },
+        "axis_id": "AX-002",
+        "screen_direction": "Return to two already mapped edges. No new interface state, reply or viewpoint outside the established spaces."
+      },
+      "sound_requirements": [
+        "Let the arrangement fade over the last held window image.",
+        "Carry a little wheel texture under the fade."
+      ]
+    }
+  ],
+  "shots": [
+    {
+      "shot_id": "SH-001",
+      "scene_id": "SC-001",
+      "beat_ids": [
+        "BT-001"
+      ],
+      "purpose": "Establish one shared place before separation",
+      "estimated_duration_s": 9,
+      "shot_size": "EWS",
+      "camera": {
+        "viewpoint": "South of the platform line or under canopy",
+        "angle": "Eye level toward north, or up at the open end",
+        "lens_intent": "35–50 mm equivalent, wider for route",
+        "focus": "Faces and canopy landmark readable",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "Rail at north, family at middle post, train door to right and sky above."
+        }
+      },
+      "composition": "Rail at north, family at middle post, train door to right and sky above.",
+      "blocking": "Lena between Zoya and Pavel on the platform.",
+      "subject_motion": "Family crosses a few steps to wait beside the stationary carriage.",
+      "environment_motion": "Still platform landmarks. Sky drifts only in the last held view.",
+      "lighting": "LGT-A · amber canopy from above and cool north sky. Hold post position and shadow side.",
+      "color": "Indigo sky, muted sage and rust. Amber is confined to the canopy pools.",
+      "sound": [
+        "Start the first chorus over a low station bed."
+      ],
+      "transition": "Cut down to the picture in Zoya’s hand.",
+      "continuity": {
+        "entry_state": {
+          "summary": "All three on the dry platform.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-007",
+            "AS-010",
+            "AS-012",
+            "AS-013"
+          ]
+        },
+        "exit_state": {
+          "summary": "They stop at the middle post, door just right of them.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-007",
+            "AS-010",
+            "AS-012",
+            "AS-013"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "Platform east and departure read screen right."
+      },
+      "rule_ids": [
+        "CIN-CAM-003",
+        "DIR-001"
+      ],
+      "frame_ids": [
+        "FR-001"
+      ]
+    },
+    {
+      "shot_id": "SH-002",
+      "scene_id": "SC-001",
+      "beat_ids": [
+        "BT-001"
+      ],
+      "purpose": "Give the past a material form",
+      "estimated_duration_s": 9,
+      "shot_size": "CU",
+      "camera": {
+        "viewpoint": "Aisle side of table or neutral view onto a held object",
+        "angle": "Steep close insert without swapping the hand or object",
+        "lens_intent": "Macro or 85 mm equivalent",
+        "focus": "The named edge, switch or point of contact",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "Cream photograph at center between two sleeves."
+        }
+      },
+      "composition": "Cream photograph at center between two sleeves.",
+      "blocking": "Zoya hands picture from left of frame into Lena’s left hand.",
+      "subject_motion": "Lena closes her fingers around the lower edge. The crease stays visible.",
+      "environment_motion": "Still platform landmarks. Sky drifts only in the last held view.",
+      "lighting": "LGT-A · amber canopy from above and cool north sky. Hold post position and shadow side.",
+      "color": "Indigo sky, muted sage and rust. Amber is confined to the canopy pools.",
+      "sound": [
+        "One light paper touch under music."
+      ],
+      "transition": "Cut on Lena lifting her eyes.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Photograph held by Zoya.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-004",
+            "AS-007",
+            "AS-010"
+          ]
+        },
+        "exit_state": {
+          "summary": "Photograph face up in Lena’s left hand.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-004",
+            "AS-007",
+            "AS-010"
+          ]
+        },
+        "axis_id": "AX-002",
+        "screen_direction": "Exterior passes left through north window."
+      },
+      "rule_ids": [
+        "MIS-007",
+        "EDT-002"
+      ],
+      "frame_ids": [
+        "FR-002"
+      ]
+    },
+    {
+      "shot_id": "SH-003",
+      "scene_id": "SC-001",
+      "beat_ids": [
+        "BT-001"
+      ],
+      "purpose": "Plant the gesture for the final choruses",
+      "estimated_duration_s": 9,
+      "shot_size": "MS",
+      "camera": {
+        "viewpoint": "South of the platform line or under canopy",
+        "angle": "Eye level toward north, or up at the open end",
+        "lens_intent": "35–50 mm equivalent, wider for route",
+        "focus": "Faces and canopy landmark readable",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "Zoya and Lena under the canopy, open east sky over their shoulders."
+        }
+      },
+      "composition": "Zoya and Lena under the canopy, open east sky over their shoulders.",
+      "blocking": "Zoya faces Lena and then looks up toward the gap.",
+      "subject_motion": "Zoya opens her right palm as she lifts her chin. Lena follows the look, then holds the photograph tighter.",
+      "environment_motion": "Still platform landmarks. Sky drifts only in the last held view.",
+      "lighting": "LGT-A · amber canopy from above and cool north sky. Hold post position and shadow side.",
+      "color": "Indigo sky, muted sage and rust. Amber is confined to the canopy pools.",
+      "sound": [
+        "Hold a little station air over the gesture."
+      ],
+      "transition": "Cut on Lena turning toward the train.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Their eyes meet.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-007",
+            "AS-010",
+            "AS-012",
+            "AS-013"
+          ]
+        },
+        "exit_state": {
+          "summary": "Both see the crescent at upper right.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-007",
+            "AS-010",
+            "AS-012",
+            "AS-013"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "Platform east and departure read screen right."
+      },
+      "rule_ids": [
+        "DIR-009",
+        "CIN-CAM-005"
+      ],
+      "frame_ids": [
+        "FR-003"
+      ]
+    },
+    {
+      "shot_id": "SH-004",
+      "scene_id": "SC-001",
+      "beat_ids": [
+        "BT-001"
+      ],
+      "purpose": "Make the departure start while the family is still visible",
+      "estimated_duration_s": 9,
+      "shot_size": "WS",
+      "camera": {
+        "viewpoint": "South of the platform line or under canopy",
+        "angle": "Eye level toward north, or up at the open end",
+        "lens_intent": "35–50 mm equivalent, wider for route",
+        "focus": "Faces and canopy landmark readable",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "Open door at right, parents centered under post."
+        }
+      },
+      "composition": "Open door at right, parents centered under post.",
+      "blocking": "Pavel steadies Lena’s bag strap. Both parents keep behind the line.",
+      "subject_motion": "Lena lets go of the strap Pavel was holding and steps through the open door. The door closes at rest.",
+      "environment_motion": "Still platform landmarks. Sky drifts only in the last held view.",
+      "lighting": "LGT-A · amber canopy from above and cool north sky. Hold post position and shadow side.",
+      "color": "Indigo sky, muted sage and rust. Amber is confined to the canopy pools.",
+      "sound": [
+        "One soft close cue under chorus."
+      ],
+      "transition": "Cut across the closed doorway to inside.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Door open, photo in left hand.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-007",
+            "AS-010",
+            "AS-012",
+            "AS-013"
+          ]
+        },
+        "exit_state": {
+          "summary": "Door closed, daughter aboard, parents on platform.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-007",
+            "AS-010",
+            "AS-012",
+            "AS-013"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "Platform east and departure read screen right."
+      },
+      "rule_ids": [
+        "CIN-CAM-004",
+        "EDT-007"
+      ],
+      "frame_ids": [
+        "FR-004"
+      ]
+    },
+    {
+      "shot_id": "SH-005",
+      "scene_id": "SC-002",
+      "beat_ids": [
+        "BT-002"
+      ],
+      "purpose": "Turn the loss of place into movement",
+      "estimated_duration_s": 8,
+      "shot_size": "MS",
+      "camera": {
+        "viewpoint": "South aisle of the carriage, window north",
+        "angle": "Seated eye level or close from aisle side",
+        "lens_intent": "35–65 mm equivalent, preserve depth behind Lena",
+        "focus": "Eyes or near hand sharp, window readable when it carries story",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "Lena at table, window holds recognizable platform post."
+        }
+      },
+      "composition": "Lena at table, window holds recognizable platform post.",
+      "blocking": "Lena sits with photo in left hand and bag below seat.",
+      "subject_motion": "She plants both feet. Outside the window, the post begins sliding left.",
+      "environment_motion": "When the exterior is visible, near silhouettes slide left. Inside fixtures stay fixed.",
+      "lighting": "Cool window spill and warm reading reflection separate face and table.",
+      "color": "Indigo and blue outside, rust scarf constant. Warm table light remains local.",
+      "sound": [
+        "The first rolling sound takes over from the platform."
+      ],
+      "transition": "Cut to her grip on the photo.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Carriage still and post visible.",
+          "asset_ids": [
+            "AS-001",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-011",
+            "AS-013"
+          ]
+        },
+        "exit_state": {
+          "summary": "Train moving east, post gone left.",
+          "asset_ids": [
+            "AS-001",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-011",
+            "AS-013"
+          ]
+        },
+        "axis_id": "AX-002",
+        "screen_direction": "Exterior passes left through north window."
+      },
+      "rule_ids": [
+        "CIN-CAM-004",
+        "SND-004"
+      ],
+      "frame_ids": [
+        "FR-005"
+      ]
+    },
+    {
+      "shot_id": "SH-006",
+      "scene_id": "SC-002",
+      "beat_ids": [
+        "BT-002"
+      ],
+      "purpose": "Let Lena choose to loosen her grip",
+      "estimated_duration_s": 8,
+      "shot_size": "CU",
+      "camera": {
+        "viewpoint": "Aisle side of table or neutral view onto a held object",
+        "angle": "Steep close insert without swapping the hand or object",
+        "lens_intent": "Macro or 85 mm equivalent",
+        "focus": "The named edge, switch or point of contact",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "Frame holds left hand and table ledge with empty space right."
+        }
+      },
+      "composition": "Frame holds left hand and table ledge with empty space right.",
+      "blocking": "Lena keeps photo just inside window edge.",
+      "subject_motion": "She eases her thumb off the crease and puts the photo face up.",
+      "environment_motion": "When the exterior is visible, near silhouettes slide left. Inside fixtures stay fixed.",
+      "lighting": "Cool window spill and warm reading reflection separate face and table.",
+      "color": "Indigo and blue outside, rust scarf constant. Warm table light remains local.",
+      "sound": [
+        "Rolling bed continues."
+      ],
+      "transition": "Cut from her freed hand to Pavel’s raised phone.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Photo pinched in left hand.",
+          "asset_ids": [
+            "AS-001",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-011",
+            "AS-013"
+          ]
+        },
+        "exit_state": {
+          "summary": "Photo face up near window. Left hand withdrawn.",
+          "asset_ids": [
+            "AS-001",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-011",
+            "AS-013"
+          ]
+        },
+        "axis_id": "AX-002",
+        "screen_direction": "Exterior passes left through north window."
+      },
+      "rule_ids": [
+        "DIR-005",
+        "MIS-007"
+      ],
+      "frame_ids": [
+        "FR-006"
+      ]
+    },
+    {
+      "shot_id": "SH-007",
+      "scene_id": "SC-002",
+      "beat_ids": [
+        "BT-002"
+      ],
+      "purpose": "Show the other end of the call",
+      "estimated_duration_s": 8,
+      "shot_size": "MCU",
+      "camera": {
+        "viewpoint": "South of the platform line or under canopy",
+        "angle": "Eye level toward north, or up at the open end",
+        "lens_intent": "35–50 mm equivalent, wider for route",
+        "focus": "Faces and canopy landmark readable",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "Pavel near post with Zoya just behind, dark green phone below his face."
+        }
+      },
+      "composition": "Pavel near post with Zoya just behind, dark green phone below his face.",
+      "blocking": "Pavel on station side, facing slightly down toward the device.",
+      "subject_motion": "He sees the phone light and raises it. Zoya steps into the phone’s view.",
+      "environment_motion": "Still platform landmarks. Sky drifts only in the last held view.",
+      "lighting": "LGT-A · amber canopy from above and cool north sky. Hold post position and shadow side.",
+      "color": "Indigo sky, muted sage and rust. Amber is confined to the canopy pools.",
+      "sound": [
+        "A small call cue if the track has space."
+      ],
+      "transition": "Cut back to the carriage as the call connects.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Phone low in right hand.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-007",
+            "AS-009",
+            "AS-010",
+            "AS-013"
+          ]
+        },
+        "exit_state": {
+          "summary": "Pavel holds his phone upright, both parents looking into it.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-007",
+            "AS-009",
+            "AS-010",
+            "AS-013"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "Platform east and departure read screen right."
+      },
+      "rule_ids": [
+        "DIR-002",
+        "CIN-CAM-005"
+      ],
+      "frame_ids": [
+        "FR-007"
+      ]
+    },
+    {
+      "shot_id": "SH-008",
+      "scene_id": "SC-002",
+      "beat_ids": [
+        "BT-002"
+      ],
+      "purpose": "Show that a screen can temporarily hold the goodbye",
+      "estimated_duration_s": 9,
+      "shot_size": "MCU",
+      "camera": {
+        "viewpoint": "South aisle of the carriage, window north",
+        "angle": "Seated eye level or close from aisle side",
+        "lens_intent": "35–65 mm equivalent, preserve depth behind Lena",
+        "focus": "Eyes or near hand sharp, window readable when it carries story",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "Lena’s face and right phone in near half, window behind."
+        }
+      },
+      "composition": "Lena’s face and right phone in near half, window behind.",
+      "blocking": "Lena seated, looking slightly down toward the phone.",
+      "subject_motion": "She raises her phone to eye height. The corners of her mouth ease when it connects.",
+      "environment_motion": "When the exterior is visible, near silhouettes slide left. Inside fixtures stay fixed.",
+      "lighting": "Cool window spill and warm reading reflection separate face and table.",
+      "color": "Indigo and blue outside, rust scarf constant. Warm table light remains local.",
+      "sound": [
+        "Rolling bed with a faint phone sound."
+      ],
+      "transition": "Cut to the parents’ image within the device.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Photo on table, phone just rising.",
+          "asset_ids": [
+            "AS-001",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-011",
+            "AS-013"
+          ]
+        },
+        "exit_state": {
+          "summary": "Phone active in right hand at eye level.",
+          "asset_ids": [
+            "AS-001",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-011",
+            "AS-013"
+          ]
+        },
+        "axis_id": "AX-002",
+        "screen_direction": "Exterior passes left through north window."
+      },
+      "rule_ids": [
+        "DIR-002",
+        "EDT-004"
+      ],
+      "frame_ids": [
+        "FR-008"
+      ]
+    },
+    {
+      "shot_id": "SH-009",
+      "scene_id": "SC-003",
+      "beat_ids": [
+        "BT-003"
+      ],
+      "purpose": "Show the family held in one smaller frame",
+      "estimated_duration_s": 9,
+      "shot_size": "CU",
+      "camera": {
+        "viewpoint": "Neutral portrait insert, display or separated front-camera plate",
+        "angle": "Square to device glass",
+        "lens_intent": "65–85 mm equivalent field, controlled reflections",
+        "focus": "Image plane and device edge readable",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "Portrait device center. Parents together against the familiar canopy."
+        }
+      },
+      "composition": "Portrait device center. Parents together against the familiar canopy.",
+      "blocking": "Lena’s right hand steady. Photo outside crop and still face up.",
+      "subject_motion": "Zoya leans closer to Pavel within the live portrait frame.",
+      "environment_motion": "Background post stays fixed in the portrait. Screen animation is a planned composite.",
+      "lighting": "Portrait plate under platform LGT-A. Control reflection in the train display independently.",
+      "color": "Display warmth stays lower than real canopy light; darkens only at call loss.",
+      "sound": [
+        "Optional compressed station air under music."
+      ],
+      "transition": "Cut to the real platform from the screen image.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Parents visible in live call.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-006",
+            "AS-010"
+          ]
+        },
+        "exit_state": {
+          "summary": "Live call still active, both faces close.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-006",
+            "AS-010"
+          ]
+        },
+        "axis_id": "AX-003",
+        "screen_direction": "Frontal device insert. Keep hand and portrait orientation."
+      },
+      "rule_ids": [
+        "DIR-002",
+        "CIN-CAM-008"
+      ],
+      "frame_ids": [
+        "FR-009"
+      ]
+    },
+    {
+      "shot_id": "SH-010",
+      "scene_id": "SC-003",
+      "beat_ids": [
+        "BT-003"
+      ],
+      "purpose": "Let the audience feel the distance outside the screen",
+      "estimated_duration_s": 9,
+      "shot_size": "MS",
+      "camera": {
+        "viewpoint": "South of the platform line or under canopy",
+        "angle": "Eye level toward north, or up at the open end",
+        "lens_intent": "35–50 mm equivalent, wider for route",
+        "focus": "Faces and canopy landmark readable",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "Familiar post frames parents, empty track at top."
+        }
+      },
+      "composition": "Familiar post frames parents, empty track at top.",
+      "blocking": "Pavel holds phone in right hand. Zoya beside him.",
+      "subject_motion": "Zoya looks down into the phone, then smiles at it. The track stays empty.",
+      "environment_motion": "Still platform landmarks. Sky drifts only in the last held view.",
+      "lighting": "LGT-A · amber canopy from above and cool north sky. Hold post position and shadow side.",
+      "color": "Indigo sky, muted sage and rust. Amber is confined to the canopy pools.",
+      "sound": [
+        "Station bed present at this end of the call."
+      ],
+      "transition": "Match their gaze to Lena’s face.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Both on call below the canopy.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-007",
+            "AS-009",
+            "AS-010"
+          ]
+        },
+        "exit_state": {
+          "summary": "Same posture with the empty track visible behind them.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-007",
+            "AS-009",
+            "AS-010"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "Platform east and departure read screen right."
+      },
+      "rule_ids": [
+        "CIN-CAM-005",
+        "EDT-007"
+      ],
+      "frame_ids": [
+        "FR-010"
+      ]
+    },
+    {
+      "shot_id": "SH-011",
+      "scene_id": "SC-003",
+      "beat_ids": [
+        "BT-003"
+      ],
+      "purpose": "Show where Lena is putting her attention",
+      "estimated_duration_s": 9,
+      "shot_size": "MCU",
+      "camera": {
+        "viewpoint": "South aisle of the carriage, window north",
+        "angle": "Seated eye level or close from aisle side",
+        "lens_intent": "35–65 mm equivalent, preserve depth behind Lena",
+        "focus": "Eyes or near hand sharp, window readable when it carries story",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "Lena in near half, phone at eye height, window behind."
+        }
+      },
+      "composition": "Lena in near half, phone at eye height, window behind.",
+      "blocking": "Photo face up. Warm reading reflection near window center.",
+      "subject_motion": "She barely moves. Passing exterior shapes slide left behind her.",
+      "environment_motion": "When the exterior is visible, near silhouettes slide left. Inside fixtures stay fixed.",
+      "lighting": "Cool window spill and warm reading reflection separate face and table.",
+      "color": "Indigo and blue outside, rust scarf constant. Warm table light remains local.",
+      "sound": [
+        "Restore the carriage bed under the same chorus."
+      ],
+      "transition": "Use the window frame to lead into the tunnel.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Phone active in her right hand.",
+          "asset_ids": [
+            "AS-001",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-011"
+          ]
+        },
+        "exit_state": {
+          "summary": "Gaze stays on call, exterior beginning to dim.",
+          "asset_ids": [
+            "AS-001",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-011"
+          ]
+        },
+        "axis_id": "AX-002",
+        "screen_direction": "Exterior passes left through north window."
+      },
+      "rule_ids": [
+        "DIR-009",
+        "LGT-010"
+      ],
+      "frame_ids": [
+        "FR-011"
+      ]
+    },
+    {
+      "shot_id": "SH-012",
+      "scene_id": "SC-003",
+      "beat_ids": [
+        "BT-003"
+      ],
+      "purpose": "Remove the outside reference before the signal fails",
+      "estimated_duration_s": 9,
+      "shot_size": "WS",
+      "camera": {
+        "viewpoint": "South aisle of the carriage, window north",
+        "angle": "Seated eye level or close from aisle side",
+        "lens_intent": "35–65 mm equivalent, preserve depth behind Lena",
+        "focus": "Eyes or near hand sharp, window readable when it carries story",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "Window and warm table lamp share the frame."
+        }
+      },
+      "composition": "Window and warm table lamp share the frame.",
+      "blocking": "Lena seated, device still up.",
+      "subject_motion": "A dark edge travels right to left across the window. She stays focused on the call.",
+      "environment_motion": "When the exterior is visible, near silhouettes slide left. Inside fixtures stay fixed.",
+      "lighting": "Tunnel removes exterior fill. Reading lamp and floor practical remain.",
+      "color": "Indigo and blue outside, rust scarf constant. Warm table light remains local.",
+      "sound": [
+        "Rail tone becomes enclosed at the tunnel mouth."
+      ],
+      "transition": "Cut on the first rail jolt.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Exterior blue visible.",
+          "asset_ids": [
+            "AS-001",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-011"
+          ]
+        },
+        "exit_state": {
+          "summary": "Exterior black. Lamp on and call still active.",
+          "asset_ids": [
+            "AS-001",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-011"
+          ]
+        },
+        "axis_id": "AX-002",
+        "screen_direction": "Exterior passes left through north window."
+      },
+      "rule_ids": [
+        "CIN-CAM-004",
+        "SND-004"
+      ],
+      "frame_ids": [
+        "FR-012"
+      ]
+    },
+    {
+      "shot_id": "SH-013",
+      "scene_id": "SC-004",
+      "beat_ids": [
+        "BT-004"
+      ],
+      "purpose": "Make the lyric’s loss of footing physical",
+      "estimated_duration_s": 8,
+      "shot_size": "CU",
+      "camera": {
+        "viewpoint": "Aisle side of table or neutral view onto a held object",
+        "angle": "Steep close insert without swapping the hand or object",
+        "lens_intent": "Macro or 85 mm equivalent",
+        "focus": "The named edge, switch or point of contact",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "Photo near the table edge, left hand enters below."
+        }
+      },
+      "composition": "Photo near the table edge, left hand enters below.",
+      "blocking": "Lena remains seated. Right phone held outside frame.",
+      "subject_motion": "Photo slides toward the aisle. Her left hand catches its bottom edge.",
+      "environment_motion": "When the exterior is visible, near silhouettes slide left. Inside fixtures stay fixed.",
+      "lighting": "Tunnel removes exterior fill. Reading lamp and floor practical remain.",
+      "color": "Indigo and blue outside, rust scarf constant. Warm table light remains local.",
+      "sound": [
+        "One rail jolt. No extra crash."
+      ],
+      "transition": "Cut on the catch to the failed call.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Photo face up and still.",
+          "asset_ids": [
+            "AS-001",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-011"
+          ]
+        },
+        "exit_state": {
+          "summary": "Photo caught, crease unchanged.",
+          "asset_ids": [
+            "AS-001",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-011"
+          ]
+        },
+        "axis_id": "AX-002",
+        "screen_direction": "Exterior passes left through north window."
+      },
+      "rule_ids": [
+        "EDT-002",
+        "MIS-007"
+      ],
+      "frame_ids": [
+        "FR-013"
+      ]
+    },
+    {
+      "shot_id": "SH-014",
+      "scene_id": "SC-004",
+      "beat_ids": [
+        "BT-004"
+      ],
+      "purpose": "Make the dropped call legible",
+      "estimated_duration_s": 9,
+      "shot_size": "CU",
+      "camera": {
+        "viewpoint": "Neutral portrait insert, display or separated front-camera plate",
+        "angle": "Square to device glass",
+        "lens_intent": "65–85 mm equivalent field, controlled reflections",
+        "focus": "Image plane and device edge readable",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "Same device portrait as SH-009, screen centered."
+        }
+      },
+      "composition": "Same device portrait as SH-009, screen centered.",
+      "blocking": "Lena holds phone in right hand, photo secured by left.",
+      "subject_motion": "The parents’ image freezes briefly, then dims to a dark interface.",
+      "environment_motion": "Background post stays fixed in the portrait. Screen animation is a planned composite.",
+      "lighting": "Portrait plate under platform LGT-A. Control reflection in the train display independently.",
+      "color": "Display warmth stays lower than real canopy light; darkens only at call loss.",
+      "sound": [
+        "Brief filtered call decay under the verse."
+      ],
+      "transition": "Cut from the dim screen to Lena trying once.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Portrait still live on entry.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-006",
+            "AS-010"
+          ]
+        },
+        "exit_state": {
+          "summary": "Display dark with no reply.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-006",
+            "AS-010"
+          ]
+        },
+        "axis_id": "AX-003",
+        "screen_direction": "Frontal device insert. Keep hand and portrait orientation."
+      },
+      "rule_ids": [
+        "DIR-005",
+        "EDT-004"
+      ],
+      "frame_ids": [
+        "FR-014",
+        "FR-025"
+      ]
+    },
+    {
+      "shot_id": "SH-015",
+      "scene_id": "SC-004",
+      "beat_ids": [
+        "BT-004"
+      ],
+      "purpose": "Give the failed tactic a human reaction",
+      "estimated_duration_s": 8,
+      "shot_size": "MCU",
+      "camera": {
+        "viewpoint": "South aisle of the carriage, window north",
+        "angle": "Seated eye level or close from aisle side",
+        "lens_intent": "35–65 mm equivalent, preserve depth behind Lena",
+        "focus": "Eyes or near hand sharp, window readable when it carries story",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "Right thumb and face in one plane, window behind dark."
+        }
+      },
+      "composition": "Right thumb and face in one plane, window behind dark.",
+      "blocking": "Lena looks down. Her left hand settles the photo flat.",
+      "subject_motion": "She taps once with her right thumb. She waits, then looks up as blue returns at frame edge.",
+      "environment_motion": "When the exterior is visible, near silhouettes slide left. Inside fixtures stay fixed.",
+      "lighting": "Tunnel removes exterior fill. Reading lamp and floor practical remain.",
+      "color": "Indigo and blue outside, rust scarf constant. Warm table light remains local.",
+      "sound": [
+        "Return to the continuing rail bed."
+      ],
+      "transition": "Follow her gaze into the window.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Dark screen up, picture caught near edge.",
+          "asset_ids": [
+            "AS-001",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-011"
+          ]
+        },
+        "exit_state": {
+          "summary": "Phone still dark and held. Picture flat.",
+          "asset_ids": [
+            "AS-001",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-011"
+          ]
+        },
+        "axis_id": "AX-002",
+        "screen_direction": "Exterior passes left through north window."
+      },
+      "rule_ids": [
+        "DIR-005",
+        "DIR-009"
+      ],
+      "frame_ids": [
+        "FR-015"
+      ]
+    },
+    {
+      "shot_id": "SH-016",
+      "scene_id": "SC-004",
+      "beat_ids": [
+        "BT-004"
+      ],
+      "purpose": "Give the new direction a visible invitation",
+      "estimated_duration_s": 8,
+      "shot_size": "WS",
+      "camera": {
+        "viewpoint": "South aisle of the carriage, window north",
+        "angle": "Seated eye level or close from aisle side",
+        "lens_intent": "35–65 mm equivalent, preserve depth behind Lena",
+        "focus": "Eyes or near hand sharp, window readable when it carries story",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "Cool exterior moves into window around the warm reflection."
+        }
+      },
+      "composition": "Cool exterior moves into window around the warm reflection.",
+      "blocking": "Lena sits in the same bay, lamp unchanged.",
+      "subject_motion": "She turns toward the thin band of blue as the train leaves the tunnel.",
+      "environment_motion": "When the exterior is visible, near silhouettes slide left. Inside fixtures stay fixed.",
+      "lighting": "Cool window spill and warm reading reflection separate face and table.",
+      "color": "Indigo and blue outside, rust scarf constant. Warm table light remains local.",
+      "sound": [
+        "Rail bed opens out after the tunnel."
+      ],
+      "transition": "Hold until her gaze leaves the phone.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Tunnel black outside.",
+          "asset_ids": [
+            "AS-001",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-011"
+          ]
+        },
+        "exit_state": {
+          "summary": "Cool view returns. A small crescent is partly obscured by reflection.",
+          "asset_ids": [
+            "AS-001",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-011"
+          ]
+        },
+        "axis_id": "AX-002",
+        "screen_direction": "Exterior passes left through north window."
+      },
+      "rule_ids": [
+        "LGT-010",
+        "SND-004"
+      ],
+      "frame_ids": [
+        "FR-016"
+      ]
+    },
+    {
+      "shot_id": "SH-017",
+      "scene_id": "SC-005",
+      "beat_ids": [
+        "BT-005"
+      ],
+      "purpose": "Make the decision visible",
+      "estimated_duration_s": 9,
+      "shot_size": "CU",
+      "camera": {
+        "viewpoint": "Aisle side of table or neutral view onto a held object",
+        "angle": "Steep close insert without swapping the hand or object",
+        "lens_intent": "Macro or 85 mm equivalent",
+        "focus": "The named edge, switch or point of contact",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "Photo face up. Right hand and phone adjacent."
+        }
+      },
+      "composition": "Photo face up. Right hand and phone adjacent.",
+      "blocking": "Lena still seated, left hand near photo.",
+      "subject_motion": "She sets the phone face down next to the picture and takes her right hand off it.",
+      "environment_motion": "When the exterior is visible, near silhouettes slide left. Inside fixtures stay fixed.",
+      "lighting": "Cool window spill and warm reading reflection separate face and table.",
+      "color": "Indigo and blue outside, rust scarf constant. Warm table light remains local.",
+      "sound": [
+        "Chorus returns over the contact if it fits."
+      ],
+      "transition": "Cut from the freed hand to the switch.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Phone upright in right hand.",
+          "asset_ids": [
+            "AS-001",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-011",
+            "AS-012"
+          ]
+        },
+        "exit_state": {
+          "summary": "Phone face down and still, photo face up.",
+          "asset_ids": [
+            "AS-001",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-011",
+            "AS-012"
+          ]
+        },
+        "axis_id": "AX-002",
+        "screen_direction": "Exterior passes left through north window."
+      },
+      "rule_ids": [
+        "DIR-005",
+        "MIS-007"
+      ],
+      "frame_ids": [
+        "FR-017"
+      ]
+    },
+    {
+      "shot_id": "SH-018",
+      "scene_id": "SC-005",
+      "beat_ids": [
+        "BT-005"
+      ],
+      "purpose": "Give the sky room to appear",
+      "estimated_duration_s": 9,
+      "shot_size": "CU",
+      "camera": {
+        "viewpoint": "Aisle side of table or neutral view onto a held object",
+        "angle": "Steep close insert without swapping the hand or object",
+        "lens_intent": "Macro or 85 mm equivalent",
+        "focus": "The named edge, switch or point of contact",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "Right finger on switch, warm lamp and window reflection visible."
+        }
+      },
+      "composition": "Right finger on switch, warm lamp and window reflection visible.",
+      "blocking": "Hand reaches from the aisle side.",
+      "subject_motion": "She turns the reading lamp off. The reflection falls away. The small floor practical remains.",
+      "environment_motion": "When the exterior is visible, near silhouettes slide left. Inside fixtures stay fixed.",
+      "lighting": "Motivated warm reading reflection disappears on the switch.",
+      "color": "Indigo and blue outside, rust scarf constant. Warm table light remains local.",
+      "sound": [
+        "One small switch click beneath the chorus."
+      ],
+      "transition": "Cut once the new exposure holds.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Reading lamp on, sky behind a bright reflection.",
+          "asset_ids": [
+            "AS-001",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-011",
+            "AS-012"
+          ]
+        },
+        "exit_state": {
+          "summary": "Lamp off. Crescent clear in cool window.",
+          "asset_ids": [
+            "AS-001",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-011",
+            "AS-012"
+          ]
+        },
+        "axis_id": "AX-002",
+        "screen_direction": "Exterior passes left through north window."
+      },
+      "rule_ids": [
+        "LGT-001",
+        "LGT-010"
+      ],
+      "frame_ids": [
+        "FR-018",
+        "FR-026"
+      ]
+    },
+    {
+      "shot_id": "SH-019",
+      "scene_id": "SC-005",
+      "beat_ids": [
+        "BT-005"
+      ],
+      "purpose": "Recall Zoya’s gesture without a line",
+      "estimated_duration_s": 9,
+      "shot_size": "MCU",
+      "camera": {
+        "viewpoint": "South aisle of the carriage, window north",
+        "angle": "Seated eye level or close from aisle side",
+        "lens_intent": "35–65 mm equivalent, preserve depth behind Lena",
+        "focus": "Eyes or near hand sharp, window readable when it carries story",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "Lena’s open hand and the sky in the right half."
+        }
+      },
+      "composition": "Lena’s open hand and the sky in the right half.",
+      "blocking": "Lena leans a little toward the window. Phone stays on table.",
+      "subject_motion": "She opens her right palm and looks up, letting her shoulders fall.",
+      "environment_motion": "When the exterior is visible, near silhouettes slide left. Inside fixtures stay fixed.",
+      "lighting": "Reading lamp off; cool window light and floor practical stay.",
+      "color": "Indigo and blue outside, rust scarf constant. Warm table light remains local.",
+      "sound": [
+        "Chorus foreground. Rail bed low."
+      ],
+      "transition": "Cut to the same gesture on the platform.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Right hand away from switch, window visible.",
+          "asset_ids": [
+            "AS-001",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-011",
+            "AS-012"
+          ]
+        },
+        "exit_state": {
+          "summary": "Palm open, eyes toward crescent.",
+          "asset_ids": [
+            "AS-001",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-011",
+            "AS-012"
+          ]
+        },
+        "axis_id": "AX-002",
+        "screen_direction": "Exterior passes left through north window."
+      },
+      "rule_ids": [
+        "DIR-002",
+        "EDT-010"
+      ],
+      "frame_ids": [
+        "FR-019"
+      ]
+    },
+    {
+      "shot_id": "SH-020",
+      "scene_id": "SC-005",
+      "beat_ids": [
+        "BT-005"
+      ],
+      "purpose": "Let the other place answer through the cut",
+      "estimated_duration_s": 9,
+      "shot_size": "MS",
+      "camera": {
+        "viewpoint": "South of the platform line or under canopy",
+        "angle": "Eye level toward north, or up at the open end",
+        "lens_intent": "35–50 mm equivalent, wider for route",
+        "focus": "Faces and canopy landmark readable",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "Parents at open canopy end, sky upper right."
+        }
+      },
+      "composition": "Parents at open canopy end, sky upper right.",
+      "blocking": "Zoya faces north under the gap. Pavel to her right with phone at chest.",
+      "subject_motion": "Zoya opens her right palm. Pavel lowers his phone and follows her gaze.",
+      "environment_motion": "Still platform landmarks. Sky drifts only in the last held view.",
+      "lighting": "LGT-A · amber canopy from above and cool north sky. Hold post position and shadow side.",
+      "color": "Indigo sky, muted sage and rust. Amber is confined to the canopy pools.",
+      "sound": [
+        "Keep the platform bed distinct under the same chorus."
+      ],
+      "transition": "Hold on the skyward look into the reprise.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Pavel’s phone raised.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-007",
+            "AS-009",
+            "AS-010",
+            "AS-012"
+          ]
+        },
+        "exit_state": {
+          "summary": "Phone at waist, both looking up.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-007",
+            "AS-009",
+            "AS-010",
+            "AS-012"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "Platform east and departure read screen right."
+      },
+      "rule_ids": [
+        "CIN-CAM-003",
+        "EDT-010"
+      ],
+      "frame_ids": [
+        "FR-020"
+      ]
+    },
+    {
+      "shot_id": "SH-021",
+      "scene_id": "SC-006",
+      "beat_ids": [
+        "BT-006"
+      ],
+      "purpose": "Show connection settling into something ordinary",
+      "estimated_duration_s": 9,
+      "shot_size": "CU",
+      "camera": {
+        "viewpoint": "South of the platform line or under canopy",
+        "angle": "Eye level toward north, or up at the open end",
+        "lens_intent": "35–50 mm equivalent, wider for route",
+        "focus": "Faces and canopy landmark readable",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "Zoya’s hand and Pavel’s sleeve low, a canopy post behind."
+        }
+      },
+      "composition": "Zoya’s hand and Pavel’s sleeve low, a canopy post behind.",
+      "blocking": "Pavel stands beside Zoya. Phone low in right hand.",
+      "subject_motion": "He pockets his phone. Zoya touches his left sleeve and lets her palm rest.",
+      "environment_motion": "Still platform landmarks. Sky drifts only in the last held view.",
+      "lighting": "LGT-A · amber canopy from above and cool north sky. Hold post position and shadow side.",
+      "color": "Indigo sky, muted sage and rust. Amber is confined to the canopy pools.",
+      "sound": [
+        "Station air stays low."
+      ],
+      "transition": "Cut on settling hands to Lena’s table.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Phone at waist, Zoya’s hand raised.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-007",
+            "AS-009",
+            "AS-010",
+            "AS-012"
+          ]
+        },
+        "exit_state": {
+          "summary": "Phone pocketed, sleeve held briefly.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-007",
+            "AS-009",
+            "AS-010",
+            "AS-012"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "Platform east and departure read screen right."
+      },
+      "rule_ids": [
+        "DIR-009",
+        "DRA-017"
+      ],
+      "frame_ids": [
+        "FR-021"
+      ]
+    },
+    {
+      "shot_id": "SH-022",
+      "scene_id": "SC-006",
+      "beat_ids": [
+        "BT-006"
+      ],
+      "purpose": "Let Lena set the goodbye down",
+      "estimated_duration_s": 9,
+      "shot_size": "MS",
+      "camera": {
+        "viewpoint": "South aisle of the carriage, window north",
+        "angle": "Seated eye level or close from aisle side",
+        "lens_intent": "35–65 mm equivalent, preserve depth behind Lena",
+        "focus": "Eyes or near hand sharp, window readable when it carries story",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "Right hand above the table, window and photo readable together."
+        }
+      },
+      "composition": "Right hand above the table, window and photo readable together.",
+      "blocking": "Lena seated, left hand by the photograph.",
+      "subject_motion": "Her right hand lowers to rest beside the face-up photograph. She keeps looking out.",
+      "environment_motion": "When the exterior is visible, near silhouettes slide left. Inside fixtures stay fixed.",
+      "lighting": "Reading lamp off; cool window light and floor practical stay.",
+      "color": "Indigo and blue outside, rust scarf constant. Warm table light remains local.",
+      "sound": [
+        "Carriage texture underneath the vocal."
+      ],
+      "transition": "Cut from gaze to the two sky frames.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Palm raised, eyes up.",
+          "asset_ids": [
+            "AS-001",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-011",
+            "AS-012"
+          ]
+        },
+        "exit_state": {
+          "summary": "Hand at rest. Face-down phone stays in place.",
+          "asset_ids": [
+            "AS-001",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-011",
+            "AS-012"
+          ]
+        },
+        "axis_id": "AX-002",
+        "screen_direction": "Exterior passes left through north window."
+      },
+      "rule_ids": [
+        "DIR-001",
+        "MIS-012"
+      ],
+      "frame_ids": [
+        "FR-022"
+      ]
+    },
+    {
+      "shot_id": "SH-023",
+      "scene_id": "SC-006",
+      "beat_ids": [
+        "BT-006"
+      ],
+      "purpose": "Give the platform’s side of the shared image",
+      "estimated_duration_s": 9,
+      "shot_size": "WS",
+      "camera": {
+        "viewpoint": "Inside the established window or under open canopy edge",
+        "angle": "Upward, north sky in matched composition",
+        "lens_intent": "40–55 mm equivalent and matched apparent moon size",
+        "focus": "Frame edge and distant silhouette recognizable",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "Canopy edge at left, crescent upper right, no people required."
+        }
+      },
+      "composition": "Canopy edge at left, crescent upper right, no people required.",
+      "blocking": "Pavel and Zoya remain below frame.",
+      "subject_motion": "A thin cloud moves slowly below the crescent.",
+      "environment_motion": "Still platform landmarks. Sky drifts only in the last held view.",
+      "lighting": "LGT-A · amber canopy from above and cool north sky. Hold post position and shadow side.",
+      "color": "Indigo sky, muted sage and rust. Amber is confined to the canopy pools.",
+      "sound": [
+        "Station bed under the start of the fade."
+      ],
+      "transition": "Match the crescent to the window at the same screen position.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Night air visible beyond the canopy edge.",
+          "asset_ids": [
+            "AS-004",
+            "AS-010",
+            "AS-012"
+          ]
+        },
+        "exit_state": {
+          "summary": "Crescent and frame edge held for the match.",
+          "asset_ids": [
+            "AS-004",
+            "AS-010",
+            "AS-012"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "Platform east and departure read screen right."
+      },
+      "rule_ids": [
+        "EDT-010",
+        "CIN-CAM-008"
+      ],
+      "frame_ids": [
+        "FR-023"
+      ]
+    },
+    {
+      "shot_id": "SH-024",
+      "scene_id": "SC-006",
+      "beat_ids": [
+        "BT-006"
+      ],
+      "purpose": "Leave the viewer at the window after the last gesture",
+      "estimated_duration_s": 9,
+      "shot_size": "WS",
+      "camera": {
+        "viewpoint": "Inside the established window or under open canopy edge",
+        "angle": "Upward, north sky in matched composition",
+        "lens_intent": "40–55 mm equivalent and matched apparent moon size",
+        "focus": "Frame edge and distant silhouette recognizable",
+        "motion": {
+          "type": "locked",
+          "path": "Fixed position throughout this shot",
+          "endpoint": "Window edge echoes canopy edge. Crescent same size and position."
+        }
+      },
+      "composition": "Window edge echoes canopy edge. Crescent same size and position.",
+      "blocking": "Lena remains beside window outside crop.",
+      "subject_motion": "A far silhouette slides left below the moon. Hold through the last three seconds.",
+      "environment_motion": "When the exterior is visible, near silhouettes slide left. Inside fixtures stay fixed.",
+      "lighting": "Reading lamp off; cool window light and floor practical stay.",
+      "color": "Indigo and blue outside, rust scarf constant. Warm table light remains local.",
+      "sound": [
+        "Track tail with a trace of wheel texture. Credits begin at 3:30."
+      ],
+      "transition": "Fade to credits.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Crescent already framed and reading lamp off.",
+          "asset_ids": [
+            "AS-005",
+            "AS-011",
+            "AS-012"
+          ]
+        },
+        "exit_state": {
+          "summary": "Crescent remains steady as picture fades.",
+          "asset_ids": [
+            "AS-005",
+            "AS-011",
+            "AS-012"
+          ]
+        },
+        "axis_id": "AX-002",
+        "screen_direction": "Exterior passes left through north window."
+      },
+      "rule_ids": [
+        "DRA-017",
+        "EDT-010"
+      ],
+      "frame_ids": [
+        "FR-024"
+      ]
+    }
+  ]
+}
