@@ -59,3 +59,9 @@ Staging can alter access, attention and power through position or movement. The 
 Compared ARRI and ASC treatment of light quality and roles, the Russian VGIK sample program, Block on visual contrast, and official color-matching training. The terms lighting ratio and high/low key can refer to different measurements or looks. Require explicit comparison areas or a qualitative target and a reference. Block's framework supports purposeful contrast. The color-motif implementation remains contextual.
 
 Continuity separates source direction and state in world coordinates, apparent color and white balance, exposure matching, and the creative look. The Resolve training supports the comparison method without implying CapCut has the same controls.
+
+## M07 · Sound design · 2026-11-06
+
+Compared Chion's audiovisual account, Wolfson's annotation, Randy Thom's essay, Adobe's sound and split-edit materials, and the EBU loudness recommendation. Used the verified СПбГИКиТ plan for the Russian film sound terminology. The distinction between diegetic and non-diegetic concerns the fictional world. Foley or generated effects can represent events within that world even when they are added in post.
+
+The audio workflow tracks one scene bed, selected dialogue and sync points, cue ownership, perspective, editable layers and overlaps. Delivery measurements must come from the actual specification or a stated working target.
