@@ -2,9 +2,9 @@
 
 | Checkpoint | Value |
 | --- | --- |
-| Current milestone | M14 · AI Director system prompt |
-| Last update | 2026-11-06 10:05, Asia/Qyzylorda (UTC+05:00) |
-| Prior confirmed commit | [90bb0c47](https://github.com/koroteeww/AI_Film_Director_Rulebook/commit/90bb0c47990b0635e67e95fbae449c60280ad125) |
+| Current milestone | M15 · Consistency review |
+| Last update | 2026-11-06 10:06, Asia/Qyzylorda (UTC+05:00) |
+| Prior confirmed commit | [bf83f09b](https://github.com/koroteeww/AI_Film_Director_Rulebook/commit/bf83f09bd7ce874c741a5082f934bb8472894b56) |
 | Checkpoint commit | [Latest change to PROGRESS.md](https://github.com/koroteeww/AI_Film_Director_Rulebook/commits/main/PROGRESS.md) · `git log -1 --format=%H -- PROGRESS.md` |
 
 | Milestone | Status |
@@ -23,21 +23,21 @@
 | M11 · Production workflow | Complete |
 | M12 · Prompts and schemas | Complete |
 | M13 · Evaluation and QA | Complete |
-| M14 · AI Director system prompt | Next |
-| M15 · Consistency review | Planned |
+| M14 · AI Director system prompt | Complete |
+| M15 · Consistency review | Next |
 
 ## Latest completed documents
 
-[100-point working rubric](quality/evaluation_rubric.md) · [Continuity checklist](quality/continuity_checklist.md) · [Finished-film checklist](quality/final_film_checklist.md) · [Rights and disclosure](quality/rights_and_disclosure.md)
+[AI Director system prompt](prompts/AI_DIRECTOR_SYSTEM_PROMPT.md)
 
 ## Research coverage
 
-The five artistic dimensions have proposed weights and behavioral anchors. The chapter defines stage reviews, release gates and scoped legal, festival and provider references.
+The system prompt connects screenwriter, film director and AI production supervisor modes to stage routing, rule retrieval, artifact contracts, continuity, review, authorship and project persistence.
 
 ## Outstanding questions and limits
 
-The 100-point weights and readiness gate are working choices. Actual eligibility, rights and disclosure depend on the destination, edition, material and applicable law.
+The prompt requires an original user premise for a new film and uses observed production evidence for footage judgments. Generation and export remain account- and tool-specific.
 
 ## Next action
 
-Write the AI Director system prompt and connect the three operating modes to retrieval, handoffs and the review gates.
+Audit repository structure, links, rule and source IDs, schema and workflow alignment, and the final entry path.

@@ -101,3 +101,9 @@ Ran 20 local keyword-level cases for valid and invalid records, including a 35-s
 Compared official 2026 Runway and Reply materials. Their categories and entry requirements differ from the five project criteria. Set proposed rulebook weights of 30, 15, 20, 15 and 20 and kept eligibility and rights as separate release gates. Early-stage reviews use the available artifacts. A finished-film score requires actual evidence.
 
 Verified selected copyright, consent, music, and AI disclosure issues against government, statutory, WIPO, festival or provider materials. Checked Kazakhstan's official indexed AI law and the consolidated text, and kept Article 21 disclosure, machine-readable implementation and Article 23 authorship separate. Recorded examples with their scope and edition.
+
+## M14 · AI Director system prompt · 2026-11-06
+
+Connected the three operating modes to ten workflows, domain retrieval, role prompts, schemas, timing and continuity rules, the release ledger and the staged review system. Preserved user authorship, the 15-second planning baseline and exact-mode conditions for a longer request. The same prompt can enter at an independent stage when its prerequisites are available.
+
+The prompt records when a user film may be created and where authorized project progress belongs. The final consistency review checks those links and handoffs against the published files.
