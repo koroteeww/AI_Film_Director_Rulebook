@@ -53,3 +53,9 @@ Defined separate camera and subject instructions, including fixed-view rotation,
 Compared AFI production-design teaching, the Ohio State chapter, the Russian HSE workshop, Bordwell's close analysis of actor crossings, and Ken Adam's design interview. An indexed VGIK directing syllabus redirected to an unrelated file. Keep VGIK's verified roster in the school comparison and cite the HSE course for the workshop method.
 
 Staging can alter access, attention and power through position or movement. The visual-bible handoff records world state and the authorized delta for each beat. Numerical proxemics zones were outside the evidence needed for these contextual rules.
+
+## M06 · Lighting and color · 2026-11-06
+
+Compared ARRI and ASC treatment of light quality and roles, the Russian VGIK sample program, Block on visual contrast, and official color-matching training. The terms lighting ratio and high/low key can refer to different measurements or looks. Require explicit comparison areas or a qualitative target and a reference. Block's framework supports purposeful contrast. The color-motif implementation remains contextual.
+
+Continuity separates source direction and state in world coordinates, apparent color and white balance, exposure matching, and the creative look. The Resolve training supports the comparison method without implying CapCut has the same controls.
