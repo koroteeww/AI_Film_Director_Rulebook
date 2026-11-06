@@ -1,0 +1,70 @@
+# The Second Witness shot list
+
+26 finished shots cover 5:12 of picture. Eight seconds follow for credits. The estimated 10–13 second edits leave a one-second generation handle at each end within the 15-second planning ceiling. A selected model and mode will determine the eventual request lengths.
+
+All cameras are locked in this pass. Movement comes from the people, apparatus and cuts. Viewpoint, angle, lens intent, focus, state and sound are stored per shot in [project.json](project.json).
+
+## SC-001 · EXT. PRIVATE OBSERVATORY TERRACE – NIGHT
+
+| Shot and edit time | Coverage and composition | Blocking and action | Audio and cut |
+| --- | --- | --- | --- |
+| **SH-001** · 0:00–0:10 · 10 s · WS. FR-001 | Establish the house and its small observing space. Amber door at left, bench center, ridge beyond, radio east. | Elias waits at left bench end. Adrian arrives from the west. Door opens and Adrian walks two steps toward the bench. | Latch and cold air over a continuous night bed. Cut at the top step to the notice. [CIN-CAM-003](../../rulebooks/03_cinematography.md#cin-cam-003) · [MIS-001](../../rulebooks/04_mise_en_scene.md#mis-001) |
+| **SH-002** · 0:10–0:20 · 10 s · CU. FR-002 | Put the family’s claim in frame. Cream paper and signet in red edge light. | Adrian reaches across from right. Elias raises his left wrist. Adrian rolls back Elias’s cuff, then clips the notice. His fingers leave the heading clear. | Adrian mentions the trustees. Cut to Elias keeping his own paper in reach. [DIR-009](../../rulebooks/02_directing.md#dir-009) · [MIS-007](../../rulebooks/04_mise_en_scene.md#mis-007) |
+| **SH-003** · 0:20–0:32 · 12 s · MS. FR-003 | Let the two friends disagree without breaking their ease. Elias left, Adrian right, unsigned notice at lower center. | Both stand on their marks at the bench. Elias slides the clipped sheet’s free corner aside and brings his slip into the light. Adrian holds his look. | Prediction and Friday exchange over soft tick. Cut to the new line on the slip. [DRA-005](../../rulebooks/01_dramaturgy.md#dra-005) · [CIN-CAM-004](../../rulebooks/03_cinematography.md#cin-cam-004) |
+| **SH-004** · 0:32–0:44 · 12 s · CU. FR-004 | Plant the empty second line. Pencil and two horizontal lines. First line filled, second open. | Elias’s right hand enters from left foreground. He rules the second line and holds the pencil in his right hand. | Pencil scratch and steady night bed. Hold a beat, then find the two lights. [DRA-008](../../rulebooks/01_dramaturgy.md#dra-008) · [EDT-004](../../rulebooks/07_montage_and_editing.md#edt-004) |
+
+## SC-002 · EXT. OBSERVING BENCH – NIGHT
+
+| Shot and edit time | Coverage and composition | Blocking and action | Audio and cut |
+| --- | --- | --- | --- |
+| **SH-005** · 0:44–0:56 · 12 s · CU. FR-005 | Give the audience the control before the event. Two similar pale points in a single panel, target left. | Elias’s hand remains clear of the display until the point. He sets the pencil beside the recorder, then points to the left light and the right. | Elias identifies target and reference. Cut back to who will watch. [DIR-009](../../rulebooks/02_directing.md#dir-009) · [DRA-008](../../rulebooks/01_dramaturgy.md#dra-008) |
+| **SH-006** · 0:56–1:08 · 12 s · MS. FR-006 | Make the need for a second witness concrete. Faces on opposite thirds, empty line below. | Adrian remains right. Elias faces him without leaning in. Elias asks for another observer and turns his gaze toward the valley. | Adrian wants to watch. Elias asks for another telescope. Cut along Elias’s gaze. [DIR-005](../../rulebooks/02_directing.md#dir-005) · [CIN-CAM-005](../../rulebooks/03_cinematography.md#cin-cam-005) |
+| **SH-007** · 1:08–1:20 · 12 s · WS. FR-007 | Give the second observer a physical place. Ridge high, warm school window below the right shoulder. | Two men outside frame at bench. No subject movement. Let the viewer find the window. | Elias names Nera. Adrian asks about the night school. Return to Adrian’s upward gaze. [CIN-CAM-003](../../rulebooks/03_cinematography.md#cin-cam-003) · [SND-008](../../rulebooks/06_sound_design.md#snd-008) |
+| **SH-008** · 1:20–1:32 · 12 s · MCU. FR-008 | Open the larger question without leaving the scene. Adrian in right third with space toward the valley. | He remains by east end of bench. Elias stays left outside crop. Adrian looks past the window, then comes back to the bench. | Adrian asks about someone looking back. Elias answers off screen. Cut to the waiting talk key. [DIR-002](../../rulebooks/02_directing.md#dir-002) · [DRA-010](../../rulebooks/01_dramaturgy.md#dra-010) |
+
+## SC-003 · EXT. RADIO END OF THE BENCH – NIGHT
+
+| Shot and edit time | Coverage and composition | Blocking and action | Audio and cut |
+| --- | --- | --- | --- |
+| **SH-009** · 1:32–1:44 · 12 s · CU. FR-009 | Show that the call is still private. Amber DIRECT pilot and talk key, right signet visible. | Adrian’s right hand enters from east side. Finger rests on the key, then presses once. | Direct call and relay hiss. Cut after the call to his listening face. [MIS-007](../../rulebooks/04_mise_en_scene.md#mis-007) · [EDT-002](../../rulebooks/07_montage_and_editing.md#edt-002) |
+| **SH-010** · 1:44–1:56 · 12 s · MCU. FR-010 | Let a person answer the house. Adrian and near corner of the radio in the same frame. | Adrian remains at right, gaze low to the speaker. He listens, then glances left at Elias and asks for the observation. | Nera replies from the speaker. Adrian asks her to record. Keep her source in place on the next cut. [DIR-002](../../rulebooks/02_directing.md#dir-002) · [SND-008](../../rulebooks/06_sound_design.md#snd-008) |
+| **SH-011** · 1:56–2:08 · 12 s · MS. FR-011 | Give Nera a condition she controls. Empty second line between both men, radio at right. | Elias holds at west recorder. Adrian holds at radio. Adrian looks down at the blank line, then agrees aloud. | Nera requests the school name. Adrian agrees. Cut to the finder being sent. [DIR-005](../../rulebooks/02_directing.md#dir-005) · [DRA-007](../../rulebooks/01_dramaturgy.md#dra-007) |
+| **SH-012** · 2:08–2:20 · 12 s · CU. FR-012 | Set the terms of a fair comparison. Recorder at left and one send control in foreground. | Elias’s bare hand enters from left. He sends the finder once and draws his hand away. | Elias tells her to keep her own time. Let the quiet lead to the telescope. [DRA-008](../../rulebooks/01_dramaturgy.md#dra-008) · [DIR-014](../../rulebooks/02_directing.md#dir-014) |
+
+## SC-004 · EXT. TELESCOPE BAY – NIGHT
+
+| Shot and edit time | Coverage and composition | Blocking and action | Audio and cut |
+| --- | --- | --- | --- |
+| **SH-013** · 2:20–2:32 · 12 s · MS. FR-013 | Put the apparatus under observation. Scope silhouette above the bench, clear ridge behind. | Actors remain at bench, scope on fixed pier north of it. Telescope makes one small aim correction then stops. | Short motor sound then the night bed. Cut after the mount settles. [MIS-012](../../rulebooks/04_mise_en_scene.md#mis-012) · [DIR-010](../../rulebooks/02_directing.md#dir-010) |
+| **SH-014** · 2:32–2:44 · 12 s · MS. FR-014 | Show Adrian choosing to wait. Friends and hands around the recorder, radio still on right. | Elias at left watches the recorder. Adrian keeps right. Adrian takes his hand off the key and watches alongside Elias. | Leave the recorder tick and wind. Cut to the two-point plate before the change. [DIR-005](../../rulebooks/02_directing.md#dir-005) · [EDT-004](../../rulebooks/07_montage_and_editing.md#edt-004) |
+| **SH-015** · 2:44–2:56 · 12 s · CU. FR-015, FR-027, FR-028 | Show one clear change and its control. Same two-point composition as SH-005. Fixed values except the left point. | No actors or reflections moving over the display. Hold steady four seconds. Left light dips for two seconds and returns. Right holds. | Allow the room to hold through the dip. No hit sound. Cut after the return. [EDT-002](../../rulebooks/07_montage_and_editing.md#edt-002) · [LGT-010](../../rulebooks/05_lighting_and_color.md#lgt-010) |
+| **SH-016** · 2:56–3:08 · 12 s · CU. FR-016 | Record the hill result before the valley speaks. Tight slip with blank second line and penciled time marks. | Elias writes from left. Adrian’s fingers stay out of the writing area. Elias writes 21–23 and sets pencil down at west edge. | Pencil and Elias asking Nera to read first. Cut to the waiting listener before her answer. [DRA-010](../../rulebooks/01_dramaturgy.md#dra-010) · [MIS-007](../../rulebooks/04_mise_en_scene.md#mis-007) |
+| **SH-017** · 3:08–3:20 · 12 s · MCU. FR-017 | Let Adrian hear the second result. Radio edge below right. Slip just below his gaze. | Adrian stays east and looks down at the slip. He listens through the numbers and checks the pencil marks once. | Nera’s line after a brief wait. Leave the reaction quiet. Cut from the listener to both pages. [DIR-002](../../rulebooks/02_directing.md#dir-002) · [SND-008](../../rulebooks/06_sound_design.md#snd-008) |
+
+## SC-005 · EXT. RADIO END OF THE BENCH – NIGHT
+
+| Shot and edit time | Coverage and composition | Blocking and action | Audio and cut |
+| --- | --- | --- | --- |
+| **SH-018** · 3:20–3:32 · 12 s · CU. FR-018 | Put the old announcement and new evidence together. Notice to left, marked slip to right in same light. | Adrian’s right hand brings notice next to slip. He places the pages side by side, holds them still and asks the name. | Question and Nera’s name over paper contact. Cut to the offered pencil. [DIR-009](../../rulebooks/02_directing.md#dir-009) · [MIS-007](../../rulebooks/04_mise_en_scene.md#mis-007) |
+| **SH-019** · 3:32–3:44 · 12 s · CU. FR-019 | Let the first public decision start on paper. Right signet, pencil, one word and the spare line. | Elias hands pencil from left. Adrian takes it in his right. Adrian strikes EXCLUSIVE and writes on the open line. Plan readable text as a plate. | One pencil scratch. Let it finish. Cut as the hand leaves the paper. [DRA-007](../../rulebooks/01_dramaturgy.md#dra-007) · [MIS-012](../../rulebooks/04_mise_en_scene.md#mis-012) |
+| **SH-020** · 3:44–3:56 · 12 s · CU. FR-029, FR-020 | Make the change of audience visible. Same radio framing as SH-009. Guard and pilot clear. | Adrian sets pencil across the log and reaches right toward selector. He lifts the guard and moves the selector to OPEN. Pilot turns pale cyan. | Guard and switch clicks, short open-line tone. Hold the new pilot before he speaks. [DRA-007](../../rulebooks/01_dramaturgy.md#dra-007) · [EDT-002](../../rulebooks/07_montage_and_editing.md#edt-002) |
+| **SH-021** · 3:56–4:08 · 12 s · MCU. FR-021 | Give both names one uninterrupted read. Adrian and radio with the joint log at lower left. | Adrian holds talk key with right hand and looks at the slip. He reads both names steadily and releases the key. | Joint notice in one calm breath, then a gap. Cut on key release to Elias. [DIR-001](../../rulebooks/02_directing.md#dir-001) · [SND-008](../../rulebooks/06_sound_design.md#snd-008) |
+| **SH-022** · 4:08–4:20 · 12 s · MS. FR-022 | Let the friends accept the consequence. Adrian and Elias share the frame, finished slip foreground. | Elias left, Adrian right, pencil resting across names. Elias says they will send both logs. Adrian leaves the pages where they are. | Elias’s line, then night air. Hold his upward glance into the next beat. [DRA-017](../../rulebooks/01_dramaturgy.md#dra-017) · [DIR-014](../../rulebooks/02_directing.md#dir-014) |
+
+## SC-006 · EXT. NORTH RAIL – NIGHT
+
+| Shot and edit time | Coverage and composition | Blocking and action | Audio and cut |
+| --- | --- | --- | --- |
+| **SH-023** · 4:20–4:33 · 13 s · MS. FR-023 | Let Adrian ask to be shown. Adrian on right with speaker below and dark space beyond rail. | He is still within reach of the talk key, Elias one step back. Adrian keys the mic, asks where to look and releases for Nera’s answer. | His question. Nera locates her window. Use the last word as the movement cue. [DIR-005](../../rulebooks/02_directing.md#dir-005) · [SND-008](../../rulebooks/06_sound_design.md#snd-008) |
+| **SH-024** · 4:33–4:46 · 13 s · WS. FR-024 | Move the men from apparatus to sky. Bench foreground, rail at upper edge, ridge beyond. | Elias goes left of Adrian. They keep that order to the rail. Both take a few steps north and settle. Their backs leave the bench visible. | Speaker recedes in perspective. Boots and night wind. Cut once both stop at the rail. [CIN-CAM-004](../../rulebooks/03_cinematography.md#cin-cam-004) · [SND-004](../../rulebooks/06_sound_design.md#snd-004) |
+| **SH-025** · 4:46–4:59 · 13 s · MCU. FR-025 | Hold the change on Adrian’s face. Open right hand on stone at bottom, face turned slightly north. | Adrian right at rail. Elias stays to his left outside crop. Adrian finds the light down-right, then lifts his chin above the ridge. Hand relaxes. | No speech. Stable wind. Cut on the end of his look. [DIR-002](../../rulebooks/02_directing.md#dir-002) · [CIN-CAM-005](../../rulebooks/03_cinematography.md#cin-cam-005) |
+| **SH-026** · 4:59–5:12 · 13 s · EWS. FR-026 | Leave room for a shared view. Small shoulders below, window under same right shoulder of ridge, stars open above. | Both friends face north in their established left and right order. Bodies remain at rest. The frame holds through the end of picture. | Continuous night bed and no new cue. Cut after the hold, let wind tail into credits. [DRA-017](../../rulebooks/01_dramaturgy.md#dra-017) · [LGT-010](../../rulebooks/05_lighting_and_color.md#lgt-010) |
+
+## Critical joins
+
+- SH-005 → SH-015. Reuse the same two-point graphic. Keep its reference fixed through the dip.
+- SH-016 → SH-017. Elias marks his result before hearing the valley. The pause gives the second report weight.
+- SH-019 → SH-020 → SH-021. The paper changes first, then the mode, then the announcement.
+- SH-024 → SH-026. Re-establish both men at the rail before the profile and the wider sky. Hold the location of the valley light.
+
+[Shot workflow](../../workflows/05_shot_list.md) · [Storyboard](storyboard.md)

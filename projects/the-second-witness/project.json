@@ -1,0 +1,2058 @@
+{
+  "project_id": "FP-the-second-witness",
+  "title": "The Second Witness",
+  "premise": "Two old friends go looking for a brief change in the night sky. One is an astronomer. The other belongs to the house that paid for the observatory.",
+  "authorship_notes": [
+    "Develop an original project from the supplied night-sky encounter.",
+    "Make the central friends an astronomer and an aristocrat.",
+    "The title, characters, story and directing choices are proposed."
+  ],
+  "creative_intent": "Begin with the Count sure of where authority sits. Make him wait for a voice from beyond the observatory, then let him ask that voice to show him where to look.",
+  "target_runtime_s": 320,
+  "aspect_ratio": "16:9",
+  "tone": "Cold, intimate and quietly expansive",
+  "genre": "Astronomical chamber drama",
+  "focal_character": "CH-002 · Count Adrian Venn",
+  "dramatic_question": "When the valley station makes the observation possible, whose name will Adrian put on the record?",
+  "goal": "Give his family the first announcement while securing an observation he can stand behind.",
+  "stakes": "Adrian has promised the trustees an exclusive announcement before they vote on the observatory’s funding. Elias needs an independent record and credit for the observer who made it.",
+  "constraints": [
+    "Keep both on-screen roles in one practical location.",
+    "Plan up to 15 seconds per generated segment including handles.",
+    "Keep the displayed science evidence at the level of a shared observation."
+  ],
+  "assumptions": [
+    "English dialogue in an invented present-day setting with a landed house.",
+    "Two on-screen performers and a third character heard over the radio.",
+    "One hilltop terrace, one night, 16:9, 5:20 target including eight seconds for credits.",
+    "The observation and equipment readout are fictional. The joint log confirms a shared dip and leaves its cause open."
+  ],
+  "open_questions": [
+    "Approve the title, the degree of period styling and the last held sky image.",
+    "Record a timed read for all three voices before locking the editorial clock."
+  ],
+  "scenes": [
+    {
+      "scene_id": "SC-001",
+      "heading": "EXT. PRIVATE OBSERVATORY TERRACE – NIGHT",
+      "purpose": "Show the promise Adrian brought up the steps before we hear his reason for keeping it.",
+      "location": "LOC-001 · West door and observing bench",
+      "time": "One cold night · before the window",
+      "character_ids": [
+        "CH-001",
+        "CH-002"
+      ],
+      "prop_ids": [
+        "PR-001",
+        "PR-002",
+        "PR-003",
+        "PR-004"
+      ],
+      "beat_ids": [
+        "BT-001"
+      ],
+      "action_summary": "Adrian puts the exclusive notice in front of Elias. Elias leaves it unsigned and makes a blank line on the observation slip.",
+      "emotion_in": "Anticipation",
+      "emotion_out": "An assumption challenged",
+      "estimated_duration_s": 44,
+      "continuity": {
+        "entry_state": {
+          "summary": "Radio in DIRECT. Target and reference steady. Notice in Adrian’s right hand.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-004",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-009",
+            "AS-010"
+          ],
+          "frame_ids": [
+            "FR-001"
+          ]
+        },
+        "exit_state": {
+          "summary": "Notice clipped at west bench edge, unsigned. Elias holds the pencil. The second line on the slip is blank.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-004",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-009",
+            "AS-010"
+          ],
+          "frame_ids": [
+            "FR-004"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "West door at screen left and east radio at screen right."
+      },
+      "sound_requirements": [
+        "West door latch, then one continuous night bed.",
+        "Soft recorder tick from left."
+      ]
+    },
+    {
+      "scene_id": "SC-002",
+      "heading": "EXT. OBSERVING BENCH – NIGHT",
+      "purpose": "Give both men a reason to care and reveal where the second scope is.",
+      "location": "LOC-001 · Bench and northeast sightline",
+      "time": "Continuous",
+      "character_ids": [
+        "CH-001",
+        "CH-002"
+      ],
+      "prop_ids": [
+        "PR-001",
+        "PR-002",
+        "PR-003",
+        "PR-004"
+      ],
+      "beat_ids": [
+        "BT-002"
+      ],
+      "action_summary": "Elias shows the reference and the empty log line, then points out a light across the valley. Adrian asks what Elias would say if someone were looking back.",
+      "emotion_in": "Defensiveness",
+      "emotion_out": "Curiosity in conflict with duty",
+      "estimated_duration_s": 48,
+      "continuity": {
+        "entry_state": {
+          "summary": "Adrian beside the notice. Valley station out of the viewer’s view.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-004",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-009",
+            "AS-010"
+          ],
+          "frame_ids": [
+            "FR-005"
+          ]
+        },
+        "exit_state": {
+          "summary": "Both know where the independent observer is. Adrian looks from the valley to the radio.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-004",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-009",
+            "AS-010"
+          ],
+          "frame_ids": [
+            "FR-008"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "West door at screen left and east radio at screen right."
+      },
+      "sound_requirements": [
+        "Keep voices near, wind low at the railing.",
+        "Leave a breath after Elias’s answer about listening."
+      ]
+    },
+    {
+      "scene_id": "SC-003",
+      "heading": "EXT. RADIO END OF THE BENCH – NIGHT",
+      "purpose": "Turn the distant light into an observer with her own terms.",
+      "location": "LOC-001 · East end of bench",
+      "time": "Continuous · just before the prediction",
+      "character_ids": [
+        "CH-001",
+        "CH-002",
+        "CH-003"
+      ],
+      "prop_ids": [
+        "PR-001",
+        "PR-002",
+        "PR-003"
+      ],
+      "beat_ids": [
+        "BT-003"
+      ],
+      "action_summary": "Adrian keys the direct line. Nera replies and agrees to record if the school is named. Elias sends the field and tells her they will compare afterward.",
+      "emotion_in": "Hesitation",
+      "emotion_out": "Commitment to test",
+      "estimated_duration_s": 48,
+      "continuity": {
+        "entry_state": {
+          "summary": "DIRECT selected. Second line blank. No valley voice yet.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-009"
+          ],
+          "frame_ids": [
+            "FR-009"
+          ]
+        },
+        "exit_state": {
+          "summary": "DIRECT still selected. Nera has the field. Both stations will hold their reports until after the event.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-009"
+          ],
+          "frame_ids": [
+            "FR-012"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "West door at screen left and east radio at screen right."
+      },
+      "sound_requirements": [
+        "One brief relay hiss. Nera’s near-mono voice from screen right.",
+        "Return to the same wind and the left-hand tick between replies."
+      ]
+    },
+    {
+      "scene_id": "SC-004",
+      "heading": "EXT. TELESCOPE BAY – NIGHT",
+      "purpose": "Let the audience see the test and feel the wait for a second answer.",
+      "location": "LOC-001 · Scope and west recorder",
+      "time": "The predicted window",
+      "character_ids": [
+        "CH-001",
+        "CH-002",
+        "CH-003"
+      ],
+      "prop_ids": [
+        "PR-001",
+        "PR-002",
+        "PR-003",
+        "PR-004"
+      ],
+      "beat_ids": [
+        "BT-004"
+      ],
+      "action_summary": "The left point dims and returns. The right point holds. Elias marks his own log. He asks Nera to read hers first, and she reports the same pattern.",
+      "emotion_in": "Concentration",
+      "emotion_out": "Shared surprise",
+      "estimated_duration_s": 60,
+      "continuity": {
+        "entry_state": {
+          "summary": "Two steady points. Both friends stand at the bench. Radio quiet.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-009"
+          ],
+          "frame_ids": [
+            "FR-013"
+          ]
+        },
+        "exit_state": {
+          "summary": "Target restored. Hill slip marked. Nera has reported one dip and a steady reference.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-009"
+          ],
+          "frame_ids": [
+            "FR-017"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "West door at screen left and east radio at screen right."
+      },
+      "sound_requirements": [
+        "Hold the bed and allow one recorder tick before the dim.",
+        "Leave space after the target returns, then hear Nera without score."
+      ]
+    },
+    {
+      "scene_id": "SC-005",
+      "heading": "EXT. RADIO END OF THE BENCH – NIGHT",
+      "purpose": "Make the change in Adrian’s position visible in the paper and audible on the open line.",
+      "location": "LOC-001 · Notice, log and radio",
+      "time": "Immediately after the observation",
+      "character_ids": [
+        "CH-001",
+        "CH-002",
+        "CH-003"
+      ],
+      "prop_ids": [
+        "PR-001",
+        "PR-002",
+        "PR-003",
+        "PR-004"
+      ],
+      "beat_ids": [
+        "BT-005"
+      ],
+      "action_summary": "He asks for Nera’s full name, alters the notice, moves the selector to OPEN and names both observers. Elias commits to release the paired logs.",
+      "emotion_in": "Surprise and the old obligation",
+      "emotion_out": "A choice made in public",
+      "estimated_duration_s": 60,
+      "continuity": {
+        "entry_state": {
+          "summary": "DIRECT mode. Exclusive notice unsigned. Hill record marked, school unnamed.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-009"
+          ],
+          "frame_ids": [
+            "FR-018"
+          ]
+        },
+        "exit_state": {
+          "summary": "EXCLUSIVE struck out. School name on the second line. OPEN pilot on and joint notice read aloud.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-009"
+          ],
+          "frame_ids": [
+            "FR-022"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "West door at screen left and east radio at screen right."
+      },
+      "sound_requirements": [
+        "Pencil on paper, one distinct switch click.",
+        "Keep the public read dry and close. Give the speaker a short reply gap."
+      ]
+    },
+    {
+      "scene_id": "SC-006",
+      "heading": "EXT. NORTH RAIL – NIGHT",
+      "purpose": "Leave the two men with a new way to stand together and a person they are prepared to listen to.",
+      "location": "LOC-001 · North rail and open sky",
+      "time": "A few breaths later",
+      "character_ids": [
+        "CH-001",
+        "CH-002",
+        "CH-003"
+      ],
+      "prop_ids": [
+        "PR-001",
+        "PR-002",
+        "PR-003",
+        "PR-004"
+      ],
+      "beat_ids": [
+        "BT-006"
+      ],
+      "action_summary": "Adrian asks Nera for a place to start. He and Elias go to the rail and look above the same roof light. The frame gives them and the ridge time to hold.",
+      "emotion_in": "Release",
+      "emotion_out": "Wonder with room for someone else",
+      "estimated_duration_s": 52,
+      "continuity": {
+        "entry_state": {
+          "summary": "Joint log left on bench, pencil across it, OPEN pilot stays on.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-009",
+            "AS-010"
+          ],
+          "frame_ids": [
+            "FR-023"
+          ]
+        },
+        "exit_state": {
+          "summary": "Adrian right of Elias at rail. Valley window below the ridge and open sky above. The log stays on the bench.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-009",
+            "AS-010"
+          ],
+          "frame_ids": [
+            "FR-026"
+          ]
+        },
+        "axis_id": "AX-002",
+        "screen_direction": "Keep the ridge ahead. Elias left and Adrian right at the rail."
+      },
+      "sound_requirements": [
+        "Nera’s last instruction comes from the bench, behind them as they move.",
+        "Let wind and the unbroken night bed carry the last held image."
+      ]
+    }
+  ],
+  "shots": [
+    {
+      "shot_id": "SH-001",
+      "scene_id": "SC-001",
+      "beat_ids": [
+        "BT-001"
+      ],
+      "purpose": "Establish the house and its small observing space",
+      "estimated_duration_s": 10,
+      "shot_size": "WS",
+      "camera": {
+        "viewpoint": "South side across the terrace",
+        "angle": "Eye level or slightly low, northward",
+        "lens_intent": "28–35 mm equivalent for geography and sky",
+        "focus": "Friends, roofline and bench readable",
+        "motion": {
+          "type": "locked",
+          "path": "Hold this setup",
+          "endpoint": "Amber door at left, bench center, ridge beyond, radio east."
+        }
+      },
+      "composition": "Amber door at left, bench center, ridge beyond, radio east.",
+      "blocking": "Elias waits at left bench end. Adrian arrives from the west.",
+      "subject_motion": "Door opens and Adrian walks two steps toward the bench.",
+      "environment_motion": "Door opens once. Sky and ridge hold.",
+      "lighting": "Cool sky from north and local red task light at the bench. West door practical stays amber.",
+      "color": "Cool slate and local red. Radio pilot warm amber where visible.",
+      "sound": [
+        "Latch and cold air over a continuous night bed."
+      ],
+      "transition": "Cut at the top step to the notice.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Door closed, notice in right hand.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-004",
+            "AS-005",
+            "AS-009",
+            "AS-010"
+          ]
+        },
+        "exit_state": {
+          "summary": "Door ajar, Adrian at right of Elias.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-004",
+            "AS-005",
+            "AS-009",
+            "AS-010"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "West recorder left, radio right. Camera stays on the south side."
+      },
+      "rule_ids": [
+        "CIN-CAM-003",
+        "MIS-001"
+      ],
+      "frame_ids": [
+        "FR-001"
+      ]
+    },
+    {
+      "shot_id": "SH-002",
+      "scene_id": "SC-001",
+      "beat_ids": [
+        "BT-001"
+      ],
+      "purpose": "Put the family’s claim in frame",
+      "estimated_duration_s": 10,
+      "shot_size": "CU",
+      "camera": {
+        "viewpoint": "South edge of bench, or overhead with north up",
+        "angle": "Tight steep or square view as noted",
+        "lens_intent": "Macro or 85 mm equivalent",
+        "focus": "One readable contact plane or graphic",
+        "motion": {
+          "type": "locked",
+          "path": "Hold this setup",
+          "endpoint": "Cream paper and signet in red edge light."
+        }
+      },
+      "composition": "Cream paper and signet in red edge light.",
+      "blocking": "Adrian reaches across from right. Elias raises his left wrist.",
+      "subject_motion": "Adrian rolls back Elias’s cuff, then clips the notice. His fingers leave the heading clear.",
+      "environment_motion": "Keep ridge and built geometry fixed. Allow only a trace of wind in coats where visible.",
+      "lighting": "Cool sky from north and local red task light at the bench. West door practical stays amber.",
+      "color": "Cool slate and local red. Radio pilot warm amber where visible.",
+      "sound": [
+        "Adrian mentions the trustees."
+      ],
+      "transition": "Cut to Elias keeping his own paper in reach.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Notice held above bench.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-005",
+            "AS-009"
+          ]
+        },
+        "exit_state": {
+          "summary": "EXCLUSIVE legible on clipped notice.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-005",
+            "AS-009"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "West recorder left, radio right. Camera stays on the south side."
+      },
+      "rule_ids": [
+        "DIR-009",
+        "MIS-007"
+      ],
+      "frame_ids": [
+        "FR-002"
+      ]
+    },
+    {
+      "shot_id": "SH-003",
+      "scene_id": "SC-001",
+      "beat_ids": [
+        "BT-001"
+      ],
+      "purpose": "Let the two friends disagree without breaking their ease",
+      "estimated_duration_s": 12,
+      "shot_size": "MS",
+      "camera": {
+        "viewpoint": "South side of bench on AX-001",
+        "angle": "Eye level toward north",
+        "lens_intent": "40–55 mm equivalent for relationship scale",
+        "focus": "Same focus plane when both speak",
+        "motion": {
+          "type": "locked",
+          "path": "Hold this setup",
+          "endpoint": "Elias left, Adrian right, unsigned notice at lower center."
+        }
+      },
+      "composition": "Elias left, Adrian right, unsigned notice at lower center.",
+      "blocking": "Both stand on their marks at the bench.",
+      "subject_motion": "Elias slides the clipped sheet’s free corner aside and brings his slip into the light. Adrian holds his look.",
+      "environment_motion": "Keep ridge and built geometry fixed. Allow only a trace of wind in coats where visible.",
+      "lighting": "Cool sky from north and local red task light at the bench. West door practical stays amber.",
+      "color": "Cool slate and local red. Radio pilot warm amber where visible.",
+      "sound": [
+        "Prediction and Friday exchange over soft tick."
+      ],
+      "transition": "Cut to the new line on the slip.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Notice covers part of slip.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-004",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-009",
+            "AS-010"
+          ]
+        },
+        "exit_state": {
+          "summary": "Both sheets readable and unsigned.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-004",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-009",
+            "AS-010"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "West recorder left, radio right. Camera stays on the south side."
+      },
+      "rule_ids": [
+        "DRA-005",
+        "CIN-CAM-004"
+      ],
+      "frame_ids": [
+        "FR-003"
+      ]
+    },
+    {
+      "shot_id": "SH-004",
+      "scene_id": "SC-001",
+      "beat_ids": [
+        "BT-001"
+      ],
+      "purpose": "Plant the empty second line",
+      "estimated_duration_s": 12,
+      "shot_size": "CU",
+      "camera": {
+        "viewpoint": "South edge of bench, or overhead with north up",
+        "angle": "Tight steep or square view as noted",
+        "lens_intent": "Macro or 85 mm equivalent",
+        "focus": "One readable contact plane or graphic",
+        "motion": {
+          "type": "locked",
+          "path": "Hold this setup",
+          "endpoint": "Pencil and two horizontal lines. First line filled, second open."
+        }
+      },
+      "composition": "Pencil and two horizontal lines. First line filled, second open.",
+      "blocking": "Elias’s right hand enters from left foreground.",
+      "subject_motion": "He rules the second line and holds the pencil in his right hand.",
+      "environment_motion": "Keep ridge and built geometry fixed. Allow only a trace of wind in coats where visible.",
+      "lighting": "Cool sky from north and local red task light at the bench. West door practical stays amber.",
+      "color": "Cool slate and local red. Radio pilot warm amber where visible.",
+      "sound": [
+        "Pencil scratch and steady night bed."
+      ],
+      "transition": "Hold a beat, then find the two lights.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Slip shows one observer.",
+          "asset_ids": [
+            "AS-001",
+            "AS-005",
+            "AS-008",
+            "AS-009"
+          ]
+        },
+        "exit_state": {
+          "summary": "Second line blank. Elias holds the pencil.",
+          "asset_ids": [
+            "AS-001",
+            "AS-005",
+            "AS-008",
+            "AS-009"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "West recorder left, radio right. Camera stays on the south side."
+      },
+      "rule_ids": [
+        "DRA-008",
+        "EDT-004"
+      ],
+      "frame_ids": [
+        "FR-004"
+      ]
+    },
+    {
+      "shot_id": "SH-005",
+      "scene_id": "SC-002",
+      "beat_ids": [
+        "BT-002"
+      ],
+      "purpose": "Give the audience the control before the event",
+      "estimated_duration_s": 12,
+      "shot_size": "CU",
+      "camera": {
+        "viewpoint": "South edge of bench, or overhead with north up",
+        "angle": "Tight steep or square view as noted",
+        "lens_intent": "Macro or 85 mm equivalent",
+        "focus": "One readable contact plane or graphic",
+        "motion": {
+          "type": "locked",
+          "path": "Hold this setup",
+          "endpoint": "Two similar pale points in a single panel, target left."
+        }
+      },
+      "composition": "Two similar pale points in a single panel, target left.",
+      "blocking": "Elias’s hand remains clear of the display until the point.",
+      "subject_motion": "He sets the pencil beside the recorder, then points to the left light and the right.",
+      "environment_motion": "Keep ridge and built geometry fixed. Allow only a trace of wind in coats where visible.",
+      "lighting": "Cool sky from north and local red task light at the bench. West door practical stays amber.",
+      "color": "Cool slate and local red. Radio pilot warm amber where visible.",
+      "sound": [
+        "Elias identifies target and reference."
+      ],
+      "transition": "Cut back to who will watch.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Both lights steady. Pencil in Elias’s right hand.",
+          "asset_ids": [
+            "AS-007",
+            "AS-009"
+          ]
+        },
+        "exit_state": {
+          "summary": "Both steady, pointing hand clears frame.",
+          "asset_ids": [
+            "AS-007",
+            "AS-009"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "West recorder left, radio right. Camera stays on the south side."
+      },
+      "rule_ids": [
+        "DIR-009",
+        "DRA-008"
+      ],
+      "frame_ids": [
+        "FR-005"
+      ]
+    },
+    {
+      "shot_id": "SH-006",
+      "scene_id": "SC-002",
+      "beat_ids": [
+        "BT-002"
+      ],
+      "purpose": "Make the need for a second witness concrete",
+      "estimated_duration_s": 12,
+      "shot_size": "MS",
+      "camera": {
+        "viewpoint": "South side of bench on AX-001",
+        "angle": "Eye level toward north",
+        "lens_intent": "40–55 mm equivalent for relationship scale",
+        "focus": "Same focus plane when both speak",
+        "motion": {
+          "type": "locked",
+          "path": "Hold this setup",
+          "endpoint": "Faces on opposite thirds, empty line below."
+        }
+      },
+      "composition": "Faces on opposite thirds, empty line below.",
+      "blocking": "Adrian remains right. Elias faces him without leaning in.",
+      "subject_motion": "Elias asks for another observer and turns his gaze toward the valley.",
+      "environment_motion": "Keep ridge and built geometry fixed. Allow only a trace of wind in coats where visible.",
+      "lighting": "Cool sky from north and local red task light at the bench. West door practical stays amber.",
+      "color": "Cool slate and local red. Radio pilot warm amber where visible.",
+      "sound": [
+        "Adrian wants to watch. Elias asks for another telescope."
+      ],
+      "transition": "Cut along Elias’s gaze.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Both looking at the recorder.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-004",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-009",
+            "AS-010"
+          ]
+        },
+        "exit_state": {
+          "summary": "Both looking north-east.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-004",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-009",
+            "AS-010"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "West recorder left, radio right. Camera stays on the south side."
+      },
+      "rule_ids": [
+        "DIR-005",
+        "CIN-CAM-005"
+      ],
+      "frame_ids": [
+        "FR-006"
+      ]
+    },
+    {
+      "shot_id": "SH-007",
+      "scene_id": "SC-002",
+      "beat_ids": [
+        "BT-002"
+      ],
+      "purpose": "Give the second observer a physical place",
+      "estimated_duration_s": 12,
+      "shot_size": "WS",
+      "camera": {
+        "viewpoint": "From south of rail along AX-002",
+        "angle": "Eye height toward valley or a measured upward tilt",
+        "lens_intent": "32–40 mm equivalent for near rim and distant sky",
+        "focus": "Retain a ridge line to anchor the sky",
+        "motion": {
+          "type": "locked",
+          "path": "Hold this setup",
+          "endpoint": "Ridge high, warm school window below the right shoulder."
+        }
+      },
+      "composition": "Ridge high, warm school window below the right shoulder.",
+      "blocking": "Two men outside frame at bench.",
+      "subject_motion": "No subject movement. Let the viewer find the window.",
+      "environment_motion": "Keep ridge and built geometry fixed. Allow only a trace of wind in coats where visible.",
+      "lighting": "Cool sky from north and local red task light at the bench. West door practical stays amber.",
+      "color": "Cool slate and local red. Radio pilot warm amber where visible.",
+      "sound": [
+        "Elias names Nera. Adrian asks about the night school."
+      ],
+      "transition": "Return to Adrian’s upward gaze.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Ridge dark, small window steady.",
+          "asset_ids": [
+            "AS-004",
+            "AS-009",
+            "AS-010"
+          ]
+        },
+        "exit_state": {
+          "summary": "Same window located for both men.",
+          "asset_ids": [
+            "AS-004",
+            "AS-009",
+            "AS-010"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "West recorder left, radio right. Camera stays on the south side."
+      },
+      "rule_ids": [
+        "CIN-CAM-003",
+        "SND-008"
+      ],
+      "frame_ids": [
+        "FR-007"
+      ]
+    },
+    {
+      "shot_id": "SH-008",
+      "scene_id": "SC-002",
+      "beat_ids": [
+        "BT-002"
+      ],
+      "purpose": "Open the larger question without leaving the scene",
+      "estimated_duration_s": 12,
+      "shot_size": "MCU",
+      "camera": {
+        "viewpoint": "South-west of Adrian, still south of the conversation axis",
+        "angle": "Eye level at shoulder height",
+        "lens_intent": "65–75 mm equivalent for the listening face",
+        "focus": "Eyes and near shoulder",
+        "motion": {
+          "type": "locked",
+          "path": "Hold this setup",
+          "endpoint": "Adrian in right third with space toward the valley."
+        }
+      },
+      "composition": "Adrian in right third with space toward the valley.",
+      "blocking": "He remains by east end of bench. Elias stays left outside crop.",
+      "subject_motion": "Adrian looks past the window, then comes back to the bench.",
+      "environment_motion": "Keep ridge and built geometry fixed. Allow only a trace of wind in coats where visible.",
+      "lighting": "Cool sky from north and local red task light at the bench. West door practical stays amber.",
+      "color": "Cool slate and local red. Radio pilot warm amber where visible.",
+      "sound": [
+        "Adrian asks about someone looking back. Elias answers off screen."
+      ],
+      "transition": "Cut to the waiting talk key.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Adrian looking at the window.",
+          "asset_ids": [
+            "AS-002",
+            "AS-004",
+            "AS-009",
+            "AS-010"
+          ]
+        },
+        "exit_state": {
+          "summary": "He looks down at the radio.",
+          "asset_ids": [
+            "AS-002",
+            "AS-004",
+            "AS-009",
+            "AS-010"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "West recorder left, radio right. Camera stays on the south side."
+      },
+      "rule_ids": [
+        "DIR-002",
+        "DRA-010"
+      ],
+      "frame_ids": [
+        "FR-008"
+      ]
+    },
+    {
+      "shot_id": "SH-009",
+      "scene_id": "SC-003",
+      "beat_ids": [
+        "BT-003"
+      ],
+      "purpose": "Show that the call is still private",
+      "estimated_duration_s": 12,
+      "shot_size": "CU",
+      "camera": {
+        "viewpoint": "South edge of bench, or overhead with north up",
+        "angle": "Tight steep or square view as noted",
+        "lens_intent": "Macro or 85 mm equivalent",
+        "focus": "One readable contact plane or graphic",
+        "motion": {
+          "type": "locked",
+          "path": "Hold this setup",
+          "endpoint": "Amber DIRECT pilot and talk key, right signet visible."
+        }
+      },
+      "composition": "Amber DIRECT pilot and talk key, right signet visible.",
+      "blocking": "Adrian’s right hand enters from east side.",
+      "subject_motion": "Finger rests on the key, then presses once.",
+      "environment_motion": "Keep ridge and built geometry fixed. Allow only a trace of wind in coats where visible.",
+      "lighting": "Cool sky from north and local red task light at the bench. West door practical stays amber.",
+      "color": "Cool slate and local red. Radio pilot warm amber where visible.",
+      "sound": [
+        "Direct call and relay hiss."
+      ],
+      "transition": "Cut after the call to his listening face.",
+      "continuity": {
+        "entry_state": {
+          "summary": "DIRECT, amber pilot, key released.",
+          "asset_ids": [
+            "AS-002",
+            "AS-006",
+            "AS-009"
+          ]
+        },
+        "exit_state": {
+          "summary": "DIRECT unchanged, key released after the question.",
+          "asset_ids": [
+            "AS-002",
+            "AS-006",
+            "AS-009"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "West recorder left, radio right. Camera stays on the south side."
+      },
+      "rule_ids": [
+        "MIS-007",
+        "EDT-002"
+      ],
+      "frame_ids": [
+        "FR-009"
+      ]
+    },
+    {
+      "shot_id": "SH-010",
+      "scene_id": "SC-003",
+      "beat_ids": [
+        "BT-003"
+      ],
+      "purpose": "Let a person answer the house",
+      "estimated_duration_s": 12,
+      "shot_size": "MCU",
+      "camera": {
+        "viewpoint": "South-west of Adrian, still south of the conversation axis",
+        "angle": "Eye level at shoulder height",
+        "lens_intent": "65–75 mm equivalent for the listening face",
+        "focus": "Eyes and near shoulder",
+        "motion": {
+          "type": "locked",
+          "path": "Hold this setup",
+          "endpoint": "Adrian and near corner of the radio in the same frame."
+        }
+      },
+      "composition": "Adrian and near corner of the radio in the same frame.",
+      "blocking": "Adrian remains at right, gaze low to the speaker.",
+      "subject_motion": "He listens, then glances left at Elias and asks for the observation.",
+      "environment_motion": "Keep ridge and built geometry fixed. Allow only a trace of wind in coats where visible.",
+      "lighting": "Cool sky from north and local red task light at the bench. West door practical stays amber.",
+      "color": "Cool slate and local red. Radio pilot warm amber where visible.",
+      "sound": [
+        "Nera replies from the speaker. Adrian asks her to record."
+      ],
+      "transition": "Keep her source in place on the next cut.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Awaiting reply.",
+          "asset_ids": [
+            "AS-002",
+            "AS-003",
+            "AS-006",
+            "AS-009"
+          ]
+        },
+        "exit_state": {
+          "summary": "He has heard Nera and asks her to record.",
+          "asset_ids": [
+            "AS-002",
+            "AS-003",
+            "AS-006",
+            "AS-009"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "West recorder left, radio right. Camera stays on the south side."
+      },
+      "rule_ids": [
+        "DIR-002",
+        "SND-008"
+      ],
+      "frame_ids": [
+        "FR-010"
+      ]
+    },
+    {
+      "shot_id": "SH-011",
+      "scene_id": "SC-003",
+      "beat_ids": [
+        "BT-003"
+      ],
+      "purpose": "Give Nera a condition she controls",
+      "estimated_duration_s": 12,
+      "shot_size": "MS",
+      "camera": {
+        "viewpoint": "South side of bench on AX-001",
+        "angle": "Eye level toward north",
+        "lens_intent": "40–55 mm equivalent for relationship scale",
+        "focus": "Same focus plane when both speak",
+        "motion": {
+          "type": "locked",
+          "path": "Hold this setup",
+          "endpoint": "Empty second line between both men, radio at right."
+        }
+      },
+      "composition": "Empty second line between both men, radio at right.",
+      "blocking": "Elias holds at west recorder. Adrian holds at radio.",
+      "subject_motion": "Adrian looks down at the blank line, then agrees aloud.",
+      "environment_motion": "Keep ridge and built geometry fixed. Allow only a trace of wind in coats where visible.",
+      "lighting": "Cool sky from north and local red task light at the bench. West door practical stays amber.",
+      "color": "Cool slate and local red. Radio pilot warm amber where visible.",
+      "sound": [
+        "Nera requests the school name. Adrian agrees."
+      ],
+      "transition": "Cut to the finder being sent.",
+      "continuity": {
+        "entry_state": {
+          "summary": "School unnamed.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-009"
+          ]
+        },
+        "exit_state": {
+          "summary": "Direct agreement given, line still blank until the joint record.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-009"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "West recorder left, radio right. Camera stays on the south side."
+      },
+      "rule_ids": [
+        "DIR-005",
+        "DRA-007"
+      ],
+      "frame_ids": [
+        "FR-011"
+      ]
+    },
+    {
+      "shot_id": "SH-012",
+      "scene_id": "SC-003",
+      "beat_ids": [
+        "BT-003"
+      ],
+      "purpose": "Set the terms of a fair comparison",
+      "estimated_duration_s": 12,
+      "shot_size": "CU",
+      "camera": {
+        "viewpoint": "South edge of bench, or overhead with north up",
+        "angle": "Tight steep or square view as noted",
+        "lens_intent": "Macro or 85 mm equivalent",
+        "focus": "One readable contact plane or graphic",
+        "motion": {
+          "type": "locked",
+          "path": "Hold this setup",
+          "endpoint": "Recorder at left and one send control in foreground."
+        }
+      },
+      "composition": "Recorder at left and one send control in foreground.",
+      "blocking": "Elias’s bare hand enters from left.",
+      "subject_motion": "He sends the finder once and draws his hand away.",
+      "environment_motion": "Keep ridge and built geometry fixed. Allow only a trace of wind in coats where visible.",
+      "lighting": "Cool sky from north and local red task light at the bench. West door practical stays amber.",
+      "color": "Cool slate and local red. Radio pilot warm amber where visible.",
+      "sound": [
+        "Elias tells her to keep her own time."
+      ],
+      "transition": "Let the quiet lead to the telescope.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Target field prepared.",
+          "asset_ids": [
+            "AS-001",
+            "AS-007",
+            "AS-009"
+          ]
+        },
+        "exit_state": {
+          "summary": "Send indicator flashes once and clears.",
+          "asset_ids": [
+            "AS-001",
+            "AS-007",
+            "AS-009"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "West recorder left, radio right. Camera stays on the south side."
+      },
+      "rule_ids": [
+        "DRA-008",
+        "DIR-014"
+      ],
+      "frame_ids": [
+        "FR-012"
+      ]
+    },
+    {
+      "shot_id": "SH-013",
+      "scene_id": "SC-004",
+      "beat_ids": [
+        "BT-004"
+      ],
+      "purpose": "Put the apparatus under observation",
+      "estimated_duration_s": 12,
+      "shot_size": "MS",
+      "camera": {
+        "viewpoint": "South side across the terrace",
+        "angle": "Eye level or slightly low, northward",
+        "lens_intent": "28–35 mm equivalent for geography and sky",
+        "focus": "Friends, roofline and bench readable",
+        "motion": {
+          "type": "locked",
+          "path": "Hold this setup",
+          "endpoint": "Scope silhouette above the bench, clear ridge behind."
+        }
+      },
+      "composition": "Scope silhouette above the bench, clear ridge behind.",
+      "blocking": "Actors remain at bench, scope on fixed pier north of it.",
+      "subject_motion": "Telescope makes one small aim correction then stops.",
+      "environment_motion": "One mount adjustment. Other instruments and lights stay fixed.",
+      "lighting": "Cool sky from north and local red task light at the bench. West door practical stays amber.",
+      "color": "Cool slate and local red. Radio pilot warm amber where visible.",
+      "sound": [
+        "Short motor sound then the night bed."
+      ],
+      "transition": "Cut after the mount settles.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Scope slightly offset on its pier.",
+          "asset_ids": [
+            "AS-004",
+            "AS-007",
+            "AS-009",
+            "AS-010"
+          ]
+        },
+        "exit_state": {
+          "summary": "Scope settled, no further change.",
+          "asset_ids": [
+            "AS-004",
+            "AS-007",
+            "AS-009",
+            "AS-010"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "West recorder left, radio right. Camera stays on the south side."
+      },
+      "rule_ids": [
+        "MIS-012",
+        "DIR-010"
+      ],
+      "frame_ids": [
+        "FR-013"
+      ]
+    },
+    {
+      "shot_id": "SH-014",
+      "scene_id": "SC-004",
+      "beat_ids": [
+        "BT-004"
+      ],
+      "purpose": "Show Adrian choosing to wait",
+      "estimated_duration_s": 12,
+      "shot_size": "MS",
+      "camera": {
+        "viewpoint": "South side of bench on AX-001",
+        "angle": "Eye level toward north",
+        "lens_intent": "40–55 mm equivalent for relationship scale",
+        "focus": "Same focus plane when both speak",
+        "motion": {
+          "type": "locked",
+          "path": "Hold this setup",
+          "endpoint": "Friends and hands around the recorder, radio still on right."
+        }
+      },
+      "composition": "Friends and hands around the recorder, radio still on right.",
+      "blocking": "Elias at left watches the recorder. Adrian keeps right.",
+      "subject_motion": "Adrian takes his hand off the key and watches alongside Elias.",
+      "environment_motion": "Keep ridge and built geometry fixed. Allow only a trace of wind in coats where visible.",
+      "lighting": "Cool sky from north and local red task light at the bench. West door practical stays amber.",
+      "color": "Cool slate and local red. Radio pilot warm amber where visible.",
+      "sound": [
+        "Leave the recorder tick and wind."
+      ],
+      "transition": "Cut to the two-point plate before the change.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Both points steady, hand over radio.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-009"
+          ]
+        },
+        "exit_state": {
+          "summary": "Key clear, both still watching.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-009"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "West recorder left, radio right. Camera stays on the south side."
+      },
+      "rule_ids": [
+        "DIR-005",
+        "EDT-004"
+      ],
+      "frame_ids": [
+        "FR-014"
+      ]
+    },
+    {
+      "shot_id": "SH-015",
+      "scene_id": "SC-004",
+      "beat_ids": [
+        "BT-004"
+      ],
+      "purpose": "Show one clear change and its control",
+      "estimated_duration_s": 12,
+      "shot_size": "CU",
+      "camera": {
+        "viewpoint": "South edge of bench, or overhead with north up",
+        "angle": "Tight steep or square view as noted",
+        "lens_intent": "Macro or 85 mm equivalent",
+        "focus": "One readable contact plane or graphic",
+        "motion": {
+          "type": "locked",
+          "path": "Hold this setup",
+          "endpoint": "Same two-point composition as SH-005. Fixed values except the left point."
+        }
+      },
+      "composition": "Same two-point composition as SH-005. Fixed values except the left point.",
+      "blocking": "No actors or reflections moving over the display.",
+      "subject_motion": "Hold steady four seconds. Left light dips for two seconds and returns. Right holds.",
+      "environment_motion": "Keep ridge and built geometry fixed. Allow only a trace of wind in coats where visible.",
+      "lighting": "Cool sky from north and local red task light at the bench. West door practical stays amber.",
+      "color": "Cool slate and local red. Radio pilot warm amber where visible.",
+      "sound": [
+        "Allow the room to hold through the dip. No hit sound."
+      ],
+      "transition": "Cut after the return.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Both points steady.",
+          "asset_ids": [
+            "AS-007",
+            "AS-009"
+          ]
+        },
+        "exit_state": {
+          "summary": "Both points steady again.",
+          "asset_ids": [
+            "AS-007",
+            "AS-009"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "West recorder left, radio right. Camera stays on the south side."
+      },
+      "rule_ids": [
+        "EDT-002",
+        "LGT-010"
+      ],
+      "frame_ids": [
+        "FR-015",
+        "FR-027",
+        "FR-028"
+      ]
+    },
+    {
+      "shot_id": "SH-016",
+      "scene_id": "SC-004",
+      "beat_ids": [
+        "BT-004"
+      ],
+      "purpose": "Record the hill result before the valley speaks",
+      "estimated_duration_s": 12,
+      "shot_size": "CU",
+      "camera": {
+        "viewpoint": "South edge of bench, or overhead with north up",
+        "angle": "Tight steep or square view as noted",
+        "lens_intent": "Macro or 85 mm equivalent",
+        "focus": "One readable contact plane or graphic",
+        "motion": {
+          "type": "locked",
+          "path": "Hold this setup",
+          "endpoint": "Tight slip with blank second line and penciled time marks."
+        }
+      },
+      "composition": "Tight slip with blank second line and penciled time marks.",
+      "blocking": "Elias writes from left. Adrian’s fingers stay out of the writing area.",
+      "subject_motion": "Elias writes 21–23 and sets pencil down at west edge.",
+      "environment_motion": "Keep ridge and built geometry fixed. Allow only a trace of wind in coats where visible.",
+      "lighting": "Cool sky from north and local red task light at the bench. West door practical stays amber.",
+      "color": "Cool slate and local red. Radio pilot warm amber where visible.",
+      "sound": [
+        "Pencil and Elias asking Nera to read first."
+      ],
+      "transition": "Cut to the waiting listener before her answer.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Time unmarked, second line blank.",
+          "asset_ids": [
+            "AS-001",
+            "AS-005",
+            "AS-008",
+            "AS-009"
+          ]
+        },
+        "exit_state": {
+          "summary": "Hill time marked, second line blank.",
+          "asset_ids": [
+            "AS-001",
+            "AS-005",
+            "AS-008",
+            "AS-009"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "West recorder left, radio right. Camera stays on the south side."
+      },
+      "rule_ids": [
+        "DRA-010",
+        "MIS-007"
+      ],
+      "frame_ids": [
+        "FR-016"
+      ]
+    },
+    {
+      "shot_id": "SH-017",
+      "scene_id": "SC-004",
+      "beat_ids": [
+        "BT-004"
+      ],
+      "purpose": "Let Adrian hear the second result",
+      "estimated_duration_s": 12,
+      "shot_size": "MCU",
+      "camera": {
+        "viewpoint": "South-west of Adrian, still south of the conversation axis",
+        "angle": "Eye level at shoulder height",
+        "lens_intent": "65–75 mm equivalent for the listening face",
+        "focus": "Eyes and near shoulder",
+        "motion": {
+          "type": "locked",
+          "path": "Hold this setup",
+          "endpoint": "Radio edge below right. Slip just below his gaze."
+        }
+      },
+      "composition": "Radio edge below right. Slip just below his gaze.",
+      "blocking": "Adrian stays east and looks down at the slip.",
+      "subject_motion": "He listens through the numbers and checks the pencil marks once.",
+      "environment_motion": "Keep ridge and built geometry fixed. Allow only a trace of wind in coats where visible.",
+      "lighting": "Cool sky from north and local red task light at the bench. West door practical stays amber.",
+      "color": "Cool slate and local red. Radio pilot warm amber where visible.",
+      "sound": [
+        "Nera’s line after a brief wait. Leave the reaction quiet."
+      ],
+      "transition": "Cut from the listener to both pages.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Elias’s result written, Nera’s result unknown to him.",
+          "asset_ids": [
+            "AS-002",
+            "AS-003",
+            "AS-005",
+            "AS-006",
+            "AS-009"
+          ]
+        },
+        "exit_state": {
+          "summary": "Adrian has matched the reports.",
+          "asset_ids": [
+            "AS-002",
+            "AS-003",
+            "AS-005",
+            "AS-006",
+            "AS-009"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "West recorder left, radio right. Camera stays on the south side."
+      },
+      "rule_ids": [
+        "DIR-002",
+        "SND-008"
+      ],
+      "frame_ids": [
+        "FR-017"
+      ]
+    },
+    {
+      "shot_id": "SH-018",
+      "scene_id": "SC-005",
+      "beat_ids": [
+        "BT-005"
+      ],
+      "purpose": "Put the old announcement and new evidence together",
+      "estimated_duration_s": 12,
+      "shot_size": "CU",
+      "camera": {
+        "viewpoint": "South edge of bench, or overhead with north up",
+        "angle": "Tight steep or square view as noted",
+        "lens_intent": "Macro or 85 mm equivalent",
+        "focus": "One readable contact plane or graphic",
+        "motion": {
+          "type": "locked",
+          "path": "Hold this setup",
+          "endpoint": "Notice to left, marked slip to right in same light."
+        }
+      },
+      "composition": "Notice to left, marked slip to right in same light.",
+      "blocking": "Adrian’s right hand brings notice next to slip.",
+      "subject_motion": "He places the pages side by side, holds them still and asks the name.",
+      "environment_motion": "Keep ridge and built geometry fixed. Allow only a trace of wind in coats where visible.",
+      "lighting": "Cool sky from north and local red task light at the bench. West door practical stays amber.",
+      "color": "Cool slate and local red. Radio pilot warm amber where visible.",
+      "sound": [
+        "Question and Nera’s name over paper contact."
+      ],
+      "transition": "Cut to the offered pencil.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Notice unmarked, slip has hill time.",
+          "asset_ids": [
+            "AS-002",
+            "AS-003",
+            "AS-005",
+            "AS-009"
+          ]
+        },
+        "exit_state": {
+          "summary": "Both pages adjacent. School has given its name.",
+          "asset_ids": [
+            "AS-002",
+            "AS-003",
+            "AS-005",
+            "AS-009"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "West recorder left, radio right. Camera stays on the south side."
+      },
+      "rule_ids": [
+        "DIR-009",
+        "MIS-007"
+      ],
+      "frame_ids": [
+        "FR-018"
+      ]
+    },
+    {
+      "shot_id": "SH-019",
+      "scene_id": "SC-005",
+      "beat_ids": [
+        "BT-005"
+      ],
+      "purpose": "Let the first public decision start on paper",
+      "estimated_duration_s": 12,
+      "shot_size": "CU",
+      "camera": {
+        "viewpoint": "South edge of bench, or overhead with north up",
+        "angle": "Tight steep or square view as noted",
+        "lens_intent": "Macro or 85 mm equivalent",
+        "focus": "One readable contact plane or graphic",
+        "motion": {
+          "type": "locked",
+          "path": "Hold this setup",
+          "endpoint": "Right signet, pencil, one word and the spare line."
+        }
+      },
+      "composition": "Right signet, pencil, one word and the spare line.",
+      "blocking": "Elias hands pencil from left. Adrian takes it in his right.",
+      "subject_motion": "Adrian strikes EXCLUSIVE and writes on the open line. Plan readable text as a plate.",
+      "environment_motion": "Keep ridge and built geometry fixed. Allow only a trace of wind in coats where visible.",
+      "lighting": "Cool sky from north and local red task light at the bench. West door practical stays amber.",
+      "color": "Cool slate and local red. Radio pilot warm amber where visible.",
+      "sound": [
+        "One pencil scratch. Let it finish."
+      ],
+      "transition": "Cut as the hand leaves the paper.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Both lines as before. Pencil with Elias.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-005",
+            "AS-008",
+            "AS-009"
+          ]
+        },
+        "exit_state": {
+          "summary": "Notice struck, Nera named, pencil in Adrian’s right hand.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-005",
+            "AS-008",
+            "AS-009"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "West recorder left, radio right. Camera stays on the south side."
+      },
+      "rule_ids": [
+        "DRA-007",
+        "MIS-012"
+      ],
+      "frame_ids": [
+        "FR-019"
+      ]
+    },
+    {
+      "shot_id": "SH-020",
+      "scene_id": "SC-005",
+      "beat_ids": [
+        "BT-005"
+      ],
+      "purpose": "Make the change of audience visible",
+      "estimated_duration_s": 12,
+      "shot_size": "CU",
+      "camera": {
+        "viewpoint": "South edge of bench, or overhead with north up",
+        "angle": "Tight steep or square view as noted",
+        "lens_intent": "Macro or 85 mm equivalent",
+        "focus": "One readable contact plane or graphic",
+        "motion": {
+          "type": "locked",
+          "path": "Hold this setup",
+          "endpoint": "Same radio framing as SH-009. Guard and pilot clear."
+        }
+      },
+      "composition": "Same radio framing as SH-009. Guard and pilot clear.",
+      "blocking": "Adrian sets pencil across the log and reaches right toward selector.",
+      "subject_motion": "He lifts the guard and moves the selector to OPEN. Pilot turns pale cyan.",
+      "environment_motion": "Keep ridge and built geometry fixed. Allow only a trace of wind in coats where visible.",
+      "lighting": "Cool sky from north and local red task light at the bench. West door practical stays amber.",
+      "color": "Cool slate and local red. Radio pilot pale cyan where visible.",
+      "sound": [
+        "Guard and switch clicks, short open-line tone."
+      ],
+      "transition": "Hold the new pilot before he speaks.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Guard closed, DIRECT selected.",
+          "asset_ids": [
+            "AS-002",
+            "AS-006",
+            "AS-009"
+          ]
+        },
+        "exit_state": {
+          "summary": "Guard up, OPEN selected and steady.",
+          "asset_ids": [
+            "AS-002",
+            "AS-006",
+            "AS-009"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "West recorder left, radio right. Camera stays on the south side."
+      },
+      "rule_ids": [
+        "DRA-007",
+        "EDT-002"
+      ],
+      "frame_ids": [
+        "FR-029",
+        "FR-020"
+      ]
+    },
+    {
+      "shot_id": "SH-021",
+      "scene_id": "SC-005",
+      "beat_ids": [
+        "BT-005"
+      ],
+      "purpose": "Give both names one uninterrupted read",
+      "estimated_duration_s": 12,
+      "shot_size": "MCU",
+      "camera": {
+        "viewpoint": "South-west of Adrian, still south of the conversation axis",
+        "angle": "Eye level at shoulder height",
+        "lens_intent": "65–75 mm equivalent for the listening face",
+        "focus": "Eyes and near shoulder",
+        "motion": {
+          "type": "locked",
+          "path": "Hold this setup",
+          "endpoint": "Adrian and radio with the joint log at lower left."
+        }
+      },
+      "composition": "Adrian and radio with the joint log at lower left.",
+      "blocking": "Adrian holds talk key with right hand and looks at the slip.",
+      "subject_motion": "He reads both names steadily and releases the key.",
+      "environment_motion": "Keep ridge and built geometry fixed. Allow only a trace of wind in coats where visible.",
+      "lighting": "Cool sky from north and local red task light at the bench. West door practical stays amber.",
+      "color": "Cool slate and local red. Radio pilot pale cyan where visible.",
+      "sound": [
+        "Joint notice in one calm breath, then a gap."
+      ],
+      "transition": "Cut on key release to Elias.",
+      "continuity": {
+        "entry_state": {
+          "summary": "OPEN selected. Both names on the log.",
+          "asset_ids": [
+            "AS-002",
+            "AS-003",
+            "AS-005",
+            "AS-006",
+            "AS-009"
+          ]
+        },
+        "exit_state": {
+          "summary": "Key released, OPEN remains lit.",
+          "asset_ids": [
+            "AS-002",
+            "AS-003",
+            "AS-005",
+            "AS-006",
+            "AS-009"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "West recorder left, radio right. Camera stays on the south side."
+      },
+      "rule_ids": [
+        "DIR-001",
+        "SND-008"
+      ],
+      "frame_ids": [
+        "FR-021"
+      ]
+    },
+    {
+      "shot_id": "SH-022",
+      "scene_id": "SC-005",
+      "beat_ids": [
+        "BT-005"
+      ],
+      "purpose": "Let the friends accept the consequence",
+      "estimated_duration_s": 12,
+      "shot_size": "MS",
+      "camera": {
+        "viewpoint": "South side of bench on AX-001",
+        "angle": "Eye level toward north",
+        "lens_intent": "40–55 mm equivalent for relationship scale",
+        "focus": "Same focus plane when both speak",
+        "motion": {
+          "type": "locked",
+          "path": "Hold this setup",
+          "endpoint": "Adrian and Elias share the frame, finished slip foreground."
+        }
+      },
+      "composition": "Adrian and Elias share the frame, finished slip foreground.",
+      "blocking": "Elias left, Adrian right, pencil resting across names.",
+      "subject_motion": "Elias says they will send both logs. Adrian leaves the pages where they are.",
+      "environment_motion": "Keep ridge and built geometry fixed. Allow only a trace of wind in coats where visible.",
+      "lighting": "Cool sky from north and local red task light at the bench. West door practical stays amber.",
+      "color": "Cool slate and local red. Radio pilot pale cyan where visible.",
+      "sound": [
+        "Elias’s line, then night air."
+      ],
+      "transition": "Hold his upward glance into the next beat.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Public line open, notice edited.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-009"
+          ]
+        },
+        "exit_state": {
+          "summary": "Both men at rest. Adrian looks past the bench.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-009"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "West recorder left, radio right. Camera stays on the south side."
+      },
+      "rule_ids": [
+        "DRA-017",
+        "DIR-014"
+      ],
+      "frame_ids": [
+        "FR-022"
+      ]
+    },
+    {
+      "shot_id": "SH-023",
+      "scene_id": "SC-006",
+      "beat_ids": [
+        "BT-006"
+      ],
+      "purpose": "Let Adrian ask to be shown",
+      "estimated_duration_s": 13,
+      "shot_size": "MS",
+      "camera": {
+        "viewpoint": "South side of bench on AX-001",
+        "angle": "Eye level toward north",
+        "lens_intent": "40–55 mm equivalent for relationship scale",
+        "focus": "Same focus plane when both speak",
+        "motion": {
+          "type": "locked",
+          "path": "Hold this setup",
+          "endpoint": "Adrian on right with speaker below and dark space beyond rail."
+        }
+      },
+      "composition": "Adrian on right with speaker below and dark space beyond rail.",
+      "blocking": "He is still within reach of the talk key, Elias one step back.",
+      "subject_motion": "Adrian keys the mic, asks where to look and releases for Nera’s answer.",
+      "environment_motion": "Keep ridge and built geometry fixed. Allow only a trace of wind in coats where visible.",
+      "lighting": "Cool sky from north. Red task and amber door lights stay at their mapped positions behind the rail.",
+      "color": "Cool slate and local red. Radio pilot pale cyan where visible.",
+      "sound": [
+        "His question. Nera locates her window."
+      ],
+      "transition": "Use the last word as the movement cue.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Open pilot, men by bench.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-009",
+            "AS-010"
+          ]
+        },
+        "exit_state": {
+          "summary": "Key released, both ready to move north.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-003",
+            "AS-004",
+            "AS-005",
+            "AS-006",
+            "AS-007",
+            "AS-008",
+            "AS-009",
+            "AS-010"
+          ]
+        },
+        "axis_id": "AX-001",
+        "screen_direction": "West recorder left, radio right. Camera stays on the south side."
+      },
+      "rule_ids": [
+        "DIR-005",
+        "SND-008"
+      ],
+      "frame_ids": [
+        "FR-023"
+      ]
+    },
+    {
+      "shot_id": "SH-024",
+      "scene_id": "SC-006",
+      "beat_ids": [
+        "BT-006"
+      ],
+      "purpose": "Move the men from apparatus to sky",
+      "estimated_duration_s": 13,
+      "shot_size": "WS",
+      "camera": {
+        "viewpoint": "South side across the terrace",
+        "angle": "Eye level or slightly low, northward",
+        "lens_intent": "28–35 mm equivalent for geography and sky",
+        "focus": "Friends, roofline and bench readable",
+        "motion": {
+          "type": "locked",
+          "path": "Hold this setup",
+          "endpoint": "Bench foreground, rail at upper edge, ridge beyond."
+        }
+      },
+      "composition": "Bench foreground, rail at upper edge, ridge beyond.",
+      "blocking": "Elias goes left of Adrian. They keep that order to the rail.",
+      "subject_motion": "Both take a few steps north and settle. Their backs leave the bench visible.",
+      "environment_motion": "Keep ridge and built geometry fixed. Allow only a trace of wind in coats where visible.",
+      "lighting": "Cool sky from north. Red task and amber door lights stay at their mapped positions behind the rail.",
+      "color": "Cool slate and local red. Radio pilot pale cyan where visible.",
+      "sound": [
+        "Speaker recedes in perspective. Boots and night wind."
+      ],
+      "transition": "Cut once both stop at the rail.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Men beside bench.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-004",
+            "AS-009",
+            "AS-010"
+          ]
+        },
+        "exit_state": {
+          "summary": "Men at rail, radio behind them and still open.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-004",
+            "AS-009",
+            "AS-010"
+          ]
+        },
+        "axis_id": "AX-002",
+        "screen_direction": "Pair faces north in the same left-right order. Profile stays on the terrace side of the rail."
+      },
+      "rule_ids": [
+        "CIN-CAM-004",
+        "SND-004"
+      ],
+      "frame_ids": [
+        "FR-024"
+      ]
+    },
+    {
+      "shot_id": "SH-025",
+      "scene_id": "SC-006",
+      "beat_ids": [
+        "BT-006"
+      ],
+      "purpose": "Hold the change on Adrian’s face",
+      "estimated_duration_s": 13,
+      "shot_size": "MCU",
+      "camera": {
+        "viewpoint": "East end of the north rail, on the terrace side",
+        "angle": "Eye level in profile, looking west along the stone",
+        "lens_intent": "65–75 mm equivalent for the eye and hand",
+        "focus": "Keep the resting hand and profile on one readable plane",
+        "motion": {
+          "type": "locked",
+          "path": "Hold this setup",
+          "endpoint": "Open right hand on stone at bottom, face turned slightly north."
+        }
+      },
+      "composition": "Open right hand on stone at bottom, face turned slightly north.",
+      "blocking": "Adrian right at rail. Elias stays to his left outside crop.",
+      "subject_motion": "Adrian finds the light down-right, then lifts his chin above the ridge. Hand relaxes.",
+      "environment_motion": "Keep ridge and built geometry fixed. Allow only a trace of wind in coats where visible.",
+      "lighting": "Cool sky from north. Red task and amber door lights stay at their mapped positions behind the rail.",
+      "color": "Cool slate and local red. Radio pilot pale cyan where visible.",
+      "sound": [
+        "No speech. Stable wind."
+      ],
+      "transition": "Cut on the end of his look.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Eyes below ridge and fingers curved.",
+          "asset_ids": [
+            "AS-002",
+            "AS-004",
+            "AS-009",
+            "AS-010"
+          ]
+        },
+        "exit_state": {
+          "summary": "Eyes skyward, palm resting open on rail.",
+          "asset_ids": [
+            "AS-002",
+            "AS-004",
+            "AS-009",
+            "AS-010"
+          ]
+        },
+        "axis_id": "AX-002",
+        "screen_direction": "Pair faces north in the same left-right order. Profile stays on the terrace side of the rail."
+      },
+      "rule_ids": [
+        "DIR-002",
+        "CIN-CAM-005"
+      ],
+      "frame_ids": [
+        "FR-025"
+      ]
+    },
+    {
+      "shot_id": "SH-026",
+      "scene_id": "SC-006",
+      "beat_ids": [
+        "BT-006"
+      ],
+      "purpose": "Leave room for a shared view",
+      "estimated_duration_s": 13,
+      "shot_size": "EWS",
+      "camera": {
+        "viewpoint": "From south of rail along AX-002",
+        "angle": "Eye height toward valley or a measured upward tilt",
+        "lens_intent": "32–40 mm equivalent for near rim and distant sky",
+        "focus": "Retain a ridge line to anchor the sky",
+        "motion": {
+          "type": "locked",
+          "path": "Hold this setup",
+          "endpoint": "Small shoulders below, window under same right shoulder of ridge, stars open above."
+        }
+      },
+      "composition": "Small shoulders below, window under same right shoulder of ridge, stars open above.",
+      "blocking": "Both friends face north in their established left and right order.",
+      "subject_motion": "Bodies remain at rest. The frame holds through the end of picture.",
+      "environment_motion": "Keep ridge and built geometry fixed. Allow only a trace of wind in coats where visible.",
+      "lighting": "Cool sky from north. Red task and amber door lights stay at their mapped positions behind the rail.",
+      "color": "Cool slate and local red. Radio pilot pale cyan where visible.",
+      "sound": [
+        "Continuous night bed and no new cue."
+      ],
+      "transition": "Cut after the hold, let wind tail into credits.",
+      "continuity": {
+        "entry_state": {
+          "summary": "Sky above familiar ridge. Both faces out of view.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-004",
+            "AS-009",
+            "AS-010"
+          ]
+        },
+        "exit_state": {
+          "summary": "Same view as the film cuts to credits.",
+          "asset_ids": [
+            "AS-001",
+            "AS-002",
+            "AS-004",
+            "AS-009",
+            "AS-010"
+          ]
+        },
+        "axis_id": "AX-002",
+        "screen_direction": "Pair faces north in the same left-right order. Profile stays on the terrace side of the rail."
+      },
+      "rule_ids": [
+        "DRA-017",
+        "LGT-010"
+      ],
+      "frame_ids": [
+        "FR-026"
+      ]
+    }
+  ]
+}
