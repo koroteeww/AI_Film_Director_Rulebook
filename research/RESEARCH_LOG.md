@@ -77,3 +77,9 @@ Published 14 montage and editing rules and selected 28 starter rules across the 
 Started with the three supplied Morphic links. Compared the ByteDance Seed 2.0 and 2.5 announcements, Volcengine Ark capabilities and Chinese prompt guidance, the indexed BytePlus model list, fal schemas, and Dreamina's standard versus beta mode description. ByteDance's release and named interfaces document up to 30 seconds in a Seedance 2.5 generation. Published profiles retain the exact mode and evidence. Standard 2.0 can list 4K while verified 2.5 API generation lists through 1080p. The 15-second default remains the rulebook planning constraint.
 
 Time-directed editing is documented separately from the reliability of requested beat timing in new generation. Prompt-based keyframe guidance differs from dedicated input roles. Mode and platform differences apply to edit duration, reference caps and output format. No footage generation was performed. The timing experiment and scene review checks remain procedures for production.
+
+## M10 · AI failure modes · 2026-11-06
+
+Compared the reference-binding advice from Volcengine and Morphic, VBench's separate evaluation dimensions, EvalVerse's pipeline-oriented research, and the Oxford audiovisual lag research. The model's internal cause is generally unavailable from an artifact alone. The matrix therefore labels likely contributors and uses observable detections and reversible repairs.
+
+The production loop retains original takes and compares each revised output both by itself and in the cut. It records severity, source evidence, one changed variable per retry where practical, and a recovery decision.
