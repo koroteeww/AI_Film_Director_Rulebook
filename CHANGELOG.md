@@ -5,3 +5,4 @@
 - Initialized the research roadmap, progress checkpoint, source register, and policy for user film projects.
 
 - Completed M01 with a public curriculum comparison for seven film schools, two research lineage guides, and 52 source records.
+- Completed M02 with 17 dramaturgy rules, the first machine-readable catalog entries, and short-form pacing budgets.

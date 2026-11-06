@@ -29,3 +29,9 @@ The historical accounts and modern Kuleshov experiment answer different question
 ### Decisions and uncertainties
 
 Record curriculum, craft theory, original work, applied practitioner accounts, scholarship, and AI inferences separately. Indexed or catalogued works remain usable for identification only. Detailed applications of several books still require accessible passages. Carry the verification limits into the [open questions](open_questions.md).
+
+## M02 · Dramaturgy · 2026-11-06
+
+Compared Aristotle's plot unity and reversal, McKee's scene exercise, Truby and Egri on motivation and resistance, Field and Vogler on structure, and the author interviews. Read Chekhov's letter in the academic chronicle and the available text of the play. Added Bordwell's discussion of Hitchcock's restricted and widened narration, a short-film teaching pack, and an official studio synopsis.
+
+The sources offer different purposes for a scene. McKee's change test is useful for dramatic progression. A durational or observational scene may contribute through attention, repetition or accumulated pressure. Landau and Vogler describe flexible structure. The runtime budgets, AI field mappings and validation tasks are rulebook adaptations. Actual shot lengths are a later editorial decision.
