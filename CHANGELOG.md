@@ -7,3 +7,4 @@
 - Completed M01 with a public curriculum comparison for seven film schools, two research lineage guides, and 52 source records.
 - Completed M02 with 17 dramaturgy rules, the first machine-readable catalog entries, and short-form pacing budgets.
 - Completed M03 with 14 directing rules and a five-pass rehearsal-to-coverage method.
+- Completed M04 with 18 camera, composition and continuity rules and a shot-geometry planning method.

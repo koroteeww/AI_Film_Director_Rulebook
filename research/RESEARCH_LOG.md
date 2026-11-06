@@ -41,3 +41,9 @@ The sources offer different purposes for a scene. McKee's change test is useful 
 Read AFI course descriptions, Weston's own summary, Stanislavski's action chapter, the Michael Chekhov technique page, and the director accounts. Lumet describes staging after table work on one production. Tarkovsky's republished 1967 essay supports the contrast between duration within a shot and editorial assembly. BFI's Kurosawa analysis provides setting examples. The publisher-linked Weston sample returned 403, so use the author summary for specific tools.
 
 Actor rehearsal methods and motion prompting serve different operations. The rules retain intention and given circumstances in the scene plan and translate only the visible or audible behavior into the clip. The proposed coverage and timing checks require animatic or footage review.
+
+## M04 · Cinematography and camera movement · 2026-11-06
+
+Compared ACMI shot and movement materials, ASC placement and lens-distortion guides, the Fujifilm position comparison, Nikon aperture guidance, and Smith's account of continuity and attention. The sources distinguish framing from position, and a change in viewpoint from a change in field of view. Continuity conventions guide viewer orientation. Deliberate axis and angle changes can serve a different effect.
+
+Defined separate camera and subject instructions, including fixed-view rotation, translation, zoom, focus target and endpoint. The described optical effects need visual verification when a generative system offers only prompt-level controls.
