@@ -2,9 +2,9 @@
 
 | Checkpoint | Value |
 | --- | --- |
-| Current milestone | M08 · Montage and editing |
-| Last update | 2026-11-06 09:36, Asia/Qyzylorda (UTC+05:00) |
-| Prior confirmed commit | [a2e18c80](https://github.com/koroteeww/AI_Film_Director_Rulebook/commit/a2e18c80a6a2180e7bfa3eb7cb1505e14db96c33) |
+| Current milestone | M09 · Seedance capabilities |
+| Last update | 2026-11-06 09:40, Asia/Qyzylorda (UTC+05:00) |
+| Prior confirmed commit | [b228e8e1](https://github.com/koroteeww/AI_Film_Director_Rulebook/commit/b228e8e14920de2f4ab5f1bfec44eb1706f9ff27) |
 | Checkpoint commit | [Latest change to PROGRESS.md](https://github.com/koroteeww/AI_Film_Director_Rulebook/commits/main/PROGRESS.md) · `git log -1 --format=%H -- PROGRESS.md` |
 
 | Milestone | Status |
@@ -17,8 +17,8 @@
 | M05 · Mise-en-scène | Complete |
 | M06 · Lighting and color | Complete |
 | M07 · Sound | Complete |
-| M08 · Montage and editing | Next |
-| M09 · Seedance capabilities | Planned |
+| M08 · Montage and editing | Complete |
+| M09 · Seedance capabilities | Next |
 | M10 · Generation failures | Planned |
 | M11 · Production workflow | Planned |
 | M12 · Prompts and schemas | Planned |
@@ -28,16 +28,16 @@
 
 ## Latest completed documents
 
-[Sound design rulebook](rulebooks/06_sound_design.md) · [Rule catalog](rules/rule_catalog.yaml)
+[Montage and editing rulebook](rulebooks/07_montage_and_editing.md) · [28 starter rules](rules/priority_rules.md) · [Full catalog](rules/rule_catalog.yaml)
 
 ## Research coverage
 
-86 cited rules across six domains. Thirteen sound rules cover audible storytelling, layer design, intelligibility, sync, perspective, bridges and delivery checks.
+All seven cinematic domains are documented. The YAML catalog contains 100 rules and the starter set references 28 of them.
 
 ## Outstanding questions and limits
 
-Delivery targets depend on the destination. Adobe describes the split-edit technique, and CapCut-specific implementation is verified in M11.
+Historical montage theories and Murch's hierarchy are craft approaches with scope and exceptions. The Kuleshov effect has bounded empirical support, as documented.
 
 ## Next action
 
-Compare continuity editing with the montage traditions and publish the cross-domain beginner shortlist.
+Verify Seedance 2.0, any officially identified 2.5 interface, duration, references, audio and generation modes. Record limits by provider.

@@ -65,3 +65,9 @@ Continuity separates source direction and state in world coordinates, apparent c
 Compared Chion's audiovisual account, Wolfson's annotation, Randy Thom's essay, Adobe's sound and split-edit materials, and the EBU loudness recommendation. Used the verified СПбГИКиТ plan for the Russian film sound terminology. The distinction between diegetic and non-diegetic concerns the fictional world. Foley or generated effects can represent events within that world even when they are added in post.
 
 The audio workflow tracks one scene bed, selected dialogue and sync points, cue ownership, perspective, editable layers and overlaps. Delivery measurements must come from the actual specification or a stated working target.
+
+## M08 · Montage and editing · 2026-11-06
+
+Compared Smith, the ACMI editing curriculum, Eisenstein's Methods of Montage, Pudovkin's selections and Cameron's analysis, Vertov's manifesto and BFI film record, Tarkovsky's original essay, and Murch's Rule of Six. The approaches answer different practical questions about spatial continuity, shot relations, emotion, and duration. The bounded Kuleshov replication supports testing a contextual reading without treating an interpretation as guaranteed.
+
+Published 14 montage and editing rules and selected 28 starter rules across the seven domains. Catalog checks confirm that all 100 stable rule IDs are unique and that each rule points to registered evidence and valid related IDs.

@@ -11,3 +11,4 @@
 - Completed M05 with 12 mise-en-scène rules and a visual-bible state handoff.
 - Completed M06 with 12 lighting and color rules and a shot-matching workflow.
 - Completed M07 with 13 sound rules and a scene-level mix workflow for independent clips.
+- Completed M08 with 14 editing rules and a 28-rule starter set. The seven domains contain 100 cited rules.
