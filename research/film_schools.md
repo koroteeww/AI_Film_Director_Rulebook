@@ -1,0 +1,21 @@
+# M01 · Film-school research
+
+The comparison uses official public curriculum descriptions and one published Russian intake plan. The practical transfers in the right column are proposals for the rulebook. They are phrased as tasks an LLM can execute and check.
+
+| Institution | Public evidence | Transfer to a 3–7 minute short |
+| --- | --- | --- |
+| AFI Conservatory | First-year directors study cycle-film cuts, actor preparation, point of view, visual storytelling and the rationale for shots, moves and edits. [SRC-AFI-DIR](../sources/bibliography.md#src-afi-dir) | Review a cut against the script. For each beat, ask what the camera or performance makes the viewer notice and whether the cut delivers that purpose. |
+| USC School of Cinematic Arts | Production learning objectives join coherent image and sound, collaboration, and applied work in more than one craft. [SRC-USC-PROD](../sources/bibliography.md#src-usc-prod) | At handoff, compare the direction, camera, design and audio plans against one dramatic objective. Identify contradictions before generating. |
+| UCLA Theater, Film and Television | The narrative Production/Directing program moves from collaborative foundations into mentored projects and a thesis. The published course list includes coverage, actor direction, short scripts and sound postproduction. [SRC-UCLA-DIR](../sources/bibliography.md#src-ucla-dir) | Separate an inexpensive coverage rehearsal from the intended visual style. Use the test to revise technique while preserving the user's creative intention. |
+| NYU Tisch Graduate Film | Three first-year exercises separate silent cinematic storytelling, behavioral observation, and an integrated 7-minute sync-sound narrative. The latter caps actors, locations and scenes at three each. [SRC-NYU-GRAD](../sources/bibliography.md#src-nyu-grad) | Test the silent cut for legible actions. Then add dialogue and sound for information or emotion the images alone cannot supply. Use the three-part cap as an optional exercise. |
+| National Film and Television School | Its Directing Fiction outline describes at least three collaborative shorts, script interpretation, actor direction, expressive editing and sound, and leadership around an artistic vision. [SRC-NFTS-DIR](../sources/bibliography.md#src-nfts-dir) | State an interpretation of a scene, then let camera, sound and edit make separate contributions. Test whether an alternate interpretation still fits the user's premise. |
+| ВГИК им. С. А. Герасимова | The public department roster names individual fiction-directing workshops and identifies montage teaching in some of them. [SRC-VGIK-DIR](../sources/bibliography.md#src-vgik-dir) | Keep decisions and critiques for each pass. Give the director's interpretation and the cut a shared review while allowing different working methods. |
+| СПбГИКиТ | The 2026 fiction-directing plan includes кинодраматургия, работа режиссёра с актёром, теория и практика монтажа, кинооператорское мастерство and звуковое решение фильма. [SRC-GIKIT-PLAN](../sources/bibliography.md#src-gikit-plan) | Check script, acting, montage, cinematography and the sound concept together at scene review. Use the Russian discipline names as retrieval terms. |
+
+## Three rehearsal passes
+
+1. **Dramatic legibility.** Read the scene outline and list what a viewer can infer through action before dialogue explains it. Ask which image or sound carries each inference. Use a silent sketch for an action-led beat and a transcript for a speech-led one.
+2. **Coverage and viewpoint.** Sketch two ways to stage the same beat. Compare the actor's playable action, the viewer's information, the placement of the cut, and the burden of generating continuity. Select the version that serves the scene.
+3. **Integration.** Check a short animatic or timeline against the dramatic intention. Identify one improvement each in performance, geography and sound before planning more footage. Assign each fix to screenplay, staging, generation or edit.
+
+An objectives page can support a curriculum-level comparison. A specific course or intake plan can identify named assignments and disciplines. The exercises above belong to this rulebook and can be validated by the resulting scene plans or cuts.
